@@ -1,0 +1,1001 @@
+loan_application_id,applicant_id,Months_loan_taken_for,Purpose,Principal_loan_amount,EMI_rate_in_percentage_of_disposable_income,Property,Has_coapplicant,Has_guarantor,Other_EMI_plans,Number_of_existing_loans_at_this_bank,Loan_history,high_risk_applicant
+d68d975e-edad-11ea-8761-1d6f9c1ff461,1469590,6,electronic equipment,1169000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68d989e-edad-11ea-b1d5-2bcf65006448,1203873,48,electronic equipment,5951000,2,real estate,0,0,,1,existing loans paid back duly till now,1
+d68d995c-edad-11ea-814a-1b6716782575,1432761,12,education,2096000,2,real estate,0,0,,1,critical/pending loans at other banks,0
+d68d99fc-edad-11ea-8841-17e8848060ae,1207582,42,FF&E,7882000,2,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68d9a92-edad-11ea-9f3d-1f8682db006a,1674436,24,new vehicle,4870000,3,,0,0,,2,delay in paying off loans in the past,1
+d68d9b1e-edad-11ea-8b43-2b6a0308d487,1213971,36,education,9055000,2,,0,0,,1,existing loans paid back duly till now,0
+d68d9bb4-edad-11ea-bb16-0490ef14f12e,1428822,24,FF&E,2835000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68d9c40-edad-11ea-b46c-5067ccf3672a,1705739,36,used vehicle,6948000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68d9cc2-edad-11ea-95a3-19eea692401f,1715169,12,electronic equipment,3059000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68d9d4e-edad-11ea-99f2-2c0022cf7ade,1722991,30,new vehicle,5234000,4,car or other,0,0,,2,critical/pending loans at other banks,1
+d68d9dda-edad-11ea-8f66-070acf87953f,1719964,12,new vehicle,1295000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68d9e66-edad-11ea-a00e-08a9b825002d,1818043,48,business,4308000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68d9ef2-edad-11ea-9320-44cc6aafa0f2,1231297,12,electronic equipment,1567000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68d9f74-edad-11ea-bd59-102afb4e8303,1172292,24,new vehicle,1199000,4,car or other,0,0,,2,critical/pending loans at other banks,1
+d68da000-edad-11ea-9b39-3b57807cea95,1154808,15,new vehicle,1403000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68da08c-edad-11ea-86fa-3b9bbe2e06a1,1648542,24,electronic equipment,1282000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68da118-edad-11ea-9b17-1a2408e72e3d,1193245,24,electronic equipment,2424000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68da19a-edad-11ea-82a9-2ffed2c1ae59,1740408,30,business,8072000,2,car or other,0,0,bank,3,no loans taken/all loans paid back duly,0
+d68da226-edad-11ea-ba6a-24e82f4a0901,1250076,24,used vehicle,12579000,4,,0,0,,1,existing loans paid back duly till now,1
+d68da2b2-edad-11ea-8889-45124b410d16,1616625,24,electronic equipment,3430000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68da33e-edad-11ea-92d6-14d5f1dd4287,1428429,9,new vehicle,2134000,4,car or other,0,0,,3,critical/pending loans at other banks,0
+d68da3c0-edad-11ea-9c13-02e697b7fb47,1272219,6,electronic equipment,2647000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68da44c-edad-11ea-811d-450f33c8849a,1771414,10,new vehicle,2241000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68da4d8-edad-11ea-94e4-4ae3123f6e41,1666563,12,used vehicle,1804000,3,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68da55a-edad-11ea-9086-556c75abdef8,1847764,10,FF&E,2069000,2,car or other,0,0,,2,critical/pending loans at other banks,0
+d68da5e6-edad-11ea-8848-094539bb32c1,1138996,6,FF&E,1374000,1,real estate,0,0,bank,1,existing loans paid back duly till now,0
+d68da668-edad-11ea-a7ca-0e54ef05530b,1578742,6,electronic equipment,426000,4,car or other,0,0,,1,no loans taken/all loans paid back duly,0
+d68da6f4-edad-11ea-8727-0a9a99b06aa8,1709277,12,electronic equipment,409000,3,real estate,0,0,,2,all loans at this bank paid back duly,0
+d68da780-edad-11ea-ae82-22389d1f21e1,1508823,7,electronic equipment,2415000,3,real estate,0,1,,1,existing loans paid back duly till now,0
+d68da802-edad-11ea-8fb1-430f7bd15180,1323870,60,business,6836000,3,,0,0,,2,delay in paying off loans in the past,1
+d68da88e-edad-11ea-911c-45363b9e71a7,1414851,18,business,1913000,3,real estate,0,0,bank,1,existing loans paid back duly till now,0
+d68da91a-edad-11ea-806b-1b4fff89cf12,1764281,24,FF&E,4020000,2,car or other,0,0,stores,1,existing loans paid back duly till now,0
+d68da9a6-edad-11ea-ad7d-22ccbf1337b7,1291798,18,new vehicle,5866000,2,car or other,0,0,,2,existing loans paid back duly till now,0
+d68daa28-edad-11ea-b015-2fab913db9fd,1873969,12,business,1264000,4,,0,0,,1,critical/pending loans at other banks,0
+d68daab4-edad-11ea-90d0-54e9c6dd56d7,1888210,12,FF&E,1474000,4,building society savings agreement/life insurance,0,0,bank,1,existing loans paid back duly till now,0
+d68dab40-edad-11ea-9d66-1d40dd84d34f,1547494,45,electronic equipment,4746000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,1
+d68dabcc-edad-11ea-acee-2f4a3741fda0,1674114,48,education,6110000,1,,0,0,bank,1,critical/pending loans at other banks,0
+d68dac58-edad-11ea-b429-50d02dad5c98,1330233,18,electronic equipment,2100000,4,real estate,1,0,stores,1,existing loans paid back duly till now,1
+d68dace4-edad-11ea-abc1-47fea893dfc1,1443666,10,domestic appliances,1225000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dad66-edad-11ea-8dab-1e18a4ca4033,1574283,9,electronic equipment,458000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dadf2-edad-11ea-9f2f-1b809b7f2469,1866940,30,electronic equipment,2333000,4,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68dae74-edad-11ea-9dc4-548e2abf51a3,1188917,12,electronic equipment,1158000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68daf00-edad-11ea-b3c5-3a9c59258abf,1491485,18,repair costs,6204000,2,real estate,0,0,,1,delay in paying off loans in the past,0
+d68daf8c-edad-11ea-9727-31a09ae7367c,1381317,30,used vehicle,6187000,1,car or other,0,0,,2,critical/pending loans at other banks,0
+d68db00e-edad-11ea-86d2-0e15c47e1391,1246402,48,used vehicle,6143000,4,,0,0,stores,2,critical/pending loans at other banks,1
+d68db09a-edad-11ea-a4a6-033044c9ec7b,1641291,11,new vehicle,1393000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68db126-edad-11ea-bfe0-17fd1764daff,1716706,36,electronic equipment,2299000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68db1b2-edad-11ea-a3cf-58ed274b7f95,1395153,6,used vehicle,1352000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68db234-edad-11ea-bfd7-0ee1e3d95b7b,1697859,11,new vehicle,7228000,1,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68db2c0-edad-11ea-b4e4-05b1f0a92868,1193227,12,electronic equipment,2073000,4,real estate,1,0,,1,existing loans paid back duly till now,0
+d68db34c-edad-11ea-b740-210ea10c8712,1850736,24,FF&E,2333000,4,building society savings agreement/life insurance,0,0,bank,1,delay in paying off loans in the past,0
+d68db3ce-edad-11ea-84bd-4e67b5f9936f,1771270,27,used vehicle,5965000,1,car or other,0,0,,2,delay in paying off loans in the past,0
+d68db45a-edad-11ea-b49c-1d832f4dbd57,1840431,12,electronic equipment,1262000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68db4e6-edad-11ea-93eb-2f95b3348c4f,1502325,18,used vehicle,3378000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68db568-edad-11ea-861a-147ac6c14a8a,1151072,36,new vehicle,2225000,4,,0,0,bank,2,delay in paying off loans in the past,1
+d68db5f4-edad-11ea-bb4b-54d27ddacc3f,1875288,6,new vehicle,783000,1,real estate,0,1,stores,1,all loans at this bank paid back duly,0
+d68db676-edad-11ea-9236-15f36db5c93c,1361963,12,electronic equipment,6468000,2,,0,0,,1,existing loans paid back duly till now,1
+d68db702-edad-11ea-a2a0-3749d1a32a81,1599723,36,electronic equipment,9566000,2,car or other,0,0,stores,2,critical/pending loans at other banks,0
+d68db78e-edad-11ea-8929-11abd2d70a99,1438784,18,new vehicle,1961000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68db81a-edad-11ea-86b8-1f01f823167f,1274604,36,FF&E,6229000,4,,1,0,,2,critical/pending loans at other banks,1
+d68db8a6-edad-11ea-aa20-02cf03ad2d1c,1548860,9,business,1391000,2,real estate,0,0,bank,1,existing loans paid back duly till now,0
+d68db932-edad-11ea-8d84-23c2491ed40b,1570047,15,electronic equipment,1537000,4,real estate,0,1,,2,critical/pending loans at other banks,0
+d68db9be-edad-11ea-ba32-040aa726f1e3,1825757,36,business,1953000,4,,0,0,,1,no loans taken/all loans paid back duly,1
+d68dba4a-edad-11ea-8291-1ad3a64d9e3c,1304525,48,business,14421000,2,car or other,0,0,,1,no loans taken/all loans paid back duly,1
+d68dbacc-edad-11ea-8b74-30c9ef13da0b,1750074,24,electronic equipment,3181000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68dbb58-edad-11ea-abdb-58a14485f385,1134752,27,repair costs,5190000,4,building society savings agreement/life insurance,0,0,,4,existing loans paid back duly till now,0
+d68dbbe4-edad-11ea-a81c-58a83881718d,1505713,12,electronic equipment,2171000,2,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68dbc66-edad-11ea-9193-2314a7840d0c,1724003,12,new vehicle,1007000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dbcf2-edad-11ea-87d0-34f6e88ef196,1388519,36,education,1819000,4,,0,0,stores,1,existing loans paid back duly till now,1
+d68dbd74-edad-11ea-ae01-263c4f557be7,1724882,36,electronic equipment,2394000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dbe00-edad-11ea-99af-2b1e2d010653,1463336,36,used vehicle,8133000,1,building society savings agreement/life insurance,0,0,bank,1,existing loans paid back duly till now,0
+d68dbe82-edad-11ea-8f4d-33d08b45f472,1804919,7,electronic equipment,730000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68dbf0e-edad-11ea-a080-02b0155d9dc9,1591747,8,,1164000,3,,0,0,bank,2,critical/pending loans at other banks,0
+d68dbfa4-edad-11ea-bd07-2daf55be0489,1743709,42,business,5954000,2,real estate,0,0,bank,2,critical/pending loans at other banks,0
+d68dc030-edad-11ea-9980-506b879d7f8f,1472593,36,education,1977000,4,,0,0,,1,existing loans paid back duly till now,1
+d68dc0bc-edad-11ea-890a-19d1f9df60f0,1641977,12,used vehicle,1526000,4,,0,0,,2,critical/pending loans at other banks,0
+d68dc13e-edad-11ea-934f-24bfb9db2c02,1649753,42,electronic equipment,3965000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68dc1ca-edad-11ea-9b81-213a71e38303,1149571,11,electronic equipment,4771000,2,building society savings agreement/life insurance,0,0,,1,delay in paying off loans in the past,0
+d68dc256-edad-11ea-98c3-17399d993dcd,1691240,54,used vehicle,9436000,2,building society savings agreement/life insurance,0,0,,1,no loans taken/all loans paid back duly,0
+d68dc2d8-edad-11ea-86ce-2d345d26e102,1838961,30,FF&E,3832000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68dc364-edad-11ea-a3df-130f4e9c102f,1403464,24,electronic equipment,5943000,1,car or other,0,0,,2,existing loans paid back duly till now,1
+d68dc3f0-edad-11ea-a517-0365bf01b3bb,1646022,15,electronic equipment,1213000,4,building society savings agreement/life insurance,0,0,stores,1,existing loans paid back duly till now,0
+d68dc472-edad-11ea-b563-15c425a7c161,1106801,18,business,1568000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68dc4fe-edad-11ea-8640-2a243f19dfa1,1616296,24,,1755000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68dc580-edad-11ea-82fe-49573323bbb2,1238277,10,electronic equipment,2315000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dc60c-edad-11ea-b67a-4da15fd806e6,1175457,12,business,1412000,4,real estate,0,1,,2,critical/pending loans at other banks,0
+d68dc698-edad-11ea-abf5-1f5e28a63773,1576577,18,FF&E,1295000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68dc71a-edad-11ea-a8fb-0434a8116a43,1586725,36,education,12612000,1,,0,0,,1,existing loans paid back duly till now,1
+d68dc7a6-edad-11ea-9828-03b8fce3f80e,1660853,18,new vehicle,2249000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dc83c-edad-11ea-b3c3-3b4b4a5238f9,1132472,12,repair costs,1108000,4,real estate,0,0,,2,no loans taken/all loans paid back duly,1
+d68dc8c8-edad-11ea-99f9-135529eafd46,1368120,12,electronic equipment,618000,4,real estate,0,0,,1,critical/pending loans at other banks,0
+d68dc94a-edad-11ea-af9c-3a9375ebdaf3,1403185,12,used vehicle,1409000,4,real estate,0,0,,1,critical/pending loans at other banks,0
+d68dc9d6-edad-11ea-bbbb-3e6f9ad604b6,1601892,12,electronic equipment,797000,4,building society savings agreement/life insurance,0,0,bank,1,critical/pending loans at other banks,1
+d68dca62-edad-11ea-9d83-414eeb11e188,1220273,24,FF&E,3617000,4,,1,0,,2,critical/pending loans at other banks,0
+d68dcae4-edad-11ea-bd63-0f82516e8c9a,1713632,12,new vehicle,1318000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dcb70-edad-11ea-af3c-1c3e47ff3483,1416025,54,business,15945000,3,,0,0,,1,no loans taken/all loans paid back duly,1
+d68dcbfc-edad-11ea-ad44-06ed8ffa90db,1610826,12,education,2012000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68dcc7e-edad-11ea-8d12-1be74a638595,1887006,18,business,2622000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dcd0a-edad-11ea-bfbe-0b1c5232ef5b,1570732,36,electronic equipment,2337000,4,real estate,0,0,,1,critical/pending loans at other banks,0
+d68dcd96-edad-11ea-a24d-4b151f9c2834,1617889,20,used vehicle,7057000,3,building society savings agreement/life insurance,0,0,bank,2,delay in paying off loans in the past,0
+d68dce18-edad-11ea-b9aa-2ee09b4ac777,1318902,24,new vehicle,1469000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dcea4-edad-11ea-bb1a-384a200d31e4,1466716,36,electronic equipment,2323000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dcf26-edad-11ea-a3d9-30aa54f568e3,1621669,6,electronic equipment,932000,3,real estate,0,0,,1,delay in paying off loans in the past,0
+d68dcfb2-edad-11ea-9760-3d64dda512ad,1901818,9,FF&E,1919000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68dd03e-edad-11ea-beb0-18bb6a01d5af,1114473,12,used vehicle,2445000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dd0c0-edad-11ea-a548-3f53dbbe0a19,1514853,24,,11938000,2,car or other,1,0,,2,critical/pending loans at other banks,1
+d68dd14c-edad-11ea-9e7c-0fab01ac5e54,1645589,18,new vehicle,6458000,2,,0,0,bank,2,all loans at this bank paid back duly,1
+d68dd1d8-edad-11ea-8c4b-3562d606fa2d,1504772,12,new vehicle,6078000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dd264-edad-11ea-ac9b-1a83e5ec58f0,1698579,24,FF&E,7721000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68dd2f0-edad-11ea-86cb-0e7e6f9f44d9,1754975,14,business,1410000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dd372-edad-11ea-8217-088829cf1406,1222155,6,business,1449000,1,car or other,0,0,bank,2,delay in paying off loans in the past,0
+d68dd3fe-edad-11ea-85d9-0801dba76242,1719636,15,education,392000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68dd48a-edad-11ea-8b02-590b91e669a9,1323966,18,new vehicle,6260000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dd50c-edad-11ea-bc3c-41c0d26b4bdb,1683052,36,new vehicle,7855000,4,real estate,0,0,stores,2,critical/pending loans at other banks,1
+d68dd598-edad-11ea-962f-4f70b120fd05,1405004,12,electronic equipment,1680000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dd61a-edad-11ea-9a03-0c03b1c8f7ee,1848791,48,electronic equipment,3578000,4,real estate,0,0,,1,critical/pending loans at other banks,0
+d68dd6a6-edad-11ea-a317-531d4d08ee0e,1229152,42,electronic equipment,7174000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68dd732-edad-11ea-a8a4-28c83b513f8f,1206049,10,FF&E,2132000,2,real estate,1,0,,2,critical/pending loans at other banks,0
+d68dd7b4-edad-11ea-b52e-2b8ed7488c0b,1651983,33,FF&E,4281000,1,car or other,0,0,,2,critical/pending loans at other banks,1
+d68dd840-edad-11ea-bc24-1cbb1240abb6,1357789,12,new vehicle,2366000,3,car or other,0,0,,1,critical/pending loans at other banks,0
+d68dd8c2-edad-11ea-8325-48f5964f39e5,1506336,21,electronic equipment,1835000,3,real estate,0,0,,2,existing loans paid back duly till now,1
+d68dd94e-edad-11ea-9088-5845d419df53,1171493,24,used vehicle,3868000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68dd9da-edad-11ea-9234-4e2165b63284,1278346,12,FF&E,1768000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68dda5c-edad-11ea-b643-248f1830d800,1852036,10,new vehicle,781000,4,,0,0,,2,critical/pending loans at other banks,0
+d68ddae8-edad-11ea-9fd2-30c994a00777,1717438,18,FF&E,1924000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68ddb6a-edad-11ea-8022-2a49c6cad240,1168894,12,new vehicle,2121000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68ddbf6-edad-11ea-ad88-1d553c0d91b4,1169906,12,electronic equipment,701000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ddc8c-edad-11ea-a0b0-0a1ffcb540b8,1693022,12,repair costs,639000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68ddd18-edad-11ea-805a-38e62c783db8,1125378,12,used vehicle,1860000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68ddda4-edad-11ea-a0b7-0e0dd96bd8b7,1355140,12,new vehicle,3499000,3,real estate,1,0,,2,critical/pending loans at other banks,1
+d68dde26-edad-11ea-a6d8-0465cafd2c02,1156488,48,new vehicle,8487000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68ddeb2-edad-11ea-9d4d-4213f5f0e77f,1817517,36,education,6887000,4,building society savings agreement/life insurance,0,0,stores,1,delay in paying off loans in the past,1
+d68ddf34-edad-11ea-bc47-041f8c0e2825,1183266,15,FF&E,2708000,2,building society savings agreement/life insurance,0,0,bank,2,existing loans paid back duly till now,0
+d68ddfc0-edad-11ea-90dc-2aff777a2e5f,1834069,18,FF&E,1984000,4,,0,0,bank,2,existing loans paid back duly till now,0
+d68de042-edad-11ea-911c-56953b2d3d8e,1501095,60,electronic equipment,10144000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68de0ce-edad-11ea-b005-484343171fc7,1577050,12,electronic equipment,1240000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68de150-edad-11ea-a8f8-3f2d5096c477,1601894,27,used vehicle,8613000,2,car or other,0,0,,2,delay in paying off loans in the past,0
+d68de1dc-edad-11ea-bdd6-4a9c08795601,1376069,12,electronic equipment,766000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68de25e-edad-11ea-9aff-47794126d1cb,1450465,15,electronic equipment,2728000,4,real estate,0,1,bank,3,critical/pending loans at other banks,0
+d68de2ea-edad-11ea-9e05-383919943716,1565903,12,electronic equipment,1881000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68de376-edad-11ea-aec7-483aab1053e4,1124574,6,new vehicle,709000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68de3f8-edad-11ea-9d9a-13759ea03618,1432828,36,electronic equipment,4795000,4,,0,0,,1,existing loans paid back duly till now,0
+d68de484-edad-11ea-b499-571ac2e163c1,1682758,27,electronic equipment,3416000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68de506-edad-11ea-bdae-0e7e30d8bde8,1902944,18,FF&E,2462000,2,car or other,0,0,,1,existing loans paid back duly till now,1
+d68de592-edad-11ea-b182-438ac99d5809,1774498,21,FF&E,2288000,4,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68de61e-edad-11ea-a3f1-003107fa5332,1411456,48,business,3566000,4,car or other,0,0,,1,all loans at this bank paid back duly,0
+d68de6a0-edad-11ea-8137-1c0bfe669aab,1387053,6,new vehicle,860000,1,,0,0,,2,critical/pending loans at other banks,0
+d68de72c-edad-11ea-99c7-5304b12a3853,1563602,12,new vehicle,682000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68de7ae-edad-11ea-a435-21ec7001d2ef,1901178,36,FF&E,5371000,3,building society savings agreement/life insurance,0,1,,2,critical/pending loans at other banks,0
+d68de83a-edad-11ea-8707-1265ff9ba77f,1841686,18,electronic equipment,1582000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68de8c6-edad-11ea-839b-51bb45f16e3b,1403203,6,electronic equipment,1346000,2,,0,0,bank,1,existing loans paid back duly till now,0
+d68de948-edad-11ea-9d4f-48db9ec10cf8,1448565,10,electronic equipment,1924000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68de9d4-edad-11ea-944a-0fbc09e75266,1538125,36,electronic equipment,5848000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68dea56-edad-11ea-a62e-0ecdbd3bb870,1115975,24,used vehicle,7758000,2,,0,0,,1,critical/pending loans at other banks,0
+d68deae2-edad-11ea-b054-16d5ca20d9b0,1230615,24,business,6967000,4,car or other,0,0,,1,delay in paying off loans in the past,0
+d68deb6e-edad-11ea-905b-15f939ba2694,1841503,12,FF&E,1282000,2,car or other,0,0,,1,existing loans paid back duly till now,1
+d68debf0-edad-11ea-ab45-516383633504,1321123,9,repair costs,1288000,3,real estate,0,1,,2,critical/pending loans at other banks,0
+d68dec7c-edad-11ea-bcb1-443da326aaff,1691733,12,career development,339000,4,car or other,0,0,bank,1,all loans at this bank paid back duly,0
+d68decfe-edad-11ea-87cf-2921baabd7ac,1680095,24,new vehicle,3512000,2,car or other,0,0,bank,2,existing loans paid back duly till now,0
+d68ded8a-edad-11ea-8643-1254e9fb3cdf,1660328,6,electronic equipment,1898000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68dee16-edad-11ea-af01-041f8f7ee439,1187072,24,electronic equipment,2872000,3,real estate,0,0,,1,critical/pending loans at other banks,0
+d68dee98-edad-11ea-b1ec-1a66ffed6a22,1460273,18,new vehicle,1055000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68def1a-edad-11ea-9116-204e6861f7af,1138817,15,domestic appliances,1262000,4,building society savings agreement/life insurance,0,0,,2,existing loans paid back duly till now,0
+d68defb0-edad-11ea-839f-0bb5e3c05cfc,1628583,10,new vehicle,7308000,2,,0,0,bank,1,existing loans paid back duly till now,0
+d68df03c-edad-11ea-a402-4225d9f7795d,1734823,36,new vehicle,909000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68df0be-edad-11ea-9239-5197bf45d142,1280180,6,FF&E,2978000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68df14a-edad-11ea-b4fe-0d7da3d02598,1279502,18,FF&E,1131000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68df1cc-edad-11ea-a739-3d9476516c48,1699886,11,FF&E,1577000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68df258-edad-11ea-9c62-24ee8d739306,1183811,24,FF&E,3972000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68df2da-edad-11ea-86c0-04ac1fe387a7,1775311,24,business,1935000,4,real estate,0,0,,2,critical/pending loans at other banks,1
+d68df366-edad-11ea-aa58-0aa667a9b3d4,1770037,15,new vehicle,950000,4,car or other,0,0,,2,no loans taken/all loans paid back duly,1
+d68df3e8-edad-11ea-a333-2a851fe887b5,1420832,12,FF&E,763000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68df46a-edad-11ea-b0c5-4133c19d295a,1388983,24,FF&E,2064000,3,building society savings agreement/life insurance,0,0,,1,delay in paying off loans in the past,1
+d68df4f6-edad-11ea-a260-12f89efc1421,1827797,8,electronic equipment,1414000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68df58c-edad-11ea-a78c-217c3a2c1d49,1758397,21,education,3414000,2,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,1
+d68df60e-edad-11ea-8261-0e3eef8dd0b1,1126090,30,used vehicle,7485000,4,real estate,0,0,bank,1,all loans at this bank paid back duly,1
+d68df69a-edad-11ea-9808-4873292db72a,1653715,12,FF&E,2577000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68df726-edad-11ea-9a33-592dd6ab3f4b,1534783,6,electronic equipment,338000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68df7b2-edad-11ea-abd8-5320e7b625a7,1705627,12,electronic equipment,1963000,4,car or other,0,0,,2,existing loans paid back duly till now,0
+d68df834-edad-11ea-b55c-35ec71aec9c8,1156764,21,new vehicle,571000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68df8c0-edad-11ea-a84e-3604320c9c15,1351247,36,business,9572000,1,car or other,0,0,,2,delay in paying off loans in the past,1
+d68df942-edad-11ea-9207-50d72d85dfff,1324848,36,business,4455000,2,real estate,0,0,stores,2,delay in paying off loans in the past,1
+d68df9ce-edad-11ea-b183-1bd84eb93786,1706494,21,new vehicle,1647000,4,building society savings agreement/life insurance,0,0,,2,all loans at this bank paid back duly,1
+d68dfa50-edad-11ea-8172-566f2bd879b2,1325093,24,FF&E,3777000,4,real estate,0,0,,1,critical/pending loans at other banks,0
+d68dfadc-edad-11ea-9e38-276031c5a3e4,1168078,18,new vehicle,884000,4,car or other,0,0,bank,1,critical/pending loans at other banks,1
+d68dfb5e-edad-11ea-b6c6-085496dc24df,1625627,15,electronic equipment,1360000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68dfbea-edad-11ea-a14d-0e99ca708378,1645519,9,used vehicle,5129000,2,,0,0,bank,1,all loans at this bank paid back duly,1
+d68dfc6c-edad-11ea-afa0-2b42891c93fc,1308726,16,new vehicle,1175000,2,car or other,0,0,,3,critical/pending loans at other banks,0
+d68dfcf8-edad-11ea-86e4-4e67dd612fb1,1460398,12,electronic equipment,674000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68dfd7a-edad-11ea-b36d-4c90b8873a62,1802699,18,FF&E,3244000,1,car or other,0,0,bank,2,no loans taken/all loans paid back duly,0
+d68dfe06-edad-11ea-98cd-0e23b6f47010,1693215,24,business,4591000,2,building society savings agreement/life insurance,0,0,,3,existing loans paid back duly till now,1
+d68dfe88-edad-11ea-8c5f-54a2d30e5c2d,1493175,48,business,3844000,4,,0,0,,1,no loans taken/all loans paid back duly,1
+d68dff14-edad-11ea-b866-01168000e841,1387043,27,business,3915000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68dff96-edad-11ea-a38c-431d08fa81f1,1603493,6,electronic equipment,2108000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e0022-edad-11ea-9d70-3c103640d5c9,1807486,45,electronic equipment,3031000,4,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,1
+d68e00a4-edad-11ea-8b49-45f1405c5e34,1543290,9,education,1501000,2,car or other,0,0,,2,critical/pending loans at other banks,1
+d68e0130-edad-11ea-bbab-1e4beea30152,1468750,6,electronic equipment,1382000,1,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e01bc-edad-11ea-9e29-53acf47e6b1b,1849580,12,FF&E,951000,4,car or other,0,0,bank,4,existing loans paid back duly till now,1
+d68e023e-edad-11ea-95c9-3f1412907590,1855241,24,used vehicle,2760000,4,,0,0,bank,1,existing loans paid back duly till now,0
+d68e02ca-edad-11ea-b64a-3127203dc83e,1709944,18,FF&E,4297000,4,,0,0,,1,delay in paying off loans in the past,1
+d68e034c-edad-11ea-b1de-0821def7510b,1781381,9,education,936000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e03d8-edad-11ea-9d2e-1f822d5d9631,1505411,12,new vehicle,1168000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e0464-edad-11ea-b45d-210779936409,1662647,27,business,5117000,3,car or other,0,0,,2,delay in paying off loans in the past,0
+d68e04f0-edad-11ea-a684-30e6a7a18332,1277108,12,career development,902000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e0572-edad-11ea-b1be-0eb82d669d63,1632379,12,new vehicle,1495000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e05fe-edad-11ea-8777-5804b48f186d,1232889,30,used vehicle,10623000,3,,0,0,,3,critical/pending loans at other banks,0
+d68e0680-edad-11ea-a217-59d58130e295,1729265,12,FF&E,1935000,4,real estate,0,0,,3,critical/pending loans at other banks,0
+d68e070c-edad-11ea-88f7-37a732ef1a71,1266769,12,domestic appliances,1424000,4,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68e078e-edad-11ea-a940-17d25b3ebb34,1457378,24,business,6568000,2,car or other,0,0,stores,1,existing loans paid back duly till now,0
+d68e081a-edad-11ea-ba71-1fe7ad7778f8,1241829,12,used vehicle,1413000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e08a6-edad-11ea-be71-5562220c53ef,1586696,9,electronic equipment,3074000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e0932-edad-11ea-ab97-58f00c90dff8,1878718,36,electronic equipment,3835000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e09b4-edad-11ea-b0f3-55edee17ecbe,1613024,27,business,5293000,2,building society savings agreement/life insurance,0,0,stores,2,no loans taken/all loans paid back duly,1
+d68e0a40-edad-11ea-a933-2cf27647c1e9,1781216,30,business,1908000,4,real estate,0,0,,1,delay in paying off loans in the past,1
+d68e0ac2-edad-11ea-948a-3ff265ce8f10,1529476,36,electronic equipment,3342000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68e0b4e-edad-11ea-ab53-12f15db15309,1680133,6,career development,932000,1,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68e0bda-edad-11ea-b84d-4e7eecabc40d,1671701,18,business,3104000,3,building society savings agreement/life insurance,0,0,bank,1,no loans taken/all loans paid back duly,0
+d68e0c66-edad-11ea-b0b3-1fa0e1d66548,1698484,36,electronic equipment,3913000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e0ce8-edad-11ea-b987-10fbb2aa3ec7,1482932,24,FF&E,3021000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e0d74-edad-11ea-a29e-1f15d7951196,1332984,10,new vehicle,1364000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e0df6-edad-11ea-a84b-0a0936775ec2,1280672,12,electronic equipment,625000,4,real estate,0,1,bank,1,existing loans paid back duly till now,0
+d68e0e82-edad-11ea-b8a3-35a9057ed467,1622064,12,education,1200000,4,building society savings agreement/life insurance,0,0,bank,1,existing loans paid back duly till now,0
+d68e0f04-edad-11ea-8da1-12333b8e6c4b,1593121,12,electronic equipment,707000,4,real estate,0,0,bank,2,existing loans paid back duly till now,0
+d68e0f90-edad-11ea-8cc7-074ebdd5a364,1128002,24,business,2978000,4,real estate,0,0,,2,delay in paying off loans in the past,0
+d68e1012-edad-11ea-a1dc-02a2e32dacd7,1761229,15,used vehicle,4657000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e109e-edad-11ea-a0a4-17fc848e6c37,1564360,36,repair costs,2613000,4,car or other,0,0,,2,no loans taken/all loans paid back duly,0
+d68e1120-edad-11ea-89cc-04181e7efb5f,1749949,48,electronic equipment,10961000,1,,1,0,bank,2,existing loans paid back duly till now,1
+d68e11ac-edad-11ea-a0d7-54fc6ee145ce,1468094,12,FF&E,7865000,4,,0,0,,1,existing loans paid back duly till now,1
+d68e122e-edad-11ea-b9e8-0a3108df5de0,1857654,9,electronic equipment,1478000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e12ba-edad-11ea-9549-0981b4b9a301,1785759,24,FF&E,3149000,4,,0,0,bank,1,existing loans paid back duly till now,0
+d68e1346-edad-11ea-a567-40073b2c65ce,1596358,36,electronic equipment,4210000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e13c8-edad-11ea-9247-02f78e6677c0,1515190,9,new vehicle,2507000,2,,0,0,,1,existing loans paid back duly till now,0
+d68e1454-edad-11ea-85fa-2f978cfb56de,1720597,12,electronic equipment,2141000,3,,0,0,,1,existing loans paid back duly till now,0
+d68e14d6-edad-11ea-a31c-23194c8d5577,1487170,18,electronic equipment,866000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68e156c-edad-11ea-a877-347e6a1e2ea7,1570458,4,electronic equipment,1544000,2,real estate,0,0,,3,critical/pending loans at other banks,0
+d68e15f8-edad-11ea-876e-3b88c3d951ee,1216325,24,electronic equipment,1823000,4,car or other,0,0,stores,1,existing loans paid back duly till now,1
+d68e1684-edad-11ea-9009-0089176fd6e6,1810247,6,new vehicle,14555000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e1706-edad-11ea-96c6-333508d5ad1f,1303121,21,business,2767000,4,car or other,0,0,bank,2,existing loans paid back duly till now,1
+d68e1792-edad-11ea-9782-57ea288367ef,1755306,12,electronic equipment,1291000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68e1814-edad-11ea-bfae-20144406b85f,1429938,30,electronic equipment,2522000,1,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68e18a0-edad-11ea-8960-490b274c8527,1255291,24,new vehicle,915000,4,car or other,0,0,bank,1,existing loans paid back duly till now,1
+d68e192c-edad-11ea-900f-2f8360289e46,1766084,6,electronic equipment,1595000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e19ae-edad-11ea-ba93-13f365df0d46,1598979,48,used vehicle,4605000,3,,0,0,,2,no loans taken/all loans paid back duly,1
+d68e1a3a-edad-11ea-b615-5860f8ba15b2,1700009,12,business,1185000,3,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e1ac6-edad-11ea-8f68-351b995233b8,1591456,12,career development,3447000,4,real estate,0,0,,1,all loans at this bank paid back duly,0
+d68e1b48-edad-11ea-be10-3935548fdc15,1444099,24,business,1258000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e1bd4-edad-11ea-b4b5-00cacbe309d1,1627604,12,electronic equipment,717000,4,real estate,0,0,,3,critical/pending loans at other banks,0
+d68e1c56-edad-11ea-b2a7-191919502787,1533746,6,new vehicle,1204000,4,,0,0,bank,1,no loans taken/all loans paid back duly,0
+d68e1ce2-edad-11ea-a051-1d0bb5078fe9,1659113,24,FF&E,1925000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e1d64-edad-11ea-bbb3-547a3436cc52,1276035,18,electronic equipment,433000,3,real estate,1,0,,1,existing loans paid back duly till now,1
+d68e1df0-edad-11ea-a91d-3fe8cb8081c7,1812017,6,new vehicle,666000,3,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e1e7c-edad-11ea-a2c3-3e44efa427a4,1540012,12,FF&E,2251000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e1efe-edad-11ea-94e0-1be6e48a3384,1582743,30,new vehicle,2150000,4,,0,1,bank,1,existing loans paid back duly till now,1
+d68e1f8a-edad-11ea-ab60-53cc53b08fd4,1891614,24,FF&E,4151000,2,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68e200c-edad-11ea-bcbb-1f78cc3a5acb,1685016,9,FF&E,2030000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e2098-edad-11ea-9e1e-41d5d9e7b728,1656238,60,electronic equipment,7418000,1,real estate,0,0,,1,delay in paying off loans in the past,0
+d68e211a-edad-11ea-9895-13c4181fc5f7,1444375,24,electronic equipment,2684000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e21a6-edad-11ea-99c3-152c796ded8d,1148952,12,electronic equipment,2149000,4,,0,0,,1,all loans at this bank paid back duly,1
+d68e2228-edad-11ea-b7aa-4eab7872da17,1397248,15,used vehicle,3812000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e22b4-edad-11ea-85af-2566a56d91f3,1513777,11,electronic equipment,1154000,4,real estate,0,0,,3,critical/pending loans at other banks,0
+d68e2340-edad-11ea-a8bb-50e0c15ea523,1352424,12,FF&E,1657000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e23cc-edad-11ea-92dd-3f3f75c69901,1585697,24,electronic equipment,1603000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e244e-edad-11ea-99f0-42b1e91f9fe4,1552427,18,new vehicle,5302000,2,,0,0,,3,critical/pending loans at other banks,0
+d68e24da-edad-11ea-be4e-45c4e36808ac,1194650,12,education,2748000,2,,0,0,bank,3,critical/pending loans at other banks,0
+d68e255c-edad-11ea-917c-517b775255a7,1516910,10,new vehicle,1231000,3,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e25e8-edad-11ea-80bb-36d3df6975b9,1847834,15,electronic equipment,802000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e266a-edad-11ea-99e3-29272d55e400,1647128,36,business,6304000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e26f6-edad-11ea-bed5-4a97cc530028,1232944,24,electronic equipment,1533000,4,car or other,0,0,stores,1,existing loans paid back duly till now,0
+d68e2782-edad-11ea-88c8-2293147a4e28,1310758,14,new vehicle,8978000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e280e-edad-11ea-94e1-288ca5e59666,1650945,24,electronic equipment,999000,4,car or other,0,0,,2,existing loans paid back duly till now,0
+d68e2890-edad-11ea-bbb4-4ba1c6c68ac8,1193039,18,new vehicle,2662000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e291c-edad-11ea-8209-57673362a353,1753115,12,FF&E,1402000,3,car or other,0,0,,1,critical/pending loans at other banks,0
+d68e29a8-edad-11ea-9d7e-30c40388002a,1799149,48,new vehicle,12169000,4,,1,0,,1,all loans at this bank paid back duly,0
+d68e2a2a-edad-11ea-ada6-2781c5a56266,1152260,48,electronic equipment,3060000,4,real estate,0,0,,2,existing loans paid back duly till now,1
+d68e2ab6-edad-11ea-aee5-0f35292a4c8b,1522384,30,repair costs,11998000,1,,0,0,,1,existing loans paid back duly till now,1
+d68e2b42-edad-11ea-a975-3b4dbdddddb6,1826417,9,electronic equipment,2697000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e2bc4-edad-11ea-8b41-20866d5b3127,1860196,18,electronic equipment,2404000,2,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e2c50-edad-11ea-9b2e-37f4f1543f2e,1832835,12,FF&E,1262000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e2cdc-edad-11ea-b541-0b6ee74deb74,1268091,6,FF&E,4611000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e2d68-edad-11ea-99d6-36938c64c002,1755105,24,electronic equipment,1901000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e2dea-edad-11ea-8c8b-52156d83aedb,1769868,15,used vehicle,3368000,3,,0,0,,2,critical/pending loans at other banks,0
+d68e2e76-edad-11ea-80ef-0d1fa36cd6fd,1243419,12,FF&E,1574000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e2ef8-edad-11ea-b7f9-428333b15f7e,1131444,18,electronic equipment,1445000,4,car or other,0,0,bank,1,all loans at this bank paid back duly,0
+d68e2f84-edad-11ea-a240-1e0945cf1819,1844436,15,FF&E,1520000,4,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68e3010-edad-11ea-a853-30a319c4addf,1856693,24,new vehicle,3878000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68e309c-edad-11ea-854a-54c6ae45ce7d,1405233,47,new vehicle,10722000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e3128-edad-11ea-af8b-4401e9ad68c7,1442483,48,used vehicle,4788000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e31aa-edad-11ea-b7b9-0b881c038c4d,1761078,48,,7582000,2,,0,0,,1,delay in paying off loans in the past,0
+d68e3236-edad-11ea-b092-3f5812819474,1838488,12,electronic equipment,1092000,4,real estate,0,1,,2,existing loans paid back duly till now,0
+d68e32c2-edad-11ea-8a35-405e89018877,1379318,24,electronic equipment,1024000,4,real estate,0,0,stores,1,delay in paying off loans in the past,1
+d68e334e-edad-11ea-87a3-4a4963dbf552,1688183,12,business,1076000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e33d0-edad-11ea-9e51-408fea272a74,1340983,36,used vehicle,9398000,1,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e345c-edad-11ea-a1f9-245ec6f2aec2,1163798,24,used vehicle,6419000,2,,0,0,,2,critical/pending loans at other banks,0
+d68e34e8-edad-11ea-a655-04c93e4deb34,1225433,42,used vehicle,4796000,4,,0,0,,1,critical/pending loans at other banks,0
+d68e3574-edad-11ea-a7f9-21b1548846fd,1563134,48,business,7629000,4,car or other,0,0,bank,2,critical/pending loans at other banks,0
+d68e3600-edad-11ea-9548-25671bd96035,1559877,48,FF&E,9960000,1,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e368c-edad-11ea-ac6e-32841db1b677,1437216,12,used vehicle,4675000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e370e-edad-11ea-9d54-37c1c4c21c6c,1347244,10,new vehicle,1287000,4,building society savings agreement/life insurance,1,0,,1,existing loans paid back duly till now,0
+d68e379a-edad-11ea-945d-3f8ffb76d6ad,1124063,18,FF&E,2515000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e3826-edad-11ea-8f9c-4a4cdfcde1b5,1395426,21,FF&E,2745000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e38b2-edad-11ea-af18-4bb191a4d33f,1313483,6,new vehicle,672000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e3934-edad-11ea-b669-37a605c96500,1704941,36,electronic equipment,3804000,4,car or other,0,0,,1,no loans taken/all loans paid back duly,1
+d68e39c0-edad-11ea-adb0-36e000004ba9,1420165,24,new vehicle,1344000,4,real estate,0,0,bank,2,critical/pending loans at other banks,1
+d68e3a4c-edad-11ea-ba2a-544126b23f05,1600427,10,new vehicle,1038000,4,building society savings agreement/life insurance,1,0,,2,critical/pending loans at other banks,0
+d68e3ad8-edad-11ea-8a0b-46fe18c95706,1722344,48,new vehicle,10127000,2,,0,0,bank,1,critical/pending loans at other banks,1
+d68e3b5a-edad-11ea-9f31-3e446c7e1059,1535647,6,FF&E,1543000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e3be6-edad-11ea-b013-08362e4ac829,1774831,30,used vehicle,4811000,2,building society savings agreement/life insurance,0,0,stores,1,existing loans paid back duly till now,0
+d68e3c72-edad-11ea-8382-011c349aff43,1385836,12,electronic equipment,727000,4,,0,0,,1,existing loans paid back duly till now,1
+d68e3cfe-edad-11ea-a64a-43478821f6fc,1211897,8,FF&E,1237000,3,real estate,0,0,,1,existing loans paid back duly till now,1
+d68e3d80-edad-11ea-b8b8-1ba33a1ae103,1241781,9,new vehicle,276000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e3e0c-edad-11ea-833e-5502127b3f32,1538187,48,,5381000,3,,0,0,bank,1,existing loans paid back duly till now,0
+d68e3e98-edad-11ea-97bf-3dd322e8e03d,1770099,24,FF&E,5511000,4,car or other,0,0,stores,1,existing loans paid back duly till now,0
+d68e3f24-edad-11ea-91bc-5391281d85cf,1246068,24,FF&E,3749000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e3fb0-edad-11ea-93b6-258a9f8230b2,1738925,12,new vehicle,685000,2,car or other,0,0,bank,1,existing loans paid back duly till now,1
+d68e4032-edad-11ea-a8bc-45d3795c0cc3,1546660,4,new vehicle,1494000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e40be-edad-11ea-a6d0-32cc83a50753,1363538,36,FF&E,2746000,4,car or other,0,0,bank,1,all loans at this bank paid back duly,1
+d68e414a-edad-11ea-bff6-1cd54b9b25b1,1173975,12,FF&E,708000,2,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68e41cc-edad-11ea-8355-09f2e9c64c6c,1527645,24,FF&E,4351000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e4258-edad-11ea-b477-20add492fe93,1269451,12,education,701000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e42e4-edad-11ea-8c8d-2e48bebe38c5,1635930,15,FF&E,3643000,1,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68e4366-edad-11ea-ba56-12c7aac57ec6,1443537,30,new vehicle,4249000,4,car or other,0,0,,2,critical/pending loans at other banks,1
+d68e43f2-edad-11ea-a1b5-2ad458b1c9b6,1366526,24,electronic equipment,1938000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e447e-edad-11ea-b3e4-338e7aaf2af2,1492566,24,used vehicle,2910000,2,,0,0,,1,existing loans paid back duly till now,0
+d68e4500-edad-11ea-b57e-1595607c87df,1212992,18,FF&E,2659000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e458c-edad-11ea-ad84-480b642ff1ff,1449219,18,new vehicle,1028000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e4618-edad-11ea-83c2-473e6f12ced0,1113782,8,new vehicle,3398000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e469a-edad-11ea-9653-1f956a5a2867,1127014,12,FF&E,5801000,2,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68e4726-edad-11ea-82c1-29197a6819fc,1730202,24,new vehicle,1525000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e47b2-edad-11ea-8f4a-507b0469f048,1831874,36,electronic equipment,4473000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e483e-edad-11ea-838e-0908b02a3c56,1839770,6,electronic equipment,1068000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e48c0-edad-11ea-99c1-50ca218d8f74,1397184,24,used vehicle,6615000,2,,0,0,,2,critical/pending loans at other banks,0
+d68e494c-edad-11ea-93be-3072a10dcb32,1893558,18,education,1864000,4,real estate,0,0,,2,critical/pending loans at other banks,1
+d68e49d8-edad-11ea-92ac-03000f78c836,1392044,60,new vehicle,7408000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e4a5a-edad-11ea-8c2f-1f1605c5d4b5,1658501,48,used vehicle,11590000,2,car or other,0,0,bank,2,critical/pending loans at other banks,1
+d68e4ae6-edad-11ea-9384-080fb801b725,1749671,24,FF&E,4110000,3,,0,0,bank,2,no loans taken/all loans paid back duly,1
+d68e4b72-edad-11ea-9e56-3ed3a833bbbb,1497135,6,FF&E,3384000,1,real estate,0,0,,1,critical/pending loans at other banks,1
+d68e4bf4-edad-11ea-a6db-2a7c75671381,1742101,13,electronic equipment,2101000,2,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68e4c80-edad-11ea-bfe9-2b5967cbdb78,1674059,15,domestic appliances,1275000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e4d0c-edad-11ea-ae79-3a47e5e3c803,1507864,24,FF&E,4169000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e4d98-edad-11ea-acca-3ea777d761b0,1191977,10,FF&E,1521000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e4e24-edad-11ea-9c36-4de81fb02fb0,1572898,24,education,5743000,2,,0,0,,2,critical/pending loans at other banks,0
+d68e4ea6-edad-11ea-9dd8-15c117e65378,1193436,21,FF&E,3599000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e4f32-edad-11ea-ba23-0e11022a69b4,1182073,18,electronic equipment,3213000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e4fbe-edad-11ea-888b-25176f5d06e9,1424965,18,business,4439000,1,real estate,1,0,bank,1,existing loans paid back duly till now,0
+d68e5040-edad-11ea-9dd6-0bf0725af5d7,1608183,10,new vehicle,3949000,1,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68e50cc-edad-11ea-aa70-46a356349be4,1473941,15,electronic equipment,1459000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68e514e-edad-11ea-aad7-0fe52090f62b,1540515,13,electronic equipment,882000,4,real estate,0,1,,2,critical/pending loans at other banks,0
+d68e51da-edad-11ea-85e6-3b82b84a5ca2,1318823,24,electronic equipment,3758000,1,,0,0,,1,existing loans paid back duly till now,0
+d68e525c-edad-11ea-824a-19a7683f9dc4,1545574,6,business,1743000,1,real estate,0,0,,2,delay in paying off loans in the past,0
+d68e52e8-edad-11ea-8991-0faa0f77f9ff,1408229,9,education,1136000,4,,0,0,,2,critical/pending loans at other banks,1
+d68e5374-edad-11ea-9545-3b35f4be98a7,1605868,9,domestic appliances,1236000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e53f6-edad-11ea-915c-17ac7a2f7c9a,1176865,9,FF&E,959000,1,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e5482-edad-11ea-b7a7-094290657b6e,1806619,18,used vehicle,3229000,2,,0,0,,1,critical/pending loans at other banks,0
+d68e550e-edad-11ea-9bd3-566d5a8a168d,1273483,12,electronic equipment,6199000,4,building society savings agreement/life insurance,0,0,,2,no loans taken/all loans paid back duly,1
+d68e5590-edad-11ea-9ad5-3bcd951f8862,1754537,10,education,727000,4,,0,0,,1,existing loans paid back duly till now,0
+d68e5626-edad-11ea-b9fd-5ad59a6fc972,1419059,24,new vehicle,1246000,4,real estate,0,0,stores,1,existing loans paid back duly till now,1
+d68e56a8-edad-11ea-98a8-22a4e8c4026e,1141822,12,electronic equipment,2331000,1,real estate,1,0,,1,critical/pending loans at other banks,0
+d68e5734-edad-11ea-9414-195bde21da17,1825588,36,electronic equipment,4463000,4,car or other,0,0,,2,delay in paying off loans in the past,1
+d68e57c0-edad-11ea-b37c-28632229594d,1426103,12,electronic equipment,776000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e5842-edad-11ea-b5fc-238e32db372c,1227016,30,FF&E,2406000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68e58ce-edad-11ea-930a-06e73eda4bac,1750981,18,education,1239000,4,,0,0,,1,existing loans paid back duly till now,0
+d68e595a-edad-11ea-ae0c-4398c7ccb4b9,1805732,12,electronic equipment,3399000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e59e6-edad-11ea-abe3-174f4b45a0f2,1144294,12,new vehicle,2247000,2,car or other,0,0,stores,2,delay in paying off loans in the past,0
+d68e5a68-edad-11ea-887b-1a16d4c75362,1476733,6,FF&E,1766000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e64ae-edad-11ea-9a13-2557f0fa7385,1331656,18,FF&E,2473000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e6670-edad-11ea-8a05-333a74b8cbc9,1377901,12,business,1542000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e674c-edad-11ea-ac9d-0db8efce19cb,1213250,18,used vehicle,3850000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e67f6-edad-11ea-b7eb-3fd0ab8842e3,1787350,18,FF&E,3650000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e6882-edad-11ea-ae19-0a5286a137b1,1488941,36,FF&E,3446000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e690e-edad-11ea-97cb-0c26707643b4,1435055,18,FF&E,3001000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e69a4-edad-11ea-bbb1-56a4d5a58224,1471101,36,new vehicle,3079000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e6a30-edad-11ea-ad1f-49b894dea3d9,1312020,18,electronic equipment,6070000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e6abc-edad-11ea-bd4b-1ed54fa19e00,1511094,10,FF&E,2146000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e6b48-edad-11ea-a59e-4cdd3aa56508,1703409,60,new vehicle,13756000,2,,0,0,bank,1,critical/pending loans at other banks,0
+d68e6bd4-edad-11ea-96c7-022ca41de717,1663400,60,,14782000,3,,0,0,bank,2,all loans at this bank paid back duly,1
+d68e6c60-edad-11ea-9311-1a3f084bf57d,1632577,48,business,7685000,2,car or other,0,1,,1,all loans at this bank paid back duly,1
+d68e6cec-edad-11ea-a34d-01b2c2564b41,1711334,18,electronic equipment,2320000,2,real estate,0,0,,2,delay in paying off loans in the past,0
+d68e6d6e-edad-11ea-aa40-35ffc9e81a4d,1820644,7,electronic equipment,846000,3,,0,0,,1,delay in paying off loans in the past,0
+d68e6dfa-edad-11ea-8069-2d8066c65068,1633625,36,new vehicle,14318000,4,,0,0,,1,existing loans paid back duly till now,1
+d68e6e90-edad-11ea-ae19-03b742e1c2d8,1493373,6,new vehicle,362000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e6f12-edad-11ea-910a-1e0f5750753d,1140091,20,FF&E,2212000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e6f9e-edad-11ea-ab40-15dae0b67035,1530567,18,used vehicle,12976000,3,,0,0,,1,existing loans paid back duly till now,1
+d68e702a-edad-11ea-8d1c-16058524c149,1560648,22,new vehicle,1283000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e70b6-edad-11ea-b070-3bc8ff404b14,1835901,12,new vehicle,1330000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e7138-edad-11ea-94c1-1ff7f81539c3,1446865,30,business,4272000,2,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68e71c4-edad-11ea-a2aa-2a44f7fbb87f,1159806,18,electronic equipment,2238000,2,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e7250-edad-11ea-96bc-3f5d62113b84,1198484,18,electronic equipment,1126000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e72dc-edad-11ea-9717-570d863c7962,1900089,18,FF&E,7374000,4,building society savings agreement/life insurance,0,0,stores,2,critical/pending loans at other banks,0
+d68e735e-edad-11ea-917e-4c403ee5b145,1466824,15,business,2326000,2,car or other,0,0,bank,1,critical/pending loans at other banks,0
+d68e73ea-edad-11ea-a50d-02cb8061727a,1428226,9,business,1449000,3,car or other,0,0,,2,existing loans paid back duly till now,0
+d68e7480-edad-11ea-ba0c-3b77cf352b21,1590101,18,new vehicle,1820000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68e750c-edad-11ea-a7c6-2bf75d1a4478,1655095,12,FF&E,983000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e758e-edad-11ea-825a-2b0ea2ed4663,1221103,36,new vehicle,3249000,2,,0,0,bank,1,existing loans paid back duly till now,0
+d68e761a-edad-11ea-a39e-3a0670a23860,1660809,6,electronic equipment,1957000,1,car or other,0,0,,1,critical/pending loans at other banks,0
+d68e76a6-edad-11ea-a76d-312eb73a4dcf,1221118,9,FF&E,2406000,2,car or other,0,0,,1,critical/pending loans at other banks,0
+d68e7732-edad-11ea-9e2a-0daf25471029,1462188,39,education,11760000,2,,0,0,,1,delay in paying off loans in the past,0
+d68e77b4-edad-11ea-8ac7-4131abcf9e11,1461535,12,FF&E,2578000,3,,0,0,,1,existing loans paid back duly till now,0
+d68e7840-edad-11ea-ad7f-21ed62d1e075,1587786,36,FF&E,2348000,3,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68e78cc-edad-11ea-b00e-032d1fc08339,1565522,12,new vehicle,1223000,1,real estate,0,0,,2,existing loans paid back duly till now,1
+d68e794e-edad-11ea-baf3-4054ccca7905,1813841,24,electronic equipment,1516000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e79da-edad-11ea-9e24-219746aa962f,1393314,18,electronic equipment,1473000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e7a66-edad-11ea-ad26-203d46c87570,1121764,18,business,1887000,4,real estate,0,0,bank,2,critical/pending loans at other banks,0
+d68e7af2-edad-11ea-8c36-55bdadcef260,1147492,24,business,8648000,2,car or other,0,0,bank,2,delay in paying off loans in the past,1
+d68e7b74-edad-11ea-a21f-129a5345eae9,1174819,14,new vehicle,802000,4,car or other,0,0,,2,delay in paying off loans in the past,0
+d68e7c00-edad-11ea-9632-0782d97c3bdc,1623240,18,new vehicle,2899000,4,car or other,0,0,,1,delay in paying off loans in the past,0
+d68e7c8c-edad-11ea-b3cf-4e986e428429,1766191,24,electronic equipment,2039000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e7d22-edad-11ea-a689-47351595d142,1437656,24,used vehicle,2197000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e7dae-edad-11ea-9d94-46895c6b8b82,1225095,15,electronic equipment,1053000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e7e3a-edad-11ea-8c01-14f2ddef779c,1755656,24,electronic equipment,3235000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e7ec6-edad-11ea-997a-330a71630b78,1143716,12,new vehicle,939000,4,real estate,0,0,,3,critical/pending loans at other banks,1
+d68e7f48-edad-11ea-ae4e-350dc26847f1,1465874,24,electronic equipment,1967000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e7fd4-edad-11ea-ae98-56d2e2658fe8,1661563,33,used vehicle,7253000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e8060-edad-11ea-a456-2e433ec7e08a,1238022,12,business,2292000,4,car or other,0,0,stores,2,critical/pending loans at other banks,1
+d68e80e2-edad-11ea-b5be-365fffbf55ad,1276723,10,new vehicle,1597000,3,,0,0,,1,existing loans paid back duly till now,0
+d68e816e-edad-11ea-8bbf-40e171e090d0,1564344,24,new vehicle,1381000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e81fa-edad-11ea-9840-42373f47abc5,1774377,36,used vehicle,5842000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68e8286-edad-11ea-8300-250695092b1c,1558926,12,new vehicle,2579000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68e8308-edad-11ea-9779-167f08d68f04,1555430,18,education,8471000,1,car or other,0,0,,2,delay in paying off loans in the past,0
+d68e8394-edad-11ea-bcb2-27824d588d00,1529020,21,new vehicle,2782000,1,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68e8420-edad-11ea-ad31-1dec8e8fe67f,1291905,18,new vehicle,1042000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68e84ac-edad-11ea-8cd8-3fd3e6c126fd,1213257,15,new vehicle,3186000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e852e-edad-11ea-8ac0-3bcdfc40abde,1388888,12,used vehicle,2028000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e85ba-edad-11ea-95d8-57a2d978c68f,1186232,12,new vehicle,958000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e8646-edad-11ea-b287-1ddf2e69db6a,1358802,21,FF&E,1591000,4,real estate,0,0,,2,delay in paying off loans in the past,0
+d68e86c8-edad-11ea-800e-1d7a2e977bdf,1703163,12,FF&E,2762000,1,building society savings agreement/life insurance,0,0,bank,1,existing loans paid back duly till now,1
+d68e8754-edad-11ea-bb8a-0c557ca8b5de,1581463,18,used vehicle,2779000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e87e0-edad-11ea-aee8-51a92437068b,1412269,28,electronic equipment,2743000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68e886c-edad-11ea-8617-2b5e1d0af012,1787696,18,electronic equipment,1149000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e88f8-edad-11ea-a6e0-4f409bb55583,1657309,9,FF&E,1313000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e8984-edad-11ea-8216-2c942d696915,1817813,18,repair costs,1190000,2,,0,0,,3,critical/pending loans at other banks,1
+d68e8a06-edad-11ea-aeab-072440d4f63d,1534316,5,business,3448000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e8a92-edad-11ea-8b9e-2c7f630c8bf5,1304185,24,,11328000,2,car or other,1,0,bank,2,existing loans paid back duly till now,1
+d68e8b1e-edad-11ea-bbf4-10f943ef18d3,1714829,6,FF&E,1872000,4,,0,0,,3,critical/pending loans at other banks,0
+d68e8baa-edad-11ea-8127-2193a4bb0453,1796503,24,repair costs,2058000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e8c2c-edad-11ea-bc7e-23d0dff536c8,1336695,9,FF&E,2136000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e8cb8-edad-11ea-a6a3-364739354c29,1879817,12,electronic equipment,1484000,2,real estate,0,0,,1,existing loans paid back duly till now,1
+d68e8d44-edad-11ea-bf1a-00c4cbee35aa,1779410,6,repair costs,660000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e8dc6-edad-11ea-93bf-06bac5339bea,1727640,24,new vehicle,1287000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e8e52-edad-11ea-ade0-397387bb0de7,1119602,42,repair costs,3394000,4,car or other,1,0,,2,critical/pending loans at other banks,0
+d68e8ede-edad-11ea-a77d-34c1d776cbb1,1548375,12,business,609000,4,real estate,0,0,,1,all loans at this bank paid back duly,1
+d68e8f60-edad-11ea-b47b-374afaf145c9,1515084,12,new vehicle,1884000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e8fec-edad-11ea-809c-0a572db22a8a,1523394,12,FF&E,1620000,2,building society savings agreement/life insurance,1,0,,1,existing loans paid back duly till now,0
+d68e9078-edad-11ea-9409-4edb70439729,1327436,20,,2629000,2,car or other,0,0,bank,2,delay in paying off loans in the past,0
+d68e90fa-edad-11ea-b044-180b8ea976c7,1769463,12,education,719000,4,car or other,0,0,bank,1,existing loans paid back duly till now,1
+d68e9186-edad-11ea-abfb-4e272b7fedac,1454649,48,FF&E,5096000,2,car or other,0,0,,1,critical/pending loans at other banks,1
+d68e9212-edad-11ea-af3f-4acc0c69b663,1282543,9,education,1244000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68e9294-edad-11ea-a3e4-06b336455b9d,1604148,36,new vehicle,1842000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e9320-edad-11ea-a29c-24657643adde,1461545,7,electronic equipment,2576000,2,real estate,0,1,,1,existing loans paid back duly till now,0
+d68e93ac-edad-11ea-8fd3-16dfbd1a4dcd,1579121,12,FF&E,1424000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e942e-edad-11ea-8066-16543c193d95,1662555,15,repair costs,1512000,3,building society savings agreement/life insurance,0,0,stores,2,delay in paying off loans in the past,1
+d68e94ba-edad-11ea-b2a3-42017a0b38f8,1451745,36,used vehicle,11054000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68e9546-edad-11ea-99c9-14a81c468aa4,1590235,6,electronic equipment,518000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e95c8-edad-11ea-8750-474542a76fef,1610382,12,FF&E,2759000,2,building society savings agreement/life insurance,0,0,,2,no loans taken/all loans paid back duly,0
+d68e9654-edad-11ea-8d0f-1b14f986a13b,1611614,24,used vehicle,2670000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e96e0-edad-11ea-b9e3-4edbffe0b7fe,1790490,24,new vehicle,4817000,2,building society savings agreement/life insurance,1,0,,1,existing loans paid back duly till now,1
+d68e976c-edad-11ea-9d2c-2a2fdd698f62,1396015,24,used vehicle,2679000,4,,0,0,,1,existing loans paid back duly till now,0
+d68e97ee-edad-11ea-8e4a-2d37542daa9f,1140019,11,new vehicle,3905000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68e987a-edad-11ea-bccb-2b590e05fc99,1751876,12,used vehicle,3386000,3,,0,0,,1,existing loans paid back duly till now,1
+d68e9906-edad-11ea-8c47-11608e1b8db0,1344543,6,domestic appliances,343000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e9988-edad-11ea-9cb1-1613b30e3700,1486366,18,electronic equipment,4594000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68e9a14-edad-11ea-a521-4150c8b479c3,1862524,36,FF&E,3620000,1,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68e9aa0-edad-11ea-8ef5-2bd20fec3a4b,1794199,15,new vehicle,1721000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e9b22-edad-11ea-a672-3eb0d8d625c2,1114695,12,FF&E,3017000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68e9bae-edad-11ea-a92b-443c56e02742,1252248,12,career development,754000,4,building society savings agreement/life insurance,0,0,,2,existing loans paid back duly till now,0
+d68e9c3a-edad-11ea-a597-2183fd0cc0d7,1333603,18,business,1950000,4,car or other,0,0,stores,2,existing loans paid back duly till now,0
+d68e9cc6-edad-11ea-82f3-5861957cc9df,1253927,24,used vehicle,2924000,3,,0,1,bank,1,existing loans paid back duly till now,0
+d68e9d52-edad-11ea-8864-13741f4c78fb,1255808,24,electronic equipment,1659000,4,car or other,0,0,,1,delay in paying off loans in the past,1
+d68e9dde-edad-11ea-a2bf-0c1d9cd9847f,1777177,48,electronic equipment,7238000,3,car or other,0,0,bank,2,delay in paying off loans in the past,0
+d68e9e60-edad-11ea-b2ad-07ce93be4da9,1347859,33,business,2764000,2,car or other,0,0,,2,delay in paying off loans in the past,0
+d68e9eec-edad-11ea-9dfb-598cada8ae56,1179829,24,used vehicle,4679000,3,car or other,0,0,,2,delay in paying off loans in the past,0
+d68e9f78-edad-11ea-9c0f-3529515cfa66,1584896,24,electronic equipment,3092000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68e9ffa-edad-11ea-943c-4d411a9e926d,1165835,6,education,448000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68ea086-edad-11ea-96b6-4858a43d6cc9,1420000,9,new vehicle,654000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68ea112-edad-11ea-9b56-1f875d59098e,1792340,6,career development,1238000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ea19e-edad-11ea-9ec7-18ecaedf3b1b,1154530,18,electronic equipment,1245000,4,car or other,0,0,,1,critical/pending loans at other banks,1
+d68ea220-edad-11ea-899c-199676a5909d,1464283,18,FF&E,3114000,1,building society savings agreement/life insurance,0,0,,1,no loans taken/all loans paid back duly,1
+d68ea2ac-edad-11ea-9e39-228d3a8e54a4,1643578,39,used vehicle,2569000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68ea32e-edad-11ea-a49d-29ca37e203cb,1724729,24,electronic equipment,5152000,4,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68ea3ba-edad-11ea-bfad-507e6c21df72,1305749,12,business,1037000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ea446-edad-11ea-80c5-11a1f7a634ad,1640580,15,FF&E,1478000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68ea4d2-edad-11ea-927b-4e039c7a14bf,1572070,12,electronic equipment,3573000,1,real estate,0,0,,1,critical/pending loans at other banks,0
+d68ea554-edad-11ea-b7c7-203386ddada9,1719894,24,new vehicle,1201000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ea5e0-edad-11ea-90d2-189b6aebb819,1179715,30,FF&E,3622000,4,building society savings agreement/life insurance,0,0,,2,existing loans paid back duly till now,0
+d68ea66c-edad-11ea-91da-588ffb877a2e,1648432,15,FF&E,960000,3,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68ea6ee-edad-11ea-b5e0-5a5be809e2be,1809085,12,new vehicle,1163000,4,real estate,0,0,,1,critical/pending loans at other banks,0
+d68ea77a-edad-11ea-b318-56a435b4a34e,1595096,6,new vehicle,1209000,4,building society savings agreement/life insurance,0,0,,1,delay in paying off loans in the past,1
+d68ea7fc-edad-11ea-ad25-2a2fa2d573b0,1280201,12,electronic equipment,3077000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68ea888-edad-11ea-8161-21d4e44ed7ec,1512766,24,new vehicle,3757000,4,,1,0,,1,existing loans paid back duly till now,0
+d68ea90a-edad-11ea-b08f-077b7e109e48,1355440,10,new vehicle,1418000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ea996-edad-11ea-8426-575e43e547ad,1237459,6,new vehicle,3518000,2,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68eaa22-edad-11ea-81bd-4c33143352ac,1874619,12,electronic equipment,1934000,2,,0,0,,2,critical/pending loans at other banks,0
+d68eaaae-edad-11ea-addc-06b2aebb5e4b,1867397,27,business,8318000,2,,0,0,,2,no loans taken/all loans paid back duly,1
+d68eab3a-edad-11ea-89a9-34f9b8acfda4,1797961,6,electronic equipment,1237000,1,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68eabbc-edad-11ea-9bbd-1412bffa4896,1773539,6,electronic equipment,368000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68eac48-edad-11ea-af2c-1fb653caeb2f,1518424,12,new vehicle,2122000,3,real estate,0,0,,2,critical/pending loans at other banks,0
+d68eacd4-edad-11ea-8553-34175753fede,1833845,24,FF&E,2996000,2,car or other,0,0,,1,existing loans paid back duly till now,1
+d68ead60-edad-11ea-8ba1-2a2fe9a0c5ec,1728313,36,FF&E,9034000,4,,1,0,,1,existing loans paid back duly till now,1
+d68eade2-edad-11ea-93f8-03a95aa82747,1611295,24,FF&E,1585000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68eae6e-edad-11ea-9215-0be457832fc8,1680973,18,electronic equipment,1301000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68eaefa-edad-11ea-99f9-07a8933fcae4,1325678,6,new vehicle,1323000,2,car or other,0,0,,2,critical/pending loans at other banks,0
+d68eaf86-edad-11ea-8732-16a31044a688,1566812,24,new vehicle,3123000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68eb008-edad-11ea-b358-3b217a0023b9,1402031,36,used vehicle,5493000,2,,0,0,,1,existing loans paid back duly till now,0
+d68eb094-edad-11ea-932c-32f9caf9a507,1787792,9,electronic equipment,1126000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68eb120-edad-11ea-9b6a-55170fcd74e1,1893730,24,electronic equipment,1216000,4,,0,0,bank,2,critical/pending loans at other banks,1
+d68eb1a2-edad-11ea-a058-371f0d92b98a,1391963,24,new vehicle,1207000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68eb22e-edad-11ea-974e-2d3d2a846236,1359833,10,new vehicle,1309000,4,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,1
+d68eb2ba-edad-11ea-876c-00857fe91d47,1860964,15,used vehicle,2360000,2,car or other,0,0,,1,critical/pending loans at other banks,0
+d68eb33c-edad-11ea-aed7-3bb862c46490,1397210,15,new vehicle,6850000,1,building society savings agreement/life insurance,0,0,,1,all loans at this bank paid back duly,1
+d68eb3c8-edad-11ea-843b-1f66d956391e,1300113,24,electronic equipment,1413000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68eb454-edad-11ea-8e7f-1e303ea40e47,1121978,39,used vehicle,8588000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68eb4e0-edad-11ea-bef2-1682f8d00495,1625109,12,new vehicle,759000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68eb562-edad-11ea-98a6-54bb1aea69a1,1591192,36,used vehicle,4686000,2,,0,0,,1,existing loans paid back duly till now,0
+d68eb5ee-edad-11ea-95cb-45b28896fd4f,1439117,15,business,2687000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68eb67a-edad-11ea-8cd2-2d7fa29f62f2,1597948,12,electronic equipment,585000,4,real estate,1,0,,2,delay in paying off loans in the past,0
+d68eb6fc-edad-11ea-bcf6-1ce7f2d852df,1436931,24,new vehicle,2255000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68eb788-edad-11ea-94ae-05cfc9f4e7c4,1359864,6,new vehicle,609000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68eb814-edad-11ea-97c7-0711c958fbac,1279507,6,new vehicle,1361000,2,real estate,0,0,,1,critical/pending loans at other banks,0
+d68eb896-edad-11ea-bf2b-4eb141559610,1250900,36,FF&E,7127000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,1
+d68eb922-edad-11ea-951a-2e37c3a5b7ff,1672101,6,new vehicle,1203000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68eb9ae-edad-11ea-93bd-2392b5314382,1541522,6,electronic equipment,700000,4,,0,0,,2,critical/pending loans at other banks,0
+d68eba3a-edad-11ea-9e64-58779cbd3b26,1542760,24,repair costs,5507000,3,,0,0,,2,critical/pending loans at other banks,0
+d68ebac6-edad-11ea-bb1e-1220fdbd03bd,1312890,18,electronic equipment,3190000,2,real estate,0,0,,1,existing loans paid back duly till now,1
+d68ebb48-edad-11ea-96f3-25e48107cb6f,1575976,48,FF&E,7119000,3,,0,0,,2,no loans taken/all loans paid back duly,1
+d68ebbd4-edad-11ea-b8c9-512e976c4607,1300737,24,used vehicle,3488000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68ebc60-edad-11ea-a660-4bd38c516f9b,1579354,18,electronic equipment,1113000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68ebce2-edad-11ea-9d1b-24b2c1b79c0f,1165396,26,used vehicle,7966000,2,car or other,0,0,,2,existing loans paid back duly till now,0
+d68ebd6e-edad-11ea-a06d-013998ccd09e,1845999,15,education,1532000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68ebdfa-edad-11ea-881f-03443823eee1,1836203,4,electronic equipment,1503000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68ebe86-edad-11ea-bafd-3ca2502a85b9,1796884,36,electronic equipment,2302000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68ebf08-edad-11ea-baac-276d8728bd6c,1545916,6,new vehicle,662000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ebf94-edad-11ea-ab7e-47c57c4d2454,1666376,36,education,2273000,3,car or other,0,0,,2,existing loans paid back duly till now,0
+d68ec020-edad-11ea-a875-3b2f7d8fdb4d,1337077,15,new vehicle,2631000,2,car or other,0,0,,2,existing loans paid back duly till now,1
+d68ec0ac-edad-11ea-ac75-2b8e3847135e,1670246,12,used vehicle,1503000,4,real estate,0,0,,1,delay in paying off loans in the past,0
+d68ec12e-edad-11ea-96bb-4de4f9630235,1112826,24,electronic equipment,1311000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ec1ba-edad-11ea-b269-2558d53483d1,1321430,24,electronic equipment,3105000,4,car or other,0,0,,2,existing loans paid back duly till now,0
+d68ec246-edad-11ea-908c-064274058766,1602400,21,education,2319000,2,car or other,0,0,,1,critical/pending loans at other banks,1
+d68ec2d2-edad-11ea-a823-0cb866adc4ca,1381249,6,new vehicle,1374000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ec35e-edad-11ea-badb-2296ff87859c,1815409,18,FF&E,3612000,3,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68ec3e0-edad-11ea-b5ce-2a088f70d8fb,1762049,48,new vehicle,7763000,4,,0,0,bank,1,existing loans paid back duly till now,1
+d68ec46c-edad-11ea-8699-0f21b8070d87,1776853,18,FF&E,3049000,1,building society savings agreement/life insurance,0,0,stores,1,existing loans paid back duly till now,0
+d68ec584-edad-11ea-bbd2-3c04a3a13e9d,1234944,12,electronic equipment,1534000,1,real estate,0,0,,1,existing loans paid back duly till now,1
+d68ec610-edad-11ea-a9e3-34c102a3ca0b,1185915,24,new vehicle,2032000,4,,0,0,,2,delay in paying off loans in the past,0
+d68ec692-edad-11ea-8d89-1851880956cd,1355416,30,FF&E,6350000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68ec714-edad-11ea-a718-44aa2ee23b36,1736265,18,FF&E,2864000,2,real estate,0,0,,1,existing loans paid back duly till now,1
+d68ec7a0-edad-11ea-ba3c-20f41bf3d385,1258426,12,new vehicle,1255000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68ec822-edad-11ea-90a9-3921e0b21e88,1836234,24,new vehicle,1333000,4,real estate,0,0,,2,delay in paying off loans in the past,1
+d68ec8a4-edad-11ea-9686-3bf88aa1d31e,1296879,24,new vehicle,2022000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68ec930-edad-11ea-beb0-2cf8000cfa3d,1438110,24,electronic equipment,1552000,3,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68ec9b2-edad-11ea-909f-412d19dd2ed7,1667627,12,electronic equipment,626000,4,real estate,0,0,bank,1,all loans at this bank paid back duly,1
+d68eca34-edad-11ea-bb7f-407ef8297153,1862061,48,used vehicle,8858000,2,,0,0,,2,critical/pending loans at other banks,0
+d68ecab6-edad-11ea-ba64-537dbf639060,1164275,12,repair costs,996000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68ecb42-edad-11ea-92eb-206ea968dc82,1863760,6,electronic equipment,1750000,2,building society savings agreement/life insurance,0,0,bank,1,all loans at this bank paid back duly,0
+d68ecbc4-edad-11ea-bf1b-0a69bc271307,1199639,48,electronic equipment,6999000,1,real estate,0,1,,2,existing loans paid back duly till now,1
+d68ecc46-edad-11ea-9ed5-28d720b310e1,1774959,12,new vehicle,1995000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68eccc8-edad-11ea-bfe4-3ed4e952bb06,1388041,9,education,1199000,4,building society savings agreement/life insurance,0,0,,2,existing loans paid back duly till now,0
+d68ecd54-edad-11ea-a0b0-1b2e86976396,1210884,12,electronic equipment,1331000,2,car or other,0,0,stores,1,existing loans paid back duly till now,1
+d68ecdd6-edad-11ea-b1c3-1bea8dc38c5c,1365814,18,new vehicle,2278000,3,car or other,0,0,,2,no loans taken/all loans paid back duly,1
+d68ece58-edad-11ea-9390-054e774fae43,1115087,21,new vehicle,5003000,1,building society savings agreement/life insurance,0,0,bank,2,no loans taken/all loans paid back duly,1
+d68eceda-edad-11ea-ac02-39997af42c11,1875951,24,FF&E,3552000,3,car or other,0,0,bank,1,all loans at this bank paid back duly,1
+d68ecf66-edad-11ea-b8b6-25fb57e3525b,1243348,18,FF&E,1928000,2,real estate,0,0,,2,critical/pending loans at other banks,1
+d68ecfe8-edad-11ea-a0fc-23770cbb576b,1178393,24,used vehicle,2964000,4,,0,0,bank,1,existing loans paid back duly till now,0
+d68ed074-edad-11ea-8430-14465a6236d5,1500502,24,electronic equipment,1546000,4,car or other,0,1,bank,1,all loans at this bank paid back duly,1
+d68ed0f6-edad-11ea-a40a-2a4722f3be9e,1892811,6,electronic equipment,683000,2,building society savings agreement/life insurance,0,0,bank,1,delay in paying off loans in the past,0
+d68ed182-edad-11ea-b64f-2c0874ebd4ab,1441760,36,new vehicle,12389000,1,,0,0,,1,existing loans paid back duly till now,1
+d68ed326-edad-11ea-b732-03e4b47b9685,1738676,24,business,4712000,4,building society savings agreement/life insurance,0,0,bank,2,delay in paying off loans in the past,0
+d68ed484-edad-11ea-ab4b-047ac3d23ded,1217305,24,electronic equipment,1553000,3,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68ed54c-edad-11ea-9c10-1e61f9a464fb,1662684,12,new vehicle,1372000,2,car or other,0,0,,1,existing loans paid back duly till now,1
+d68ed5e2-edad-11ea-8f15-259daed5f66b,1586917,24,electronic equipment,2578000,2,car or other,0,0,,1,critical/pending loans at other banks,0
+d68ed66e-edad-11ea-9e7a-15131b34d922,1754897,48,electronic equipment,3979000,4,car or other,0,0,,2,existing loans paid back duly till now,0
+d68ed6fa-edad-11ea-8419-3f6a22426669,1857539,48,electronic equipment,6758000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68ed790-edad-11ea-8543-572e400aa399,1463541,24,FF&E,3234000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68ed81c-edad-11ea-ba96-1d7bb53bdc57,1607360,30,electronic equipment,5954000,3,car or other,1,0,,1,critical/pending loans at other banks,0
+d68ed89e-edad-11ea-a22b-2c43faadb3b4,1343586,24,used vehicle,5433000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ed92a-edad-11ea-b50d-41396a7769bd,1109612,15,business,806000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ed9ac-edad-11ea-8132-3022d44e5236,1432750,9,electronic equipment,1082000,4,car or other,0,0,,2,existing loans paid back duly till now,0
+d68eda38-edad-11ea-9814-4b7467b81882,1902302,15,FF&E,2788000,2,car or other,1,0,bank,2,critical/pending loans at other banks,0
+d68edaba-edad-11ea-a480-2fafccb78d28,1519801,12,electronic equipment,2930000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68edb3c-edad-11ea-b269-41c9cbbcc0fe,1312718,24,education,1927000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68edbc8-edad-11ea-89e5-2567a8fd9c75,1554006,36,new vehicle,2820000,4,car or other,0,0,,2,critical/pending loans at other banks,1
+d68edc4a-edad-11ea-bee3-30b214d0653a,1492967,24,career development,937000,4,car or other,0,0,,2,existing loans paid back duly till now,0
+d68edcd6-edad-11ea-bea0-1dff7b4dec8b,1442676,18,new vehicle,1056000,3,real estate,0,1,bank,2,critical/pending loans at other banks,1
+d68edd58-edad-11ea-933b-3ed718cfdf44,1378210,12,new vehicle,3124000,1,real estate,0,0,bank,2,critical/pending loans at other banks,0
+d68eddda-edad-11ea-a9b4-52673d569269,1774767,9,FF&E,1388000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ede66-edad-11ea-832f-1978babe9e30,1635448,36,repair costs,2384000,4,,0,0,,1,existing loans paid back duly till now,1
+d68edee8-edad-11ea-80b8-03ea98a26ef5,1143985,12,new vehicle,2133000,4,,0,0,,1,existing loans paid back duly till now,0
+d68edf74-edad-11ea-8dda-0d3fbe47dc86,1670066,18,FF&E,2039000,1,real estate,0,0,bank,1,existing loans paid back duly till now,1
+d68edff6-edad-11ea-8111-265b0a89a690,1466670,9,new vehicle,2799000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68ee082-edad-11ea-8916-27cf815846cf,1447929,12,FF&E,1289000,4,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68ee104-edad-11ea-819e-31ece9cd56a8,1618937,18,domestic appliances,1217000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68ee186-edad-11ea-932a-39f5f4f15c4b,1873573,12,FF&E,2246000,3,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,1
+d68ee208-edad-11ea-a514-060b7cf8939d,1830977,12,electronic equipment,385000,4,real estate,0,0,,4,critical/pending loans at other banks,0
+d68ee28a-edad-11ea-a4ea-22a8a3c381dc,1612355,24,new vehicle,1965000,4,car or other,0,0,,2,delay in paying off loans in the past,0
+d68ee316-edad-11ea-a444-2a60b035aa06,1165234,21,business,1572000,4,real estate,0,0,bank,1,existing loans paid back duly till now,0
+d68ee398-edad-11ea-9464-290d9ee9ab3e,1825343,24,new vehicle,2718000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68ee41a-edad-11ea-bb76-0b6cea91006e,1307369,24,,1358000,4,car or other,0,0,stores,1,all loans at this bank paid back duly,1
+d68ee49c-edad-11ea-aabe-4c5f6ae8456c,1403127,6,new vehicle,931000,1,building society savings agreement/life insurance,0,0,stores,1,all loans at this bank paid back duly,1
+d68ee51e-edad-11ea-9eeb-5321a010653c,1852152,24,new vehicle,1442000,4,car or other,0,0,,2,existing loans paid back duly till now,1
+d68ee5aa-edad-11ea-bf3a-420b94122c3c,1510937,24,business,4241000,1,real estate,0,0,,3,no loans taken/all loans paid back duly,1
+d68ee62c-edad-11ea-93e6-01b2a00e7d99,1354791,18,new vehicle,2775000,2,building society savings agreement/life insurance,0,0,bank,2,critical/pending loans at other banks,1
+d68ee6b8-edad-11ea-a8e2-06ae5af8536f,1841389,24,business,3863000,1,,0,0,,1,delay in paying off loans in the past,0
+d68ee744-edad-11ea-8f33-391946d57cc3,1854199,7,electronic equipment,2329000,1,real estate,0,1,,1,existing loans paid back duly till now,0
+d68ee7c6-edad-11ea-a64c-50764fc925fd,1256236,9,FF&E,918000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68ee852-edad-11ea-9b5f-561581c3dfb6,1503339,24,education,1837000,4,,0,0,bank,1,all loans at this bank paid back duly,1
+d68ee8d4-edad-11ea-9032-40234b3465e2,1500594,36,FF&E,3349000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68ee956-edad-11ea-8674-3f85d30dd5ce,1462065,10,FF&E,1275000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ee9e2-edad-11ea-82be-503233087ee2,1474361,24,FF&E,2828000,4,real estate,0,0,stores,1,all loans at this bank paid back duly,0
+d68eea64-edad-11ea-b8bd-56c1394ac6b9,1764990,24,business,4526000,3,real estate,0,0,,1,critical/pending loans at other banks,0
+d68eeae6-edad-11ea-9198-0cd6b0d47869,1621121,36,electronic equipment,2671000,4,,1,0,,1,existing loans paid back duly till now,1
+d68eebfe-edad-11ea-8e48-4e6de71d975a,1365958,18,electronic equipment,2051000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68eec80-edad-11ea-8cdc-31e2017aa3fb,1630681,15,used vehicle,1300000,4,,0,0,bank,1,existing loans paid back duly till now,0
+d68eed0c-edad-11ea-bdbf-4090136bd518,1448317,12,domestic appliances,741000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68eed98-edad-11ea-9f39-568f5b6e4b10,1744762,10,new vehicle,1240000,1,,0,0,,1,existing loans paid back duly till now,1
+d68eee1a-edad-11ea-a65a-3ca5b853c0a2,1655690,21,electronic equipment,3357000,4,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68eeea6-edad-11ea-802c-325c4203da34,1210184,24,used vehicle,3632000,1,car or other,0,1,bank,1,all loans at this bank paid back duly,0
+d68eef32-edad-11ea-b6ac-253cfc4bd926,1113231,18,FF&E,1808000,4,real estate,0,0,,1,delay in paying off loans in the past,1
+d68eefbe-edad-11ea-ac38-04d423557964,1476817,48,business,12204000,2,car or other,0,0,bank,1,no loans taken/all loans paid back duly,0
+d68ef04a-edad-11ea-a6de-1ffc716156de,1143908,60,electronic equipment,9157000,2,,0,0,,1,delay in paying off loans in the past,0
+d68ef0d6-edad-11ea-832c-534fcc83e451,1239641,6,new vehicle,3676000,1,real estate,0,0,,3,critical/pending loans at other banks,0
+d68ef158-edad-11ea-99c0-4ab5e96a1db0,1826580,30,FF&E,3441000,2,car or other,1,0,,1,existing loans paid back duly till now,1
+d68ef1e4-edad-11ea-94f3-4cdbbb3546c9,1826763,12,new vehicle,640000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ef27a-edad-11ea-877d-260ada7908e6,1747933,21,business,3652000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68ef2fc-edad-11ea-8ba2-2b30ad455460,1257777,18,new vehicle,1530000,3,building society savings agreement/life insurance,0,0,bank,2,critical/pending loans at other banks,1
+d68ef388-edad-11ea-9d32-22cf205b0cf3,1687945,48,business,3914000,4,real estate,0,0,bank,1,existing loans paid back duly till now,1
+d68ef414-edad-11ea-8bda-0308183ba880,1513000,12,FF&E,1858000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68ef4a0-edad-11ea-84b5-20e26fa81b71,1502591,18,electronic equipment,2600000,4,,0,0,,2,existing loans paid back duly till now,1
+d68ef52c-edad-11ea-9361-41d8960bbbb0,1886102,15,electronic equipment,1979000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68ef5ae-edad-11ea-b0f6-17394c998ccd,1597354,6,FF&E,2116000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ef63a-edad-11ea-a68f-20e260da5f26,1391760,9,new vehicle,1437000,2,,0,0,,1,all loans at this bank paid back duly,1
+d68ef6c6-edad-11ea-9094-1f24c4e4866b,1883131,42,FF&E,4042000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68ef752-edad-11ea-8bc9-0f3d2fa8e4b6,1679090,9,education,3832000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68ef7de-edad-11ea-b45c-1184da100c36,1784512,24,electronic equipment,3660000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68ef860-edad-11ea-99a5-4f58ed1fec9c,1326708,18,FF&E,1553000,4,car or other,0,0,bank,1,all loans at this bank paid back duly,1
+d68ef8ec-edad-11ea-a832-0922aae45e58,1443796,15,electronic equipment,1444000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68ef978-edad-11ea-a9aa-34bfa4a95b6a,1862135,9,FF&E,1980000,2,car or other,1,0,,2,existing loans paid back duly till now,1
+d68ef9fa-edad-11ea-8da2-4ffe0ef15a8c,1432788,24,new vehicle,1355000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68efa86-edad-11ea-9c05-4f1d2655bba3,1707666,12,education,1393000,4,building society savings agreement/life insurance,0,0,bank,3,existing loans paid back duly till now,0
+d68efb12-edad-11ea-8495-247ea821c73d,1349046,24,electronic equipment,1376000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68efb94-edad-11ea-b257-2471b425de86,1640552,60,electronic equipment,15653000,2,car or other,0,0,,2,delay in paying off loans in the past,0
+d68efc20-edad-11ea-82b7-46af692c963b,1532989,12,electronic equipment,1493000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68efcac-edad-11ea-acda-23df72d113c5,1300927,42,electronic equipment,4370000,3,building society savings agreement/life insurance,0,0,bank,2,delay in paying off loans in the past,1
+d68efd38-edad-11ea-9470-265e32c2a6ab,1684799,18,education,750000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68efdba-edad-11ea-8b8f-47b20418381b,1736925,15,repair costs,1308000,4,car or other,0,0,,2,existing loans paid back duly till now,0
+d68efe46-edad-11ea-b842-1782a62ee755,1156429,15,education,4623000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68efed2-edad-11ea-b40e-441e1280b340,1495594,24,electronic equipment,1851000,4,car or other,0,1,,2,critical/pending loans at other banks,0
+d68eff54-edad-11ea-8eb4-516c2258e1af,1732994,18,electronic equipment,1880000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68effe0-edad-11ea-8809-3b633d750b8c,1532977,36,business,7980000,4,car or other,0,0,,2,delay in paying off loans in the past,1
+d68f006c-edad-11ea-a59c-482ad98eacd1,1452733,30,FF&E,4583000,2,real estate,0,1,,2,no loans taken/all loans paid back duly,0
+d68f00ee-edad-11ea-a877-54ad999b7f8b,1304536,12,new vehicle,1386000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f017a-edad-11ea-b053-545d61c4e003,1892638,24,new vehicle,947000,4,,0,0,bank,1,existing loans paid back duly till now,1
+d68f0206-edad-11ea-9f3f-08146fd37214,1175174,12,education,684000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f0292-edad-11ea-9455-52f1def2698d,1360939,48,education,7476000,4,,0,0,,1,existing loans paid back duly till now,0
+d68f0314-edad-11ea-aaeb-33920d9b00a4,1637887,12,FF&E,1922000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f03a0-edad-11ea-b758-0a9997ba548e,1126684,24,new vehicle,2303000,4,real estate,1,0,,1,existing loans paid back duly till now,1
+d68f042c-edad-11ea-b98f-12dc3733eac6,1476071,36,new vehicle,8086000,2,car or other,0,0,,4,delay in paying off loans in the past,1
+d68f04ae-edad-11ea-9e16-5ae6722d55f9,1764381,24,used vehicle,2346000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f053a-edad-11ea-93fc-59707012603a,1654707,14,new vehicle,3973000,1,,0,0,,1,existing loans paid back duly till now,0
+d68f05c6-edad-11ea-a7df-44eb0d71420f,1504819,12,new vehicle,888000,4,car or other,0,0,bank,1,existing loans paid back duly till now,1
+d68f0648-edad-11ea-a51e-20fe184b8a52,1680877,48,electronic equipment,10222000,4,car or other,0,0,stores,1,existing loans paid back duly till now,0
+d68f06d4-edad-11ea-8933-08c4e91e1cae,1439887,30,business,4221000,2,car or other,0,0,,2,no loans taken/all loans paid back duly,0
+d68f0760-edad-11ea-9800-185713046169,1237671,18,FF&E,6361000,2,,0,0,,1,critical/pending loans at other banks,0
+d68f07ec-edad-11ea-b6db-3496b8dbd5c8,1352279,12,electronic equipment,1297000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f086e-edad-11ea-a24f-12b786b3a993,1409197,12,new vehicle,900000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f08fa-edad-11ea-981a-51ccea0b8718,1448066,21,FF&E,2241000,4,real estate,0,0,,2,existing loans paid back duly till now,0
+d68f0986-edad-11ea-802f-20d1fc935ad1,1337177,6,FF&E,1050000,4,building society savings agreement/life insurance,0,0,stores,2,delay in paying off loans in the past,0
+d68f0a08-edad-11ea-9f98-4c6666986d43,1199661,6,education,1047000,2,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68f0a94-edad-11ea-a0cb-4ef9f8e6c478,1483329,24,,6314000,4,,1,0,bank,2,critical/pending loans at other banks,0
+d68f0b20-edad-11ea-9c56-373491fa9bcf,1401525,30,FF&E,3496000,4,car or other,0,0,stores,1,all loans at this bank paid back duly,0
+d68f0bac-edad-11ea-bc79-05ccb99f7723,1869013,48,business,3609000,1,real estate,0,0,stores,1,all loans at this bank paid back duly,0
+d68f0c2e-edad-11ea-8174-3221260fecd3,1611783,12,new vehicle,4843000,3,building society savings agreement/life insurance,1,0,,2,critical/pending loans at other banks,1
+d68f0cba-edad-11ea-bff7-1a8706107d52,1837760,30,electronic equipment,3017000,4,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68f0d46-edad-11ea-8e2a-423866800420,1844813,24,business,4139000,3,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f0dd2-edad-11ea-8785-076f1a6b0e1d,1554792,36,business,5742000,2,car or other,0,0,,2,existing loans paid back duly till now,0
+d68f0e54-edad-11ea-8df1-1f82ae5e7320,1771489,60,new vehicle,10366000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f0ee0-edad-11ea-bbb2-49899476f41d,1241112,6,new vehicle,2080000,1,car or other,0,0,,1,critical/pending loans at other banks,0
+d68f0f6c-edad-11ea-a2e6-1c671a117320,1770970,21,business,2580000,4,real estate,0,0,bank,1,delay in paying off loans in the past,1
+d68f0fee-edad-11ea-be47-2a0111bbb22f,1373246,30,electronic equipment,4530000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68f107a-edad-11ea-b73f-515c1f794160,1509620,24,FF&E,5150000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68f10fc-edad-11ea-a4b5-285a1d0e7c2e,1142576,72,electronic equipment,5595000,2,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f1188-edad-11ea-9c08-07078f617ba1,1671068,24,electronic equipment,2384000,4,real estate,0,0,bank,1,existing loans paid back duly till now,0
+d68f1214-edad-11ea-9c54-4203f6db8ba0,1538199,18,electronic equipment,1453000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f12a0-edad-11ea-aafb-1711fc372a3e,1482554,6,education,1538000,1,,0,0,,1,existing loans paid back duly till now,0
+d68f1322-edad-11ea-af6c-448e0f6e8005,1516876,12,electronic equipment,2279000,4,,0,0,,1,existing loans paid back duly till now,0
+d68f13ae-edad-11ea-92ce-16d07d4d22c2,1586174,15,electronic equipment,1478000,4,real estate,0,0,bank,2,delay in paying off loans in the past,0
+d68f14c6-edad-11ea-9c19-28e928f49d52,1168229,24,electronic equipment,5103000,3,,0,0,,3,critical/pending loans at other banks,0
+d68f1548-edad-11ea-b5c4-13f7bfe73e57,1441925,36,business,9857000,1,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68f15d4-edad-11ea-a995-46fa184029bc,1662345,60,new vehicle,6527000,4,,0,0,,1,existing loans paid back duly till now,0
+d68f1656-edad-11ea-8e74-3c5a50e1aa88,1649933,10,electronic equipment,1347000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f16d8-edad-11ea-9817-21fae138d6aa,1168468,36,new vehicle,2862000,4,,0,0,,1,delay in paying off loans in the past,0
+d68f175a-edad-11ea-9f33-0a8c5f108a3c,1875015,9,electronic equipment,2753000,3,car or other,1,0,,1,existing loans paid back duly till now,0
+d68f17dc-edad-11ea-ae47-3cd6e20248a0,1273850,12,new vehicle,3651000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f185e-edad-11ea-aa4e-337562b25b9f,1345875,15,FF&E,975000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f18ea-edad-11ea-8611-4b1b31080a2d,1774355,15,repair costs,2631000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f196c-edad-11ea-b92e-32f4f1f91731,1626519,24,electronic equipment,2896000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f19ee-edad-11ea-8ff1-3475f30432f2,1321826,6,new vehicle,4716000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f1a70-edad-11ea-8bb3-4d80b426a9ce,1412577,24,electronic equipment,2284000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f1af2-edad-11ea-9ccd-333140c98323,1514997,6,used vehicle,1236000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f1b74-edad-11ea-a2b5-07692cb18476,1209193,12,electronic equipment,1103000,4,real estate,0,1,,2,existing loans paid back duly till now,0
+d68f1bf6-edad-11ea-b03e-009c38584997,1656838,12,new vehicle,926000,1,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68f1c78-edad-11ea-a509-47ecc4770b2d,1381175,18,electronic equipment,1800000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f1cfa-edad-11ea-b9cf-0a655728af68,1430426,15,education,1905000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f1d7c-edad-11ea-8586-273b50643be5,1776816,12,FF&E,1123000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f1dfe-edad-11ea-8fa8-24d457cd8889,1178282,48,used vehicle,6331000,4,,0,0,,2,critical/pending loans at other banks,1
+d68f1e80-edad-11ea-a744-3116329bd773,1657898,24,electronic equipment,1377000,4,,0,0,,1,existing loans paid back duly till now,0
+d68f1f02-edad-11ea-bc00-4624afbd42e5,1629275,30,business,2503000,4,building society savings agreement/life insurance,0,0,stores,2,delay in paying off loans in the past,0
+d68f1f8e-edad-11ea-b346-4623e121e29b,1846282,27,business,2528000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f2010-edad-11ea-ab60-52baeffbeda1,1607876,15,new vehicle,5324000,1,,0,0,,1,existing loans paid back duly till now,0
+d68f2092-edad-11ea-9e4f-1b91a31266c6,1735719,48,new vehicle,6560000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f2114-edad-11ea-ac59-2272a7285b96,1516902,12,FF&E,2969000,4,building society savings agreement/life insurance,0,0,,2,no loans taken/all loans paid back duly,1
+d68f2196-edad-11ea-be21-0f02b6a52da6,1127273,9,electronic equipment,1206000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f2218-edad-11ea-97d5-3df593b796a1,1789670,9,electronic equipment,2118000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f229a-edad-11ea-8d97-34aafd29eae1,1215142,18,electronic equipment,629000,4,building society savings agreement/life insurance,0,0,bank,2,critical/pending loans at other banks,0
+d68f2326-edad-11ea-8b59-31bcff4ccf4a,1346719,6,education,1198000,4,,0,0,,1,all loans at this bank paid back duly,1
+d68f23a8-edad-11ea-b8c5-11e3ec14932b,1280395,21,used vehicle,2476000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f242a-edad-11ea-84ec-26d0b780ca67,1695246,9,electronic equipment,1138000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f24ac-edad-11ea-929d-089173439ef7,1372926,60,new vehicle,14027000,4,,0,0,,1,existing loans paid back duly till now,1
+d68f252e-edad-11ea-985c-0bda711c9355,1314021,30,used vehicle,7596000,1,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f25b0-edad-11ea-a4f3-1969f6821fbc,1152616,30,electronic equipment,3077000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f263c-edad-11ea-a99f-33a0d695c924,1849511,18,electronic equipment,1505000,4,,0,0,,1,existing loans paid back duly till now,0
+d68f26be-edad-11ea-a1fb-48b560babca3,1153145,24,electronic equipment,3148000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f2740-edad-11ea-810c-438e3bbe85ed,1532256,20,used vehicle,6148000,3,car or other,0,0,bank,2,no loans taken/all loans paid back duly,0
+d68f27c2-edad-11ea-978c-20a19fff8ac5,1392809,9,electronic equipment,1337000,4,car or other,0,0,,2,no loans taken/all loans paid back duly,1
+d68f2844-edad-11ea-a288-4a976aecd70c,1619368,6,education,433000,4,building society savings agreement/life insurance,0,0,bank,1,all loans at this bank paid back duly,1
+d68f28d0-edad-11ea-8199-108c7b21e686,1133947,12,new vehicle,1228000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f2952-edad-11ea-9e5a-311d89321c29,1169619,9,electronic equipment,790000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f29d4-edad-11ea-8bb2-31a7c1ce2af0,1215207,27,new vehicle,2570000,3,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f2a56-edad-11ea-b1a7-538804548a6d,1349113,6,new vehicle,250000,2,real estate,0,0,bank,2,critical/pending loans at other banks,0
+d68f2ad8-edad-11ea-b04d-486ea9b941c2,1188964,15,electronic equipment,1316000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f2b64-edad-11ea-9e28-0f36543ff243,1695402,18,electronic equipment,1882000,4,car or other,0,0,bank,2,existing loans paid back duly till now,1
+d68f2be6-edad-11ea-b4db-07e9560124cb,1183707,48,business,6416000,4,,0,0,,1,all loans at this bank paid back duly,1
+d68f2c68-edad-11ea-8a43-4f0a55f14de2,1216943,24,business,1275000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f2cea-edad-11ea-a350-4218e7bb37df,1782832,24,electronic equipment,6403000,1,car or other,0,0,,1,delay in paying off loans in the past,0
+d68f2d6c-edad-11ea-acb8-4a6bf2529aff,1892474,24,electronic equipment,1987000,2,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f2df8-edad-11ea-ba52-4dc972b2a741,1652800,8,electronic equipment,760000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68f2e7a-edad-11ea-ba3a-56a6a25a6c74,1643428,24,used vehicle,2603000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f2efc-edad-11ea-a2d5-4c0c5d0b25ce,1221330,4,new vehicle,3380000,1,real estate,0,0,,1,critical/pending loans at other banks,0
+d68f2f7e-edad-11ea-b4be-19efeff64f59,1106688,36,domestic appliances,3990000,3,,0,0,bank,1,all loans at this bank paid back duly,0
+d68f3000-edad-11ea-8d26-250f0c9c27a2,1264018,24,used vehicle,11560000,1,car or other,0,0,,2,existing loans paid back duly till now,1
+d68f308c-edad-11ea-a35a-3955eac04bb8,1412879,18,new vehicle,4380000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f310e-edad-11ea-a518-3e596ace1832,1165210,6,new vehicle,6761000,1,,0,0,,2,critical/pending loans at other banks,0
+d68f3190-edad-11ea-9ed6-4a392a145813,1399194,30,business,4280000,4,car or other,0,0,,2,no loans taken/all loans paid back duly,1
+d68f3212-edad-11ea-9505-44f8fd8fce2d,1833657,24,new vehicle,2325000,2,car or other,0,0,bank,1,all loans at this bank paid back duly,0
+d68f3294-edad-11ea-95a8-2e49467f2b79,1292645,10,electronic equipment,1048000,4,real estate,0,0,stores,1,all loans at this bank paid back duly,0
+d68f3316-edad-11ea-a4e3-36017135e885,1536162,21,electronic equipment,3160000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f33a2-edad-11ea-a746-2d5b1de8302b,1668971,24,FF&E,2483000,4,real estate,0,0,stores,1,all loans at this bank paid back duly,0
+d68f3424-edad-11ea-a87d-3cb30f3ae890,1216844,39,FF&E,14179000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f34a6-edad-11ea-ba9b-10b3f187b565,1601024,13,business,1797000,3,building society savings agreement/life insurance,0,0,bank,2,critical/pending loans at other banks,0
+d68f3528-edad-11ea-91f1-4a2899a9aaaa,1391686,15,new vehicle,2511000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f35aa-edad-11ea-a873-4b438fead417,1504217,12,new vehicle,1274000,3,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f3636-edad-11ea-a355-052d9c5c3608,1800745,21,used vehicle,5248000,1,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f36b8-edad-11ea-89c9-20a74d9fb2f5,1282922,15,used vehicle,3029000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f373a-edad-11ea-8424-0847212de145,1837579,6,FF&E,428000,2,building society savings agreement/life insurance,0,0,bank,1,existing loans paid back duly till now,0
+d68f37bc-edad-11ea-a628-250526632a6f,1612689,18,new vehicle,976000,1,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f383e-edad-11ea-95cc-19698f13b8bd,1746834,12,business,841000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f38c0-edad-11ea-85bc-09d5191cf959,1708009,30,electronic equipment,5771000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f3942-edad-11ea-8bd1-2cd2db2d2073,1331312,12,repair costs,1555000,4,,0,0,,2,delay in paying off loans in the past,1
+d68f3a64-edad-11ea-99ee-54c8aa94a274,1621486,24,new vehicle,1285000,4,,0,0,,1,existing loans paid back duly till now,1
+d68f3ae6-edad-11ea-98f0-22b178508d26,1868234,6,new vehicle,1299000,1,real estate,0,0,,3,critical/pending loans at other banks,0
+d68f3b72-edad-11ea-9a57-403ad5a10782,1358207,15,electronic equipment,1271000,3,,0,0,,2,critical/pending loans at other banks,1
+d68f3bf4-edad-11ea-a40c-2bd6c595582c,1888759,24,new vehicle,1393000,2,real estate,0,1,,1,existing loans paid back duly till now,0
+d68f3c80-edad-11ea-ac64-5a2530ff8e11,1239673,12,new vehicle,691000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,1
+d68f3d0c-edad-11ea-ac08-0593722dcd8e,1691986,15,new vehicle,5045000,1,car or other,0,0,,1,critical/pending loans at other banks,0
+d68f3d8e-edad-11ea-bd3b-2fe015f458ee,1298469,18,FF&E,2124000,4,real estate,0,0,,2,critical/pending loans at other banks,1
+d68f3e1a-edad-11ea-80ba-10233fa3fff9,1197388,12,electronic equipment,2214000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f416c-edad-11ea-808d-3be60a9db67b,1721124,21,new vehicle,12680000,4,,0,0,,1,critical/pending loans at other banks,1
+d68f4306-edad-11ea-a281-3a488926bb1d,1462018,24,new vehicle,2463000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f43d8-edad-11ea-81a7-20be5495625e,1235848,12,electronic equipment,1155000,3,real estate,0,1,bank,2,existing loans paid back duly till now,0
+d68f4482-edad-11ea-89db-2136c4c9b185,1714471,30,FF&E,3108000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f450e-edad-11ea-b211-42ae3f544f99,1425297,10,used vehicle,2901000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f459a-edad-11ea-a704-53f9e4d62a39,1325035,12,FF&E,3617000,1,car or other,0,0,,3,critical/pending loans at other banks,0
+d68f4626-edad-11ea-8a98-4b651e6d47c2,1537731,12,electronic equipment,1655000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f46b2-edad-11ea-8bc2-1a8e44dcc23b,1175864,24,used vehicle,2812000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f473e-edad-11ea-b09e-4a5ad1ad3c1f,1278263,36,education,8065000,3,,0,0,,2,critical/pending loans at other banks,1
+d68f47d4-edad-11ea-946a-551690ab10f7,1700305,21,used vehicle,3275000,1,car or other,0,0,,1,critical/pending loans at other banks,0
+d68f4860-edad-11ea-b9a6-51f57fd3d877,1730881,24,electronic equipment,2223000,4,building society savings agreement/life insurance,0,0,bank,2,critical/pending loans at other banks,0
+d68f48ec-edad-11ea-b9ad-32cb1cb495e8,1687239,12,new vehicle,1480000,2,,0,0,bank,3,critical/pending loans at other banks,0
+d68f4978-edad-11ea-9f51-40634ac5f582,1291883,24,new vehicle,1371000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f4a04-edad-11ea-a15e-4c16017b8624,1876616,36,new vehicle,3535000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f4a90-edad-11ea-a517-120c78778940,1888544,18,electronic equipment,3509000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68f4b12-edad-11ea-9503-1b1b168da61f,1185509,36,used vehicle,5711000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f4b9e-edad-11ea-aa35-21fc6f6e3cf3,1114818,18,repair costs,3872000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f4c2a-edad-11ea-9e9c-0a2f8912e127,1410684,39,electronic equipment,4933000,2,real estate,0,1,,2,critical/pending loans at other banks,1
+d68f4cac-edad-11ea-89f8-25741de70189,1129775,24,new vehicle,1940000,4,real estate,0,0,,1,critical/pending loans at other banks,0
+d68f4d38-edad-11ea-908d-50959580e00b,1113703,12,career development,1410000,2,real estate,0,0,,1,no loans taken/all loans paid back duly,0
+d68f4dc4-edad-11ea-a2ed-214822be6281,1458796,12,new vehicle,836000,4,building society savings agreement/life insurance,0,0,bank,1,existing loans paid back duly till now,1
+d68f4e50-edad-11ea-b858-0b645cd6931d,1859102,20,used vehicle,6468000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f4ed2-edad-11ea-b5cd-1b850433efc0,1105364,18,business,1941000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f4f5e-edad-11ea-9b5c-51e8d06085f3,1552102,22,electronic equipment,2675000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f4fea-edad-11ea-9114-2cf759ed6fdf,1768642,48,used vehicle,2751000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f5076-edad-11ea-b673-569f3cf342db,1545112,48,education,6224000,4,,0,0,,1,delay in paying off loans in the past,1
+d68f50f8-edad-11ea-abd4-59a2ab945353,1617637,40,education,5998000,4,,0,0,bank,1,critical/pending loans at other banks,1
+d68f5184-edad-11ea-aa09-2e9953b65ddc,1569484,21,business,1188000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f5210-edad-11ea-93d3-4752718e77dc,1372040,24,used vehicle,6313000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f529c-edad-11ea-a2f3-39da3a70f422,1889303,6,FF&E,1221000,1,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f531e-edad-11ea-8543-4c70565f6a85,1414229,24,FF&E,2892000,3,,0,0,,1,existing loans paid back duly till now,0
+d68f53aa-edad-11ea-b566-545763defa25,1251047,24,FF&E,3062000,4,,0,0,,1,existing loans paid back duly till now,0
+d68f5436-edad-11ea-9831-3b8a1492e517,1755345,9,FF&E,2301000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f54b8-edad-11ea-976b-3c9954e83d72,1228039,18,used vehicle,7511000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f5544-edad-11ea-9369-5843237a160d,1675569,12,FF&E,1258000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f55d0-edad-11ea-84a8-2800d7327005,1258889,24,new vehicle,717000,4,car or other,0,0,,2,delay in paying off loans in the past,0
+d68f5652-edad-11ea-905f-3199df11cd3b,1873693,9,new vehicle,1549000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f56de-edad-11ea-ab9c-15772ec2252d,1513715,24,education,1597000,4,,0,0,,2,critical/pending loans at other banks,0
+d68f576a-edad-11ea-ab40-462571343e1d,1609859,18,electronic equipment,1795000,3,real estate,0,1,bank,2,critical/pending loans at other banks,0
+d68f57ec-edad-11ea-b572-0c72598c27ab,1867602,20,FF&E,4272000,1,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f5878-edad-11ea-81c6-3c81f2a9f92f,1631439,12,electronic equipment,976000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f5904-edad-11ea-b543-5040d2c20c73,1739359,12,new vehicle,7472000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f5986-edad-11ea-9f6a-58b7237a9cd7,1487299,36,new vehicle,9271000,2,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f5a12-edad-11ea-a0ae-239cb0d1abd5,1713111,6,electronic equipment,590000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f5a9e-edad-11ea-928d-3402f7ca83fb,1207751,12,electronic equipment,930000,4,real estate,0,0,,4,critical/pending loans at other banks,0
+d68f5b20-edad-11ea-8b2c-39f314305558,1848913,42,used vehicle,9283000,1,,0,0,bank,1,all loans at this bank paid back duly,0
+d68f5bac-edad-11ea-8c61-331ac341d459,1366939,15,new vehicle,1778000,2,real estate,0,0,,2,no loans taken/all loans paid back duly,1
+d68f5c38-edad-11ea-89f3-1ad68205c542,1109861,8,business,907000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f5cba-edad-11ea-bef1-05e236d8fd0d,1662902,6,electronic equipment,484000,3,real estate,0,1,bank,1,existing loans paid back duly till now,0
+d68f5d46-edad-11ea-81f2-2229d0254e6e,1434140,36,used vehicle,9629000,4,car or other,0,0,,2,critical/pending loans at other banks,1
+d68f5dd2-edad-11ea-9a38-25331b96dc78,1310244,48,domestic appliances,3051000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f5e54-edad-11ea-b634-2b01554a325d,1455390,48,new vehicle,3931000,4,,0,0,,1,existing loans paid back duly till now,1
+d68f5ee0-edad-11ea-b5c7-319aeb47ce2f,1436351,36,new vehicle,7432000,2,building society savings agreement/life insurance,0,0,,1,delay in paying off loans in the past,0
+d68f5f80-edad-11ea-ad5b-375573207b43,1771663,6,domestic appliances,1338000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f600c-edad-11ea-b9db-1710839496eb,1646485,6,electronic equipment,1554000,1,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f6098-edad-11ea-a505-25fbec75f8ac,1113817,36,,15857000,2,car or other,1,0,,1,existing loans paid back duly till now,0
+d68f611a-edad-11ea-a358-0a70d45938c0,1834364,18,electronic equipment,1345000,4,real estate,0,0,bank,1,existing loans paid back duly till now,1
+d68f61a6-edad-11ea-860a-216098af184f,1170672,12,new vehicle,1101000,3,real estate,0,0,,2,existing loans paid back duly till now,0
+d68f6228-edad-11ea-b6f4-4b1321fb3605,1300764,12,electronic equipment,3016000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f62b4-edad-11ea-8976-33b117d94913,1725992,36,FF&E,2712000,2,building society savings agreement/life insurance,0,0,bank,1,existing loans paid back duly till now,1
+d68f6340-edad-11ea-98da-3167f04b745f,1864186,8,new vehicle,731000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f63c2-edad-11ea-a29e-1c2c4adb235b,1596340,18,FF&E,3780000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f644e-edad-11ea-a360-05dfb445a4c0,1226103,21,new vehicle,1602000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f64da-edad-11ea-8c95-1cd43c3687f9,1225173,18,new vehicle,3966000,1,real estate,0,0,bank,3,critical/pending loans at other banks,1
+d68f65f2-edad-11ea-990d-458c2dbc01e2,1632164,18,business,4165000,2,car or other,0,0,stores,2,no loans taken/all loans paid back duly,1
+d68f6674-edad-11ea-ad72-1964af5bb82a,1227188,36,used vehicle,8335000,3,,0,0,,1,existing loans paid back duly till now,1
+d68f66f6-edad-11ea-b0ef-0b9bcb9c4ad4,1529209,48,business,6681000,4,,0,0,,1,delay in paying off loans in the past,0
+d68f6782-edad-11ea-90aa-2a7abe8e30eb,1324304,24,business,2375000,4,car or other,0,0,,2,delay in paying off loans in the past,0
+d68f6804-edad-11ea-a706-20922ce0b71c,1331183,18,new vehicle,1216000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f6886-edad-11ea-bd29-37b85e2c0fce,1296225,45,business,11816000,2,car or other,0,0,,2,no loans taken/all loans paid back duly,1
+d68f6908-edad-11ea-b41e-4104ea6c41ce,1527920,24,electronic equipment,5084000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f698a-edad-11ea-903e-157ed3efab81,1319710,15,electronic equipment,2327000,2,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f6a0c-edad-11ea-8da3-52021ce72398,1649832,12,new vehicle,1082000,4,car or other,0,0,bank,2,no loans taken/all loans paid back duly,1
+d68f6a8e-edad-11ea-8320-4fd745967dc3,1282362,12,electronic equipment,886000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f6b10-edad-11ea-8cdd-243d64d3a8a8,1148187,4,FF&E,601000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f6b92-edad-11ea-ad4a-50ca1087b9d1,1609255,24,used vehicle,2957000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f6c14-edad-11ea-b677-3635436d77a7,1752833,24,electronic equipment,2611000,4,real estate,1,0,,2,critical/pending loans at other banks,0
+d68f6c96-edad-11ea-bfe4-0eca450b1fa0,1865216,36,FF&E,5179000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f6d18-edad-11ea-8c6f-363548887791,1313830,21,used vehicle,2993000,3,real estate,0,0,stores,2,delay in paying off loans in the past,0
+d68f6d9a-edad-11ea-96c3-3bdfc5f969e6,1731499,18,repair costs,1943000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f6e1c-edad-11ea-bd31-1b12feb233e6,1209302,24,business,1559000,4,car or other,0,0,bank,1,all loans at this bank paid back duly,0
+d68f6ea8-edad-11ea-bb8b-5829c589c961,1714483,18,FF&E,3422000,4,building society savings agreement/life insurance,0,0,bank,3,existing loans paid back duly till now,0
+d68f6f2a-edad-11ea-a10d-2aaebd75812d,1237910,21,FF&E,3976000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f6fac-edad-11ea-b5cf-04d5bcfcf333,1132898,18,new vehicle,6761000,2,car or other,0,0,,2,existing loans paid back duly till now,1
+d68f702e-edad-11ea-9f34-128941f6cb73,1775542,24,new vehicle,1249000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f70b0-edad-11ea-ae69-3c147ad190f2,1591350,9,electronic equipment,1364000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f7132-edad-11ea-9add-1a336d4aeceb,1398582,12,electronic equipment,709000,4,real estate,0,0,stores,1,existing loans paid back duly till now,1
+d68f71b4-edad-11ea-9782-2497809ad994,1596230,20,new vehicle,2235000,4,building society savings agreement/life insurance,0,1,bank,2,critical/pending loans at other banks,1
+d68f7236-edad-11ea-8fe0-5087c4a61be6,1785162,24,used vehicle,4042000,3,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f72b8-edad-11ea-a34d-41b37910241f,1157193,15,electronic equipment,1471000,4,,0,0,,2,critical/pending loans at other banks,0
+d68f733a-edad-11ea-b74c-32ca90ea421d,1192570,18,new vehicle,1442000,4,,0,0,,2,all loans at this bank paid back duly,1
+d68f73b2-edad-11ea-b357-41411ac14b82,1710864,36,new vehicle,10875000,2,car or other,0,0,,2,delay in paying off loans in the past,0
+d68f7434-edad-11ea-aa32-54b0d3892ab0,1566750,24,new vehicle,1474000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f74b6-edad-11ea-9097-53a320d9d6ad,1902547,10,career development,894000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f7538-edad-11ea-9cd1-4931f0bd182e,1759209,15,FF&E,3343000,4,,0,0,,1,critical/pending loans at other banks,0
+d68f75ba-edad-11ea-9f8d-1d15110665d9,1808244,15,new vehicle,3959000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f763c-edad-11ea-b02d-558fa39553dd,1201646,9,new vehicle,3577000,1,real estate,0,1,,1,existing loans paid back duly till now,0
+d68f76be-edad-11ea-8c5c-409629b522df,1607767,24,used vehicle,5804000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f7740-edad-11ea-90c1-15acc0c96b16,1330120,18,business,2169000,4,car or other,0,0,,1,delay in paying off loans in the past,1
+d68f77c2-edad-11ea-954c-1bd8d1a09387,1326318,24,electronic equipment,2439000,4,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f7844-edad-11ea-a036-013cf64ca3c4,1374670,27,FF&E,4526000,4,real estate,0,0,stores,2,critical/pending loans at other banks,0
+d68f78c6-edad-11ea-99ec-4312c534286b,1524976,10,FF&E,2210000,2,real estate,0,0,bank,1,existing loans paid back duly till now,1
+d68f7948-edad-11ea-8c14-0832f52f8505,1883700,15,FF&E,2221000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f79ca-edad-11ea-883f-51b424190cd9,1269924,18,electronic equipment,2389000,4,car or other,0,0,stores,1,existing loans paid back duly till now,0
+d68f7a4c-edad-11ea-b4f1-2395d2568b97,1597065,12,FF&E,3331000,2,building society savings agreement/life insurance,0,0,stores,1,critical/pending loans at other banks,0
+d68f7ace-edad-11ea-a953-2988b236409d,1324619,36,business,7409000,3,building society savings agreement/life insurance,0,0,,2,existing loans paid back duly till now,0
+d68f7b50-edad-11ea-900d-19065475ccce,1215860,12,FF&E,652000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f7bd2-edad-11ea-a1b8-294492368b77,1425802,36,FF&E,7678000,2,car or other,0,0,,2,delay in paying off loans in the past,0
+d68f7c54-edad-11ea-9294-0ff2484bfe80,1777992,6,new vehicle,1343000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f7cd6-edad-11ea-b7d3-41b901123461,1881691,24,business,1382000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f7d58-edad-11ea-93c2-4cc51f01bfb1,1378093,15,domestic appliances,874000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f7dda-edad-11ea-b01b-430b0c0dab32,1636229,12,FF&E,3590000,2,building society savings agreement/life insurance,1,0,,1,existing loans paid back duly till now,0
+d68f7e66-edad-11ea-b13f-2831881700ed,1578419,11,new vehicle,1322000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f7ef2-edad-11ea-92f3-2d94a292ed64,1860396,18,electronic equipment,1940000,3,,1,0,bank,1,all loans at this bank paid back duly,0
+d68f7f74-edad-11ea-aa5f-477c81b7c402,1624943,36,electronic equipment,3595000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f7ff6-edad-11ea-be2e-05fd6842552b,1620731,9,new vehicle,1422000,3,,0,0,,1,existing loans paid back duly till now,1
+d68f8078-edad-11ea-a032-07b5037b1575,1562605,30,electronic equipment,6742000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f80fa-edad-11ea-81f6-028ef44b701c,1465475,24,used vehicle,7814000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f817c-edad-11ea-b5f7-40fc52a4adfd,1321302,24,used vehicle,9277000,2,,0,0,,1,existing loans paid back duly till now,0
+d68f81fe-edad-11ea-906f-1dfdd4997391,1396513,30,new vehicle,2181000,4,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f8280-edad-11ea-ae01-46aadc8b2fa1,1612911,18,electronic equipment,1098000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f8302-edad-11ea-8b85-5a46ad3a28bd,1714860,24,FF&E,4057000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f8384-edad-11ea-8d74-38a3651ddde0,1566194,12,education,795000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f8410-edad-11ea-8e8c-370a4e7ce898,1851627,24,business,2825000,4,,0,0,,2,critical/pending loans at other banks,0
+d68f8492-edad-11ea-a9f5-1503add798a4,1207853,48,business,15672000,2,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f8514-edad-11ea-b3ba-24a1529de0f4,1891556,36,new vehicle,6614000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f8596-edad-11ea-bbc0-16d2c1a11cd7,1295527,28,used vehicle,7824000,3,real estate,0,1,bank,2,all loans at this bank paid back duly,0
+d68f8618-edad-11ea-8079-56c331d8d412,1184172,27,business,2442000,4,car or other,0,0,stores,4,critical/pending loans at other banks,0
+d68f86a4-edad-11ea-82b4-185e0a70c6dd,1121429,15,electronic equipment,1829000,4,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f8726-edad-11ea-871a-1706b77106af,1163715,12,new vehicle,2171000,4,building society savings agreement/life insurance,0,0,bank,2,critical/pending loans at other banks,0
+d68f87a8-edad-11ea-83e6-11b7e939a86d,1851827,36,used vehicle,5800000,3,car or other,0,0,,2,critical/pending loans at other banks,0
+d68f882a-edad-11ea-a8ed-57d81d9fc12f,1175107,18,electronic equipment,1169000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f88ac-edad-11ea-8009-3bbb2ccad29c,1262341,36,used vehicle,8947000,3,car or other,0,0,stores,1,delay in paying off loans in the past,0
+d68f892e-edad-11ea-98ed-4adcef07d353,1847909,21,electronic equipment,2606000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f89b0-edad-11ea-a219-0a04105402f0,1627071,12,FF&E,1592000,3,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68f8a3c-edad-11ea-8d9f-52c4a39e5b1d,1501276,15,FF&E,2186000,1,real estate,0,0,bank,1,existing loans paid back duly till now,0
+d68f8abe-edad-11ea-948c-45e4408a0774,1300945,18,FF&E,4153000,2,car or other,1,0,,1,existing loans paid back duly till now,1
+d68f8b40-edad-11ea-9e91-047d199d5ddf,1467259,16,new vehicle,2625000,2,building society savings agreement/life insurance,0,1,bank,1,critical/pending loans at other banks,1
+d68f8bc2-edad-11ea-8db9-5961d0ae8342,1621154,20,new vehicle,3485000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f8c44-edad-11ea-b1f4-448cb7effb4c,1546272,36,used vehicle,10477000,2,,0,0,,2,critical/pending loans at other banks,0
+d68f8cc6-edad-11ea-b9b8-14081ab4aa08,1223571,15,electronic equipment,1386000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f8d48-edad-11ea-a5c6-53bc8840b3dd,1344883,24,electronic equipment,1278000,4,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f8dca-edad-11ea-867d-5a9dfd16c8fb,1894721,12,electronic equipment,1107000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f8e4c-edad-11ea-8a96-12b92f7442d4,1839877,21,new vehicle,3763000,2,real estate,1,0,,1,existing loans paid back duly till now,0
+d68f8ece-edad-11ea-985a-277efd442eca,1792973,36,education,3711000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f8f46-edad-11ea-a020-2788cd4fb839,1604138,15,used vehicle,3594000,1,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68f8fc8-edad-11ea-93bf-592b5aec5c8a,1165411,9,new vehicle,3195000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f904a-edad-11ea-84a7-0ef883a8de23,1142707,36,electronic equipment,4454000,4,real estate,0,0,,2,delay in paying off loans in the past,0
+d68f90cc-edad-11ea-a8de-0ba74d5a1b2c,1511482,24,FF&E,4736000,2,car or other,0,0,bank,1,critical/pending loans at other banks,1
+d68f914e-edad-11ea-852a-43d85a42cee0,1506652,30,electronic equipment,2991000,2,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f91d0-edad-11ea-b680-575a4a4c9fb1,1690613,11,business,2142000,1,real estate,0,0,,1,existing loans paid back duly till now,0
+d68f9252-edad-11ea-b049-33a5139fc8bb,1341536,24,business,3161000,4,building society savings agreement/life insurance,0,0,,1,all loans at this bank paid back duly,1
+d68f92d4-edad-11ea-a6c1-0213632cf09b,1181133,48,,18424000,1,building society savings agreement/life insurance,0,0,bank,1,no loans taken/all loans paid back duly,1
+d68f9356-edad-11ea-925f-58ab9f5d95f8,1620525,10,used vehicle,2848000,1,real estate,1,0,,1,existing loans paid back duly till now,0
+d68f93d8-edad-11ea-b11e-3ba8d236161b,1316293,6,new vehicle,14896000,1,,0,0,bank,1,existing loans paid back duly till now,1
+d68f945a-edad-11ea-9677-390d9e926a48,1214474,24,FF&E,2359000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f94dc-edad-11ea-a7c0-4f9f06574fee,1656780,24,FF&E,3345000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f955e-edad-11ea-bc13-2f7ad2f39d1a,1620879,18,FF&E,1817000,4,,0,0,,2,critical/pending loans at other banks,0
+d68f95e0-edad-11ea-9500-27a8eff45aea,1277992,48,electronic equipment,12749000,4,car or other,0,0,,1,delay in paying off loans in the past,0
+d68f9662-edad-11ea-8f0e-2392233681e5,1718184,9,electronic equipment,1366000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68f96e4-edad-11ea-8603-48a05bb32256,1875017,12,new vehicle,2002000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68f9766-edad-11ea-ae98-47713c3e6a8a,1348796,24,FF&E,6872000,2,building society savings agreement/life insurance,0,0,bank,1,all loans at this bank paid back duly,1
+d68f97e8-edad-11ea-8457-49e3ecc398d8,1853451,12,new vehicle,697000,4,car or other,0,0,bank,2,all loans at this bank paid back duly,1
+d68f986a-edad-11ea-a421-11fa6cf122d5,1561011,18,FF&E,1049000,4,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,0
+d68f98ec-edad-11ea-afa5-18ba290c113c,1461746,48,used vehicle,10297000,4,,0,0,stores,3,existing loans paid back duly till now,1
+d68f996e-edad-11ea-894a-038f37d22b84,1708241,30,electronic equipment,1867000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f99f0-edad-11ea-bc17-3e6e179e57bb,1697111,12,new vehicle,1344000,4,real estate,0,0,,2,delay in paying off loans in the past,0
+d68f9a72-edad-11ea-b77f-3f9e0d0790bb,1629759,24,FF&E,1747000,4,building society savings agreement/life insurance,1,0,,1,existing loans paid back duly till now,0
+d68f9af4-edad-11ea-9595-35d90df67b09,1797093,9,electronic equipment,1670000,4,car or other,0,0,,1,existing loans paid back duly till now,1
+d68f9b76-edad-11ea-8c49-3902d79033f4,1484251,9,new vehicle,1224000,3,real estate,0,0,,2,critical/pending loans at other banks,0
+d68f9bf8-edad-11ea-b439-390cdd7bcc85,1224220,12,electronic equipment,522000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f9c7a-edad-11ea-a916-14b7f29098f7,1631343,12,electronic equipment,1498000,4,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68f9cfc-edad-11ea-9a60-389d29e8d844,1379089,30,electronic equipment,1919000,4,,0,0,stores,2,delay in paying off loans in the past,1
+d68f9d7e-edad-11ea-b449-06447b8d1611,1566487,9,electronic equipment,745000,3,real estate,0,0,,1,existing loans paid back duly till now,1
+d68f9e00-edad-11ea-ba2d-3f1627efa3ef,1324370,6,electronic equipment,2063000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68f9e8c-edad-11ea-b366-2f32cd763898,1597372,60,education,6288000,4,,0,0,,1,existing loans paid back duly till now,1
+d68f9f0e-edad-11ea-9adb-3159059da68e,1230532,24,used vehicle,6842000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68f9f86-edad-11ea-a619-0e1ae973eb10,1277957,12,new vehicle,3527000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68fa012-edad-11ea-9ec7-1c1b1b581d47,1233898,10,new vehicle,1546000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68fa094-edad-11ea-9e78-4a34ece526c2,1903505,24,FF&E,929000,4,car or other,0,0,stores,1,existing loans paid back duly till now,0
+d68fa116-edad-11ea-a3ce-3f8a896d8e37,1838598,4,new vehicle,1455000,2,real estate,0,0,,3,critical/pending loans at other banks,0
+d68fa198-edad-11ea-a95b-173432beceb6,1420837,15,FF&E,1845000,4,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68fa21a-edad-11ea-96cc-30e77b142d8b,1106411,48,new vehicle,8358000,1,car or other,0,0,,2,no loans taken/all loans paid back duly,0
+d68fa29c-edad-11ea-8e2c-2da7e777a812,1855489,24,FF&E,3349000,4,,0,0,,1,all loans at this bank paid back duly,1
+d68fa31e-edad-11ea-9836-444133e102df,1830446,12,new vehicle,2859000,4,,0,0,,1,existing loans paid back duly till now,0
+d68fa3a0-edad-11ea-962f-3e6b2fd58f0d,1441977,18,FF&E,1533000,4,building society savings agreement/life insurance,1,0,,1,existing loans paid back duly till now,1
+d68fa422-edad-11ea-ae00-204224e23cf9,1856513,24,electronic equipment,3621000,2,car or other,0,0,,2,existing loans paid back duly till now,1
+d68fa4a4-edad-11ea-a5d2-5124ad9ed5ba,1406906,18,business,3590000,3,car or other,0,0,,3,critical/pending loans at other banks,0
+d68fa526-edad-11ea-bd95-4b796665452a,1484297,36,business,2145000,2,car or other,0,0,,2,delay in paying off loans in the past,1
+d68fa5a8-edad-11ea-869a-47ccd38742a4,1740610,24,used vehicle,4113000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68fa62a-edad-11ea-aa68-336c1a7d3dff,1297322,36,FF&E,10974000,4,car or other,0,0,,2,existing loans paid back duly till now,1
+d68fa6ac-edad-11ea-900e-1849c826958f,1794786,12,new vehicle,1893000,4,building society savings agreement/life insurance,0,1,,1,existing loans paid back duly till now,0
+d68fa72e-edad-11ea-8bcc-47672cc907a4,1843702,24,electronic equipment,1231000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68fa7b0-edad-11ea-91cf-4ae2c9f63407,1853266,30,electronic equipment,3656000,4,building society savings agreement/life insurance,0,0,stores,2,critical/pending loans at other banks,0
+d68fa832-edad-11ea-ab78-0b38f9d40bcb,1584434,9,electronic equipment,1154000,2,real estate,0,0,,3,critical/pending loans at other banks,0
+d68fa8b4-edad-11ea-80d1-0868d851891d,1622389,28,new vehicle,4006000,3,car or other,0,0,,1,existing loans paid back duly till now,1
+d68fa936-edad-11ea-9aaf-1e2c38b98464,1601048,24,FF&E,3069000,4,,0,0,,1,existing loans paid back duly till now,0
+d68fa9b8-edad-11ea-af22-0b35c3cf5357,1210748,6,electronic equipment,1740000,2,real estate,0,0,,2,critical/pending loans at other banks,0
+d68faa3a-edad-11ea-8e03-47af933a1e87,1584674,21,new vehicle,2353000,1,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68faac6-edad-11ea-bb5d-074a1e2e0bc4,1773509,15,new vehicle,3556000,3,,0,0,,1,existing loans paid back duly till now,0
+d68fab48-edad-11ea-bf4a-2087f0e1528c,1315873,24,electronic equipment,2397000,3,car or other,0,0,bank,2,existing loans paid back duly till now,1
+d68fabca-edad-11ea-a462-39f22601190b,1659170,6,repair costs,454000,3,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68fac4c-edad-11ea-9204-23170d8896f6,1161027,30,electronic equipment,1715000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68facce-edad-11ea-8458-0fb75adcf0c3,1666331,27,electronic equipment,2520000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,1
+d68fad50-edad-11ea-8255-000213a5442a,1853070,15,electronic equipment,3568000,4,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68fadd2-edad-11ea-bb01-095570fea35a,1355404,42,electronic equipment,7166000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68fae54-edad-11ea-a564-15c0072d0a59,1655259,11,new vehicle,3939000,1,real estate,0,0,,2,critical/pending loans at other banks,0
+d68faed6-edad-11ea-8ea2-3876ae660a16,1662480,15,repair costs,1514000,4,real estate,0,1,,1,existing loans paid back duly till now,0
+d68faf58-edad-11ea-977a-3d4957a8f219,1637827,24,new vehicle,7393000,1,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68fafda-edad-11ea-9938-25086a567840,1107910,24,new vehicle,1193000,1,,1,0,,2,all loans at this bank paid back duly,1
+d68fb05c-edad-11ea-b622-46bbef513d40,1286651,60,business,7297000,4,,1,0,,1,existing loans paid back duly till now,1
+d68fb0de-edad-11ea-9336-32bd42489178,1386565,30,electronic equipment,2831000,4,car or other,0,0,,1,critical/pending loans at other banks,0
+d68fb160-edad-11ea-a23d-16fbdce17e58,1782237,24,electronic equipment,1258000,3,car or other,0,0,,1,existing loans paid back duly till now,0
+d68fb1e2-edad-11ea-929d-358bf5ff6355,1755205,6,electronic equipment,753000,2,real estate,0,1,,1,existing loans paid back duly till now,0
+d68fb264-edad-11ea-bcad-5007c13637aa,1570934,18,business,2427000,4,building society savings agreement/life insurance,0,0,,2,delay in paying off loans in the past,0
+d68fb2e6-edad-11ea-ae80-17d7a8197650,1825579,24,new vehicle,2538000,4,car or other,0,0,,2,delay in paying off loans in the past,1
+d68fb368-edad-11ea-9e34-090b35da367a,1705740,15,new vehicle,1264000,2,building society savings agreement/life insurance,0,0,,1,all loans at this bank paid back duly,1
+d68fb3ea-edad-11ea-8b62-10c102a56fe3,1466304,30,FF&E,8386000,2,building society savings agreement/life insurance,0,0,,1,critical/pending loans at other banks,1
+d68fb46c-edad-11ea-9522-485b08edcb61,1880388,48,business,4844000,3,car or other,0,0,bank,1,existing loans paid back duly till now,1
+d68fb4ee-edad-11ea-ade2-2112445a5325,1782965,21,new vehicle,2923000,1,car or other,0,0,bank,1,existing loans paid back duly till now,0
+d68fb57a-edad-11ea-835d-0eaaecc1066c,1775563,36,used vehicle,8229000,2,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,1
+d68fb5fc-edad-11ea-8cc1-1d43c9a02568,1355517,24,FF&E,2028000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68fb67e-edad-11ea-8d5a-29f542a3a609,1490831,15,FF&E,1433000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68fb700-edad-11ea-b528-09bb189f2590,1902571,42,business,6289000,2,building society savings agreement/life insurance,0,0,,2,no loans taken/all loans paid back duly,0
+d68fb782-edad-11ea-9ae1-1f2b603d6443,1555553,13,electronic equipment,1409000,2,real estate,0,0,,1,existing loans paid back duly till now,0
+d68fb804-edad-11ea-9392-40d29f052bf4,1633096,24,used vehicle,6579000,4,,0,0,,1,existing loans paid back duly till now,0
+d68fb886-edad-11ea-9d9a-524c8d98fc00,1866309,24,electronic equipment,1743000,4,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68fb912-edad-11ea-a2a8-40ec8a427ec2,1354034,12,education,3565000,2,building society savings agreement/life insurance,0,0,,2,critical/pending loans at other banks,0
+d68fb99e-edad-11ea-b9a9-15d10df9edbb,1365267,15,electronic equipment,1569000,4,car or other,0,0,bank,1,all loans at this bank paid back duly,0
+d68fba20-edad-11ea-bb04-189bfb8e51dd,1237705,18,electronic equipment,1936000,2,car or other,0,0,,2,existing loans paid back duly till now,0
+d68fbaa2-edad-11ea-b849-58397a50baa9,1609685,36,FF&E,3959000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68fbb24-edad-11ea-8782-4ba4a1f08b11,1615010,12,new vehicle,2390000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68fbba6-edad-11ea-80fe-30b2f9300e3d,1880194,12,FF&E,1736000,3,real estate,0,0,,1,existing loans paid back duly till now,0
+d68fbc28-edad-11ea-bc62-4240ac0824fa,1114064,30,used vehicle,3857000,4,building society savings agreement/life insurance,0,0,,1,existing loans paid back duly till now,0
+d68fbcaa-edad-11ea-aafc-2de1139e42cd,1758046,12,electronic equipment,804000,4,car or other,0,0,,1,existing loans paid back duly till now,0
+d68fbd2c-edad-11ea-b49e-2894666f2df6,1824545,45,electronic equipment,1845000,4,,0,0,,1,existing loans paid back duly till now,1
+d68fbdae-edad-11ea-a2ea-1c661d77d225,1660770,45,used vehicle,4576000,3,car or other,0,0,,1,critical/pending loans at other banks,0

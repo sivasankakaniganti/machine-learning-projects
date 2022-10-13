@@ -1,0 +1,50 @@
+import features:
+
+Months_loan_taken_for
+Principal_loan_amount
+Primary_applicant_age_in_years
+Has_been_employed_for_at_least
+Has_been_employed_for_at_most
+Purpose
+Savings_account_balance
+Has_coapplicant
+Has_guarantor
+Gender
+Marital_status
+Housing
+Property
+Number_of_existing_loans_at_this_bank
+EMI_rate_in_percentage_of_disposable_income
+Foreign_worker
+Balance_in_existing_bank_account_(lower_limit_of_bucket)
+Balance_in_existing_bank_account_(upper_limit_of_bucket)
+
+
+
+not important :
+
+Years_at_current_residence
+Number_of_dependents
+Other_EMI_plans
+Employment_status
+Telephone
+
+
+
+wrong or corrupted :
+
+Loan_history
+
+
+
+NUll values to fill
+
+Has_been_employed_for_at_least
+
+Has_been_employed_for_at_most
+
+Purpose
+
+Property
+
+Savings_account_balance

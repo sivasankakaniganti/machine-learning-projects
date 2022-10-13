@@ -1,0 +1,1001 @@
+applicant_id,Primary_applicant_age_in_years,Gender,Marital_status,Number_of_dependents,Housing,Years_at_current_residence,Employment_status,Has_been_employed_for_at_least,Has_been_employed_for_at_most,Telephone,Foreign_worker,Savings_account_balance,Balance_in_existing_bank_account_(lower_limit_of_bucket),Balance_in_existing_bank_account_(upper_limit_of_bucket)
+1469590,67,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,0
+1203873,22,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1432761,49,male,single,2,own,3,unskilled - resident,4 years,7 years,,1,Low,,
+1207582,45,male,single,2,for free,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1674436,53,male,single,2,for free,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1213971,35,male,single,2,for free,4,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,,,
+1428822,53,male,single,1,own,4,skilled employee / official,7 years,,,1,High,,
+1705739,35,male,single,1,rent,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1715169,61,male,divorced/separated,1,own,4,unskilled - resident,4 years,7 years,,1,Very high,,
+1722991,28,male,married/widowed,1,own,2,management / self-employed / highly qualified employee / officer,,0 year,,1,Low,0,2 lac
+1719964,25,female,divorced/separated/married,1,rent,1,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1818043,24,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1231297,22,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1172292,60,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,,0
+1154808,28,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1648542,32,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,Medium,,0
+1193245,53,male,single,1,own,4,skilled employee / official,7 years,,,1,,,
+1740408,25,male,single,1,own,3,skilled employee / official,0 year,1 year,,1,,,0
+1250076,44,female,divorced/separated/married,1,for free,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1616625,31,male,single,2,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,High,,
+1428429,48,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1272219,44,male,single,2,rent,3,skilled employee / official,1 year,4 years,,1,High,,0
+1771414,48,male,single,2,rent,3,unskilled - resident,0 year,1 year,,0,Low,,0
+1666563,44,male,single,1,own,4,skilled employee / official,0 year,1 year,,1,Medium,0,2 lac
+1847764,26,male,married/widowed,1,own,1,skilled employee / official,1 year,4 years,,0,,,
+1138996,36,male,single,1,own,2,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1578742,39,male,married/widowed,1,own,4,unskilled - resident,7 years,,,1,Low,,
+1709277,42,female,divorced/separated/married,1,rent,3,skilled employee / official,1 year,4 years,,1,Very high,2 lac,
+1508823,34,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1323870,63,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1414851,36,male,married/widowed,1,own,3,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Very high,0,2 lac
+1764281,27,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1291798,30,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Medium,0,2 lac
+1873969,57,male,single,1,rent,4,unskilled - resident,7 years,,,1,,,
+1888210,33,female,divorced/separated/married,1,own,1,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,2 lac,
+1547494,25,male,single,1,own,2,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1674114,31,male,single,1,for free,3,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1330233,37,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,2 lac,
+1443666,37,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,2 lac,
+1574283,24,male,single,1,own,3,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1866940,30,male,single,1,own,2,management / self-employed / highly qualified employee / officer,7 years,,,1,High,,
+1188917,26,male,divorced/separated,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,0,2 lac
+1491485,44,male,single,2,own,4,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1381317,24,male,married/widowed,1,rent,4,skilled employee / official,4 years,7 years,,1,Medium,,0
+1246402,58,female,divorced/separated/married,1,for free,4,unskilled - resident,7 years,,,1,Low,,0
+1641291,35,female,divorced/separated/married,1,own,4,management / self-employed / highly qualified employee / officer,0 year,1 year,,1,Low,,
+1716706,39,male,single,1,own,4,skilled employee / official,7 years,,,1,High,,
+1395153,23,female,divorced/separated/married,1,rent,2,unemployed / unskilled - non-resident,,0 year,Registered under the applicant's name,1,High,,0
+1697859,39,male,single,1,own,4,unskilled - resident,1 year,4 years,,1,Low,,
+1193227,28,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Medium,,
+1850736,29,male,single,1,own,2,unskilled - resident,0 year,1 year,,1,,0,2 lac
+1771270,30,male,single,1,own,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1840431,25,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1502325,31,male,single,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1151072,57,male,single,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1875288,26,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,,,
+1361963,52,male,single,1,own,1,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,0,2 lac
+1599723,31,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1438784,23,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,7 years,,,1,Low,2 lac,
+1274604,23,female,divorced/separated/married,1,rent,4,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1548860,27,male,married/widowed,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1570047,50,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,0,2 lac
+1825757,61,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1304525,25,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1750074,26,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1134752,48,male,single,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1505713,29,female,divorced/separated/married,1,own,2,skilled employee / official,0 year,1 year,,1,Low,,
+1724003,22,male,married/widowed,1,own,1,skilled employee / official,1 year,4 years,,1,Very high,0,2 lac
+1388519,37,male,single,1,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1724882,25,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,,1,,,
+1463336,30,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1804919,46,male,single,1,rent,2,unskilled - resident,7 years,,Registered under the applicant's name,1,,,
+1591747,51,male,single,2,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1743709,41,female,divorced/separated/married,1,own,1,unskilled - resident,4 years,7 years,,1,Low,0,2 lac
+1472593,40,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,,0
+1641977,66,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,,1,Low,,0
+1649753,34,male,single,1,own,3,skilled employee / official,0 year,1 year,,1,Low,,0
+1149571,51,male,single,1,own,4,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1691240,39,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,,,
+1838961,22,male,married/widowed,1,own,1,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1403464,44,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,,,
+1646022,47,male,single,1,own,3,skilled employee / official,7 years,,Registered under the applicant's name,1,High,,
+1106801,24,female,divorced/separated/married,1,rent,4,unskilled - resident,1 year,4 years,,1,Medium,,
+1616296,58,female,divorced/separated/married,1,own,4,unskilled - resident,7 years,,Registered under the applicant's name,1,Low,,0
+1238277,52,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,,0
+1175457,29,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,
+1576577,27,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1586725,47,male,single,2,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Medium,0,2 lac
+1660853,30,male,single,2,own,3,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Medium,,0
+1132472,28,male,single,1,own,3,skilled employee / official,4 years,7 years,,1,Low,,0
+1368120,56,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,
+1403185,54,male,single,1,own,3,skilled employee / official,7 years,,,1,Low,,0
+1601892,33,female,divorced/separated/married,2,own,3,unskilled - resident,7 years,,,1,,,
+1220273,20,male,single,1,rent,4,skilled employee / official,7 years,,,1,,2 lac,
+1713632,54,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Very high,0,2 lac
+1416025,58,male,single,1,rent,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1610826,61,female,divorced/separated/married,1,own,2,skilled employee / official,4 years,7 years,,1,,,
+1887006,34,male,single,1,own,4,skilled employee / official,1 year,4 years,,1,Medium,0,2 lac
+1570732,36,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,0,2 lac
+1617889,36,male,single,2,rent,4,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,,0,2 lac
+1318902,41,male,married/widowed,1,rent,4,unskilled - resident,7 years,,,1,Medium,,
+1466716,24,male,single,1,rent,4,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1621669,24,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1901818,35,male,single,1,rent,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,0,2 lac
+1114473,26,male,married/widowed,1,rent,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,,,
+1514853,39,male,single,2,own,3,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1645589,39,male,single,2,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1504772,32,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1698579,30,female,divorced/separated/married,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,0,,,0
+1754975,35,male,married/widowed,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,High,0,2 lac
+1222155,31,male,divorced/separated,2,own,2,skilled employee / official,7 years,,,1,Medium,0,2 lac
+1719636,23,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,2 lac,
+1323966,28,male,single,1,rent,3,unskilled - resident,4 years,7 years,,1,Low,0,2 lac
+1683052,25,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1405004,35,male,married/widowed,1,own,1,skilled employee / official,7 years,,,1,High,,0
+1848791,47,male,single,1,own,1,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1229152,30,female,divorced/separated/married,1,own,3,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,,,0
+1206049,27,female,divorced/separated/married,1,rent,3,skilled employee / official,0 year,1 year,,0,,,0
+1651983,23,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,,1,High,,0
+1357789,36,male,divorced/separated,1,own,3,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,High,0,2 lac
+1506336,25,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1171493,41,female,divorced/separated/married,1,rent,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1278346,24,male,single,1,rent,2,unskilled - resident,1 year,4 years,,1,Low,,
+1852036,63,male,single,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,2 lac,
+1717438,27,female,divorced/separated/married,1,rent,3,skilled employee / official,0 year,1 year,,1,,0,2 lac
+1168894,30,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1169906,40,male,married/widowed,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1693022,30,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1125378,34,male,single,1,own,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1355140,29,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1156488,24,female,divorced/separated/married,1,own,2,skilled employee / official,4 years,7 years,,1,,0,2 lac
+1817517,29,male,single,1,own,3,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1183266,27,male,single,1,own,3,unskilled - resident,0 year,1 year,,1,Low,,
+1834069,47,male,single,1,for free,4,skilled employee / official,1 year,4 years,,1,Low,,
+1501095,21,female,divorced/separated/married,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,,
+1577050,38,female,divorced/separated/married,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1601894,27,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Very high,,
+1376069,66,male,single,1,own,3,unskilled - resident,1 year,4 years,,1,High,0,2 lac
+1450465,35,male,single,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,0,2 lac
+1565903,44,female,divorced/separated/married,1,rent,2,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Low,2 lac,
+1124574,27,male,married/widowed,1,own,2,unemployed / unskilled - non-resident,0 year,1 year,,0,Very high,2 lac,
+1432828,30,female,divorced/separated/married,1,own,1,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1682758,27,male,single,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,,1,Low,,0
+1902944,22,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1774498,23,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1411456,30,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Medium,0,2 lac
+1387053,39,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1563602,51,female,divorced/separated/married,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,,
+1901178,28,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1841686,46,male,single,1,own,4,skilled employee / official,7 years,,,1,Very high,,
+1403203,42,male,single,2,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Medium,,
+1448565,38,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,0,Low,,
+1538125,24,male,single,1,own,1,skilled employee / official,1 year,4 years,,1,Low,2 lac,
+1115975,29,female,divorced/separated/married,1,rent,4,skilled employee / official,7 years,,,1,Very high,0,2 lac
+1230615,36,male,single,1,rent,4,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Medium,0,2 lac
+1841503,20,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1321123,48,male,single,2,own,4,skilled employee / official,7 years,,,0,Medium,,0
+1691733,45,male,married/widowed,1,own,1,unskilled - resident,7 years,,,1,Low,,0
+1680095,38,male,single,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,0,2 lac
+1660328,34,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,,,
+1187072,36,male,single,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Medium,,
+1460273,30,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,
+1138817,36,male,single,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,High,,
+1628583,70,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1734823,36,male,single,1,own,4,skilled employee / official,7 years,,,1,High,,
+1280180,32,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,,
+1279502,33,female,divorced/separated/married,1,own,2,skilled employee / official,,0 year,,1,Low,,0
+1699886,20,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Very high,0,2 lac
+1183811,25,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1775311,31,male,divorced/separated,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1770037,33,male,single,2,rent,3,skilled employee / official,7 years,,,1,Low,,0
+1420832,26,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1388983,34,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1827797,33,male,single,1,own,2,skilled employee / official,1 year,4 years,,0,Low,0,2 lac
+1758397,26,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,0
+1126090,53,female,divorced/separated/married,1,own,1,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,,
+1653715,42,male,divorced/separated,1,own,1,skilled employee / official,1 year,4 years,,1,Low,,0
+1534783,52,male,single,1,own,4,skilled employee / official,7 years,,,1,High,,0
+1705627,31,male,single,2,rent,2,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,
+1156764,65,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,0
+1351247,28,male,divorced/separated,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,
+1324848,30,male,divorced/separated,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1706494,40,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,,,0
+1325093,50,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Very high,,
+1168078,36,male,single,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1625627,31,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1645519,74,female,divorced/separated/married,2,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1308726,68,male,single,1,for free,3,unemployed / unskilled - non-resident,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1460398,20,male,married/widowed,1,own,1,skilled employee / official,4 years,7 years,,1,Medium,,0
+1802699,33,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1693215,54,male,single,1,own,3,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Very high,,
+1493175,34,male,single,2,for free,4,unskilled - resident,4 years,7 years,,1,Medium,0,2 lac
+1387043,36,male,single,2,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1603493,29,male,married/widowed,1,rent,2,skilled employee / official,4 years,7 years,,1,Low,,
+1807486,21,male,single,1,rent,4,skilled employee / official,1 year,4 years,,1,Medium,0,2 lac
+1543290,34,female,divorced/separated/married,1,own,3,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1468750,28,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1849580,27,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Medium,0,2 lac
+1855241,36,male,single,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,0,2 lac
+1709944,40,male,divorced/separated,1,own,3,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1781381,52,male,single,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,High,,
+1505411,27,male,married/widowed,1,own,3,unskilled - resident,1 year,4 years,,1,Low,,0
+1662647,26,male,single,1,own,4,skilled employee / official,4 years,7 years,,1,Low,,
+1277108,21,male,married/widowed,1,rent,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1632379,38,male,single,2,own,1,unskilled - resident,7 years,,,1,Low,,
+1232889,38,male,single,2,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1729265,43,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1266769,26,male,single,1,own,3,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1457378,21,male,married/widowed,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1241829,55,male,single,1,own,2,skilled employee / official,4 years,7 years,,0,Very high,,
+1586696,33,male,single,2,own,2,skilled employee / official,1 year,4 years,,1,,,
+1878718,45,female,divorced/separated/married,1,own,4,unskilled - resident,7 years,,Registered under the applicant's name,1,,,
+1613024,50,male,single,1,own,4,skilled employee / official,,0 year,Registered under the applicant's name,1,Low,,0
+1781216,66,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,2 lac,
+1529476,51,male,single,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1680133,39,female,divorced/separated/married,1,own,3,unskilled - resident,4 years,7 years,,1,,0,2 lac
+1671701,31,male,single,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1698484,23,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,2 lac,
+1482932,24,male,divorced/separated,1,rent,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1332984,64,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1280672,26,male,married/widowed,1,own,1,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1622064,23,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,0
+1593121,30,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1128002,32,male,single,2,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1761229,30,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1564360,27,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1749949,27,male,single,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Very high,0,2 lac
+1468094,53,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1857654,22,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,
+1785759,22,male,single,1,for free,1,skilled employee / official,0 year,1 year,,1,Low,,0
+1596358,26,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,2 lac,
+1515190,51,male,single,1,for free,4,unskilled - resident,7 years,,,1,High,,
+1720597,35,male,single,1,own,1,skilled employee / official,4 years,7 years,,1,Medium,,
+1487170,25,male,married/widowed,1,own,2,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1570458,42,male,single,2,own,1,unskilled - resident,4 years,7 years,,1,Low,,
+1216325,30,male,single,2,own,2,management / self-employed / highly qualified employee / officer,,0 year,,1,Low,,0
+1810247,23,male,single,1,own,2,unemployed / unskilled - non-resident,,0 year,Registered under the applicant's name,1,,0,2 lac
+1303121,61,male,divorced/separated,1,rent,2,unskilled - resident,7 years,,,1,Medium,0,2 lac
+1755306,35,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1429938,39,male,single,2,own,3,skilled employee / official,7 years,,,1,Low,,0
+1255291,29,female,divorced/separated/married,1,own,2,skilled employee / official,7 years,,,1,,,0
+1766084,51,male,single,2,own,2,skilled employee / official,4 years,7 years,,1,Low,,
+1598979,24,male,single,2,for free,4,skilled employee / official,7 years,,,1,Low,,0
+1700009,27,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1591456,35,female,divorced/separated/married,2,own,3,unskilled - resident,1 year,4 years,,1,High,,
+1444099,25,male,single,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1627604,52,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,
+1533746,35,male,single,1,rent,1,skilled employee / official,1 year,4 years,,0,Medium,,
+1659113,26,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,2 lac,
+1276035,22,female,divorced/separated/married,1,rent,4,skilled employee / official,,0 year,,1,Low,,
+1812017,39,female,divorced/separated/married,1,own,4,unskilled - resident,4 years,7 years,Registered under the applicant's name,1,Very high,,0
+1540012,46,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,Low,2 lac,
+1582743,24,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1891614,35,male,single,1,own,3,skilled employee / official,1 year,4 years,,1,Medium,,
+1685016,24,male,single,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,0,2 lac
+1656238,27,male,single,1,own,1,unskilled - resident,1 year,4 years,,1,,0,2 lac
+1444375,35,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,
+1148952,29,male,divorced/separated,1,for free,1,skilled employee / official,1 year,4 years,,1,Low,,0
+1397248,23,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Medium,,
+1513777,57,female,divorced/separated/married,1,own,4,unskilled - resident,,0 year,,1,Medium,,
+1352424,27,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1585697,55,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,,1,Low,,0
+1552427,36,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1194650,57,female,divorced/separated/married,1,for free,4,unskilled - resident,7 years,,,1,Low,,
+1516910,32,male,single,2,own,4,unskilled - resident,7 years,,,0,Low,,
+1847834,37,male,single,2,own,3,skilled employee / official,7 years,,,1,Low,0,2 lac
+1647128,36,male,single,1,own,4,skilled employee / official,7 years,,,1,,,
+1232944,38,female,divorced/separated/married,1,own,3,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1310758,45,male,divorced/separated,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,0,Low,,0
+1650945,25,male,single,1,own,2,skilled employee / official,7 years,,,1,,,
+1193039,32,male,single,1,own,3,skilled employee / official,4 years,7 years,,0,,,
+1753115,37,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,High,,
+1799149,36,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,0,2 lac
+1152260,28,male,single,1,own,4,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1522384,34,male,divorced/separated,1,own,1,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1826417,32,male,single,2,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1860196,26,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1832835,49,male,divorced/separated,1,own,4,unskilled - resident,7 years,,Registered under the applicant's name,1,,,0
+1268091,32,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,,1,Low,,
+1755105,29,male,single,1,rent,4,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Medium,,
+1769868,23,male,single,1,rent,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Very high,,
+1243419,50,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1131444,49,male,single,1,own,4,unskilled - resident,4 years,7 years,,1,,2 lac,
+1844436,63,male,single,1,own,4,skilled employee / official,7 years,,,1,,,
+1856693,37,male,divorced/separated,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Medium,0,2 lac
+1405233,35,female,divorced/separated/married,1,own,1,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1442483,26,male,single,2,own,3,skilled employee / official,4 years,7 years,,1,Low,,0
+1761078,31,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Medium,0,2 lac
+1838488,49,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1379318,48,male,married/widowed,1,own,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1688183,26,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,0,Low,,
+1340983,28,male,married/widowed,1,rent,4,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1163798,44,female,divorced/separated/married,2,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1225433,56,male,single,1,for free,4,skilled employee / official,7 years,,,1,Low,2 lac,
+1563134,46,male,divorced/separated,2,own,2,management / self-employed / highly qualified employee / officer,7 years,,,1,,,
+1559877,26,female,divorced/separated/married,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1437216,20,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,,,
+1347244,45,male,single,1,own,2,unskilled - resident,7 years,,,0,,,
+1124063,43,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1395426,32,male,single,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Very high,0,2 lac
+1313483,54,female,divorced/separated/married,1,own,4,unemployed / unskilled - non-resident,,0 year,Registered under the applicant's name,1,Low,,
+1704941,42,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1420165,37,male,single,2,own,2,unskilled - resident,4 years,7 years,,1,,2 lac,
+1600427,49,male,single,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1722344,44,male,single,1,for free,2,skilled employee / official,1 year,4 years,,1,High,,
+1535647,33,male,divorced/separated,1,own,2,skilled employee / official,1 year,4 years,,1,Very high,,
+1774831,24,female,divorced/separated/married,1,rent,4,unskilled - resident,4 years,7 years,,1,,,
+1385836,33,male,married/widowed,1,own,3,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Medium,,0
+1211897,24,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1241781,22,male,married/widowed,1,rent,4,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1538187,40,male,single,1,for free,4,unemployed / unskilled - non-resident,,0 year,Registered under the applicant's name,1,,0,2 lac
+1770099,25,male,single,1,own,1,skilled employee / official,1 year,4 years,,1,Medium,,
+1246068,26,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,,1,Low,2 lac,
+1738925,25,male,married/widowed,1,own,3,unskilled - resident,4 years,7 years,,1,Low,0,2 lac
+1546660,29,male,single,2,own,2,unskilled - resident,0 year,1 year,,0,,2 lac,
+1363538,31,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,0
+1173975,38,male,single,2,own,3,unskilled - resident,1 year,4 years,,1,Low,,0
+1527645,48,female,divorced/separated/married,1,own,4,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,,0,2 lac
+1269451,32,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1635930,27,female,divorced/separated/married,1,own,4,unskilled - resident,7 years,,,1,Low,,0
+1443537,28,male,married/widowed,1,own,2,management / self-employed / highly qualified employee / officer,,0 year,,1,Low,0,2 lac
+1366526,32,male,divorced/separated,1,own,3,skilled employee / official,0 year,1 year,,1,Low,,0
+1492566,34,male,single,1,for free,1,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1212992,28,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Very high,,0
+1449219,36,female,divorced/separated/married,1,own,3,skilled employee / official,1 year,4 years,,1,Low,,
+1113782,39,male,single,1,own,4,unskilled - resident,4 years,7 years,,0,Low,,0
+1127014,49,male,single,1,rent,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1730202,34,female,divorced/separated/married,2,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Very high,,
+1831874,31,male,single,1,own,2,skilled employee / official,7 years,,,1,Low,2 lac,
+1839770,28,male,single,2,own,4,skilled employee / official,7 years,,,1,Low,0,2 lac
+1397184,75,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,0
+1893558,30,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Medium,,
+1392044,24,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,0 year,1 year,,1,Medium,0,2 lac
+1658501,24,female,divorced/separated/married,1,rent,4,unskilled - resident,1 year,4 years,,1,Medium,,
+1749671,23,male,single,2,rent,4,skilled employee / official,7 years,,,1,Low,,0
+1497135,44,male,divorced/separated,1,rent,4,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1742101,23,female,divorced/separated/married,1,own,4,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1674059,24,female,divorced/separated/married,1,rent,2,skilled employee / official,1 year,4 years,,1,,,0
+1507864,28,male,single,1,own,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1191977,31,male,divorced/separated,1,own,2,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1572898,24,female,divorced/separated/married,1,for free,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1193436,26,female,divorced/separated/married,1,rent,4,unskilled - resident,4 years,7 years,,1,Low,,0
+1182073,25,male,married/widowed,1,rent,3,skilled employee / official,0 year,1 year,,1,High,0,2 lac
+1424965,33,male,single,1,own,1,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1608183,37,male,single,2,own,1,unskilled - resident,0 year,1 year,,1,Low,2 lac,
+1473941,43,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,
+1540515,23,male,single,1,own,4,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1318823,23,female,divorced/separated/married,1,rent,4,unemployed / unskilled - non-resident,,0 year,,1,High,0,2 lac
+1545574,34,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,Medium,,
+1408229,32,male,single,2,for free,3,skilled employee / official,7 years,,,1,Very high,0,2 lac
+1605868,23,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1176865,29,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,0,Low,0,2 lac
+1806619,38,male,single,1,own,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,,
+1273483,28,male,single,1,rent,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1754537,46,male,single,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,High,,
+1419059,23,male,single,1,own,2,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1141822,49,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1825588,26,male,single,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,
+1426103,28,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1227016,23,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1750981,61,male,single,1,for free,4,skilled employee / official,1 year,4 years,,1,,0,2 lac
+1805732,37,male,single,1,own,3,management / self-employed / highly qualified employee / officer,7 years,,,1,,2 lac,
+1144294,36,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,2 lac,
+1476733,21,male,married/widowed,1,rent,2,skilled employee / official,1 year,4 years,,1,Low,,
+1331656,25,male,single,1,own,1,unemployed / unskilled - non-resident,,0 year,,1,Low,,0
+1377901,36,male,single,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1213250,27,male,single,1,own,1,skilled employee / official,4 years,7 years,,1,Low,,
+1787350,22,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1488941,42,male,single,2,own,2,skilled employee / official,7 years,,,1,Low,,0
+1435055,40,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1471101,36,male,single,1,own,4,skilled employee / official,1 year,4 years,,1,,,
+1312020,33,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1511094,23,female,divorced/separated/married,1,rent,3,skilled employee / official,0 year,1 year,,1,Low,,
+1703409,63,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,,
+1663400,60,female,divorced/separated/married,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Medium,0,2 lac
+1632577,37,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1711334,34,male,married/widowed,1,own,3,skilled employee / official,,0 year,,1,Low,,
+1820644,36,male,single,1,for free,4,skilled employee / official,7 years,,,1,,,
+1633625,57,male,single,1,for free,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1493373,52,female,divorced/separated/married,1,own,4,unskilled - resident,1 year,4 years,,1,Medium,,
+1140091,39,male,single,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,0
+1530567,38,female,divorced/separated/married,1,for free,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1560648,25,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,,1,,,
+1835901,26,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,Low,2 lac,
+1446865,26,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,Medium,,
+1159806,25,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,Low,,
+1198484,21,female,divorced/separated/married,1,rent,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,,,
+1900089,40,male,single,1,own,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1466824,27,male,single,1,own,4,skilled employee / official,1 year,4 years,,1,High,0,2 lac
+1428226,27,female,divorced/separated/married,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,
+1590101,30,male,married/widowed,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,
+1655095,19,female,divorced/separated/married,1,rent,4,unskilled - resident,0 year,1 year,,1,Very high,0,2 lac
+1221103,39,male,single,2,for free,4,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1660809,31,female,divorced/separated/married,1,own,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1221118,31,male,single,1,own,3,management / self-employed / highly qualified employee / officer,,0 year,,1,Low,,
+1462188,32,male,single,1,rent,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,0,2 lac
+1461535,55,female,divorced/separated/married,1,for free,4,management / self-employed / highly qualified employee / officer,,0 year,,1,Low,,0
+1587786,46,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1565522,46,male,divorced/separated,1,rent,1,skilled employee / official,7 years,,,1,Low,0,2 lac
+1813841,43,female,divorced/separated/married,1,own,1,unskilled - resident,1 year,4 years,,1,Very high,,
+1393314,39,male,married/widowed,1,own,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1121764,28,male,married/widowed,1,own,4,skilled employee / official,1 year,4 years,,1,,0,2 lac
+1147492,27,male,single,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1174819,27,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,
+1623240,43,male,single,2,own,4,skilled employee / official,7 years,,,1,,0,2 lac
+1766191,22,male,married/widowed,1,own,1,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1437656,43,male,single,2,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,
+1225095,27,male,married/widowed,1,own,2,skilled employee / official,0 year,1 year,,0,Low,,0
+1755656,26,male,divorced/separated,1,own,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,High,,
+1143716,28,male,married/widowed,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,High,2 lac,
+1465874,20,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1661563,35,male,single,1,own,2,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,
+1238022,42,male,single,1,own,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,
+1276723,40,male,single,2,rent,2,unskilled - resident,1 year,4 years,,0,High,,
+1564344,35,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,,,0
+1774377,35,male,single,2,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1558926,33,male,single,2,own,1,unskilled - resident,0 year,1 year,,1,Low,,0
+1555430,23,female,divorced/separated/married,1,rent,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,0
+1529020,31,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,4 years,7 years,,1,High,,
+1291905,33,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,,0,2 lac
+1213257,20,female,divorced/separated/married,1,rent,3,skilled employee / official,4 years,7 years,,1,Very high,,
+1388888,30,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,,0,2 lac
+1186232,47,male,single,2,own,3,unskilled - resident,4 years,7 years,,1,Low,0,2 lac
+1358802,34,male,single,1,own,3,management / self-employed / highly qualified employee / officer,4 years,7 years,,1,Medium,,
+1703163,25,female,divorced/separated/married,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,,0,2 lac
+1581463,21,male,married/widowed,1,rent,3,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1412269,29,male,single,1,own,2,skilled employee / official,7 years,,,1,Low,,
+1787696,46,male,single,1,own,3,skilled employee / official,1 year,4 years,,1,Very high,,
+1657309,20,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,
+1817813,55,female,divorced/separated/married,2,for free,4,unemployed / unskilled - non-resident,,0 year,,1,Low,,0
+1534316,74,male,single,1,own,4,unskilled - resident,4 years,7 years,,1,Low,,
+1304185,29,male,single,1,own,3,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1714829,36,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,0
+1796503,33,male,divorced/separated,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1336695,25,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1879817,25,male,married/widowed,1,own,1,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,0,2 lac
+1779410,23,male,married/widowed,1,rent,4,unskilled - resident,4 years,7 years,,1,High,,
+1727640,37,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Very high,,
+1119602,65,male,single,1,own,4,unemployed / unskilled - non-resident,,0 year,,1,Low,,0
+1548375,26,female,divorced/separated/married,1,own,1,unemployed / unskilled - non-resident,0 year,1 year,,1,Low,2 lac,
+1515084,39,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1523394,30,female,divorced/separated/married,1,own,3,skilled employee / official,1 year,4 years,,1,Low,,0
+1327436,29,male,single,1,own,3,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1769463,41,male,single,2,own,4,unskilled - resident,7 years,,,1,Low,,
+1454649,30,female,divorced/separated/married,1,own,3,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1282543,41,female,divorced/separated/married,1,rent,4,unskilled - resident,7 years,,,1,,,
+1604148,34,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1461545,35,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1579121,55,female,divorced/separated/married,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,2 lac,
+1662555,61,male,married/widowed,1,own,3,skilled employee / official,1 year,4 years,,1,Very high,0,2 lac
+1451745,30,male,single,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,,,
+1590235,29,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,Low,,
+1610382,34,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,
+1611614,35,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1790490,31,male,single,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1396015,29,female,divorced/separated/married,1,own,1,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,,
+1140019,36,male,single,2,rent,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1751876,35,male,single,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1344543,27,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,0
+1486366,32,male,single,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1862524,37,male,single,2,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1794199,36,male,single,1,own,3,skilled employee / official,0 year,1 year,,1,Low,,0
+1114695,34,female,divorced/separated/married,1,rent,1,management / self-employed / highly qualified employee / officer,0 year,1 year,,1,Low,0,2 lac
+1252248,38,male,single,1,own,4,skilled employee / official,7 years,,,1,,0,2 lac
+1333603,34,male,single,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1253927,63,male,single,2,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1255808,29,female,divorced/separated/married,1,rent,2,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1777177,32,male,single,2,own,3,skilled employee / official,7 years,,,1,,,
+1347859,26,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1179829,35,male,single,1,own,3,unskilled - resident,4 years,7 years,Registered under the applicant's name,1,Low,,
+1584896,22,male,married/widowed,1,rent,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Medium,0,2 lac
+1165835,23,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1420000,28,male,single,1,own,3,unskilled - resident,1 year,4 years,,1,Low,,0
+1792340,36,male,single,2,own,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,,
+1154530,33,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1464283,26,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1643578,24,male,single,1,own,4,skilled employee / official,1 year,4 years,,1,High,,
+1724729,25,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,2 lac,
+1305749,39,male,single,1,own,4,unskilled - resident,4 years,7 years,,1,Medium,0,2 lac
+1640580,44,male,single,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1572070,23,female,divorced/separated/married,1,own,1,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1719894,26,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1179715,57,female,divorced/separated/married,1,rent,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Very high,,0
+1648432,30,female,divorced/separated/married,1,own,2,skilled employee / official,4 years,7 years,,1,Very high,,
+1809085,44,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,,
+1595096,47,male,single,1,own,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1280201,52,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1512766,62,female,divorced/separated/married,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1355440,35,male,single,1,rent,2,unskilled - resident,1 year,4 years,,0,Medium,,
+1237459,26,male,single,1,rent,3,skilled employee / official,1 year,4 years,,1,Low,,
+1874619,26,male,single,1,own,2,skilled employee / official,7 years,,,1,Low,,
+1867397,42,female,divorced/separated/married,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1797961,27,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,Medium,,
+1773539,38,male,single,1,own,4,skilled employee / official,7 years,,,1,,0,2 lac
+1518424,39,male,single,2,rent,2,unskilled - resident,1 year,4 years,,0,Low,,0
+1833845,20,male,married/widowed,1,own,4,skilled employee / official,1 year,4 years,,1,,,0
+1728313,29,male,single,1,rent,1,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Medium,0,2 lac
+1611295,40,male,single,1,own,3,skilled employee / official,4 years,7 years,,1,Low,,
+1680973,32,male,married/widowed,1,own,2,unskilled - resident,7 years,,,1,Low,0,2 lac
+1325678,28,male,divorced/separated,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Medium,2 lac,
+1566812,27,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,0
+1402031,42,male,single,2,for free,4,skilled employee / official,7 years,,,1,Low,,0
+1787792,49,male,divorced/separated,1,own,4,skilled employee / official,7 years,,,1,Medium,2 lac,
+1893730,38,male,single,2,own,4,skilled employee / official,0 year,1 year,,1,Medium,0,2 lac
+1391963,24,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1359833,27,male,single,1,own,4,unskilled - resident,1 year,4 years,,1,,,
+1860964,36,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,2 lac,
+1397210,34,male,single,2,own,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Medium,0,2 lac
+1300113,28,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1121978,45,male,single,1,own,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Medium,,
+1625109,26,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,0
+1591192,32,male,single,1,for free,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,
+1439117,26,male,single,1,rent,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,2 lac,
+1597948,20,male,married/widowed,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1436931,54,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,,,
+1359864,37,female,divorced/separated/married,1,own,3,skilled employee / official,4 years,7 years,,0,Low,,0
+1279507,40,male,single,2,own,4,unskilled - resident,0 year,1 year,,0,Low,,0
+1250900,23,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1672101,43,male,single,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,Medium,,0
+1541522,36,male,single,1,for free,4,skilled employee / official,7 years,,,1,,,
+1542760,44,male,single,1,for free,4,skilled employee / official,7 years,,,1,Low,,
+1312890,24,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1575976,53,male,single,2,for free,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1300737,23,female,divorced/separated/married,1,own,4,skilled employee / official,4 years,7 years,,1,Medium,,
+1579354,26,female,divorced/separated/married,2,own,4,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1165396,30,male,single,1,own,3,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1845999,31,female,divorced/separated/married,1,own,3,skilled employee / official,1 year,4 years,,1,Medium,,
+1836203,42,male,single,2,own,1,unskilled - resident,4 years,7 years,,1,Low,,
+1796884,31,male,divorced/separated,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1545916,41,male,single,2,own,4,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1666376,32,male,single,2,own,1,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1337077,28,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Medium,0,2 lac
+1670246,41,male,married/widowed,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,,
+1112826,26,male,married/widowed,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,,
+1321430,25,male,single,1,own,2,skilled employee / official,0 year,1 year,,1,,,
+1602400,33,male,divorced/separated,1,rent,1,skilled employee / official,0 year,1 year,,1,Low,2 lac,
+1381249,75,female,divorced/separated/married,1,own,3,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,,0
+1815409,37,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1762049,42,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,,1,Low,,0
+1776853,45,female,divorced/separated/married,1,own,1,unskilled - resident,0 year,1 year,,1,Low,2 lac,
+1234944,23,male,married/widowed,1,rent,1,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1185915,60,male,single,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1355416,31,male,single,1,own,4,skilled employee / official,7 years,,,1,,,0
+1736265,34,male,single,2,own,1,unskilled - resident,1 year,4 years,,1,Low,2 lac,
+1258426,61,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,,
+1836234,43,male,single,2,for free,2,skilled employee / official,,0 year,,1,Low,,0
+1296879,37,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1438110,32,male,single,2,own,1,skilled employee / official,4 years,7 years,,1,Low,,
+1667627,24,female,divorced/separated/married,1,own,4,unskilled - resident,1 year,4 years,,1,Low,,0
+1862061,35,male,single,1,for free,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,
+1164275,23,female,divorced/separated/married,1,own,4,skilled employee / official,4 years,7 years,,1,,,
+1863760,45,male,single,2,own,4,unskilled - resident,7 years,,,1,High,,
+1199639,34,male,married/widowed,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1774959,27,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,Medium,0,2 lac
+1388041,67,female,divorced/separated/married,1,own,4,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,0,2 lac
+1210884,22,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1365814,28,female,divorced/separated/married,1,own,3,skilled employee / official,0 year,1 year,,1,Medium,0,2 lac
+1115087,29,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1875951,27,male,single,1,own,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1243348,31,male,single,1,own,2,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1178393,49,male,single,2,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,0
+1500502,24,male,single,1,rent,4,unskilled - resident,4 years,7 years,,1,Low,,0
+1892811,29,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,2 lac,
+1441760,37,male,single,1,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,0,2 lac
+1738676,37,male,single,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,,0,2 lac
+1217305,23,female,divorced/separated/married,1,rent,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,0,2 lac
+1662684,36,male,divorced/separated,1,own,3,skilled employee / official,4 years,7 years,,1,Low,,0
+1586917,34,male,single,1,own,2,skilled employee / official,7 years,,,1,Very high,,
+1754897,41,male,single,2,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,0,2 lac
+1857539,31,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1463541,23,female,divorced/separated/married,1,rent,4,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1607360,38,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,
+1343586,26,female,divorced/separated/married,1,rent,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,,
+1109612,22,female,divorced/separated/married,1,own,4,unskilled - resident,1 year,4 years,,1,Low,,0
+1432750,27,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,0,2 lac
+1902302,24,female,divorced/separated/married,1,own,3,skilled employee / official,4 years,7 years,,1,Low,,
+1519801,27,female,divorced/separated/married,1,own,1,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1312718,33,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1554006,27,male,divorced/separated,1,own,4,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1492967,27,male,married/widowed,1,own,3,unskilled - resident,0 year,1 year,,1,Low,,
+1442676,30,male,single,1,own,3,skilled employee / official,7 years,,,1,Low,0,2 lac
+1378210,49,male,single,2,own,3,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1774767,26,female,divorced/separated/married,1,rent,2,skilled employee / official,1 year,4 years,,1,Low,,
+1635448,33,male,single,1,rent,1,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1143985,52,female,divorced/separated/married,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,,
+1670066,20,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1466670,36,male,single,2,rent,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1447929,21,male,single,1,own,1,unskilled - resident,1 year,4 years,,1,Low,,0
+1618937,47,male,married/widowed,1,own,3,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1873573,60,male,single,1,own,3,skilled employee / official,7 years,,,1,Low,,0
+1830977,58,female,divorced/separated/married,1,own,3,unskilled - resident,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1612355,42,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,0,2 lac
+1165234,36,female,divorced/separated/married,1,own,4,unskilled - resident,7 years,,,1,Very high,,
+1825343,20,female,divorced/separated/married,1,rent,4,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1307369,40,male,single,1,own,3,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,,0
+1403127,32,female,divorced/separated/married,1,own,1,unskilled - resident,0 year,1 year,,1,Medium,0,2 lac
+1852152,23,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1510937,36,male,single,1,own,4,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1354791,31,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,
+1841389,32,male,single,1,for free,2,skilled employee / official,1 year,4 years,,1,Low,,
+1854199,45,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1256236,30,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1503339,34,female,divorced/separated/married,1,for free,4,unskilled - resident,4 years,7 years,,1,Low,0,2 lac
+1500594,28,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,
+1462065,23,female,divorced/separated/married,1,own,2,skilled employee / official,0 year,1 year,,1,Low,2 lac,
+1474361,22,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,,0
+1764990,74,male,single,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,
+1621121,50,female,divorced/separated/married,1,for free,4,skilled employee / official,1 year,4 years,,1,Medium,0,2 lac
+1365958,33,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,
+1630681,45,male,single,2,for free,4,skilled employee / official,7 years,,,1,,,
+1448317,22,female,divorced/separated/married,1,own,3,skilled employee / official,,0 year,,1,Medium,,0
+1744762,48,female,divorced/separated/married,2,for free,4,unskilled - resident,7 years,,,1,Medium,2 lac,
+1655690,29,female,divorced/separated/married,1,own,2,skilled employee / official,0 year,1 year,,1,Very high,,0
+1210184,22,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,0,Low,,0
+1113231,22,female,divorced/separated/married,1,own,1,skilled employee / official,4 years,7 years,,1,Low,,
+1476817,48,male,single,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,,0,2 lac
+1143908,27,male,single,1,for free,2,management / self-employed / highly qualified employee / officer,1 year,4 years,,1,,0,2 lac
+1239641,37,male,single,2,rent,3,skilled employee / official,1 year,4 years,,1,Low,,0
+1826580,21,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,Medium,0,2 lac
+1826763,49,male,divorced/separated,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,
+1747933,27,male,single,1,own,3,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1257777,32,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1687945,38,male,divorced/separated,1,own,2,skilled employee / official,1 year,4 years,,1,,,
+1513000,22,female,divorced/separated/married,1,rent,1,skilled employee / official,0 year,1 year,,1,Low,,0
+1502591,65,male,single,1,for free,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1886102,35,male,single,1,own,2,skilled employee / official,7 years,,,1,,,
+1597354,41,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,2 lac,
+1391760,29,male,single,1,own,3,skilled employee / official,4 years,7 years,,1,Medium,0,2 lac
+1883131,36,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,,
+1679090,64,male,single,1,own,4,unskilled - resident,7 years,,,1,,,
+1784512,28,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1326708,44,male,single,1,own,3,skilled employee / official,1 year,4 years,,1,Low,,0
+1443796,23,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,,0,2 lac
+1862135,19,female,divorced/separated/married,1,rent,2,skilled employee / official,0 year,1 year,,1,Low,,
+1432788,25,female,divorced/separated/married,1,own,4,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1707666,47,male,single,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1349046,28,female,divorced/separated/married,1,own,1,skilled employee / official,4 years,7 years,,1,High,,
+1640552,21,male,single,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1532989,34,female,divorced/separated/married,2,own,3,skilled employee / official,0 year,1 year,,1,Low,,
+1300927,26,male,single,2,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1684799,27,female,divorced/separated/married,1,own,1,unemployed / unskilled - non-resident,,0 year,,1,Low,,0
+1736925,38,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,0,2 lac
+1156429,40,male,single,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Medium,,
+1495594,33,male,married/widowed,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1732994,32,male,married/widowed,1,own,1,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1532977,27,male,single,1,rent,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,,,
+1452733,32,male,divorced/separated,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1304536,26,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,High,,
+1892638,38,male,single,2,for free,3,skilled employee / official,4 years,7 years,,1,Low,2 lac,
+1175174,40,male,single,2,rent,4,unskilled - resident,1 year,4 years,,1,Low,,0
+1360939,50,male,single,1,for free,1,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1637887,37,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1126684,45,male,single,1,own,1,skilled employee / official,7 years,,,1,Low,,0
+1476071,42,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Medium,0,2 lac
+1764381,35,male,single,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1654707,22,male,single,1,for free,4,skilled employee / official,,0 year,,1,Low,,0
+1504819,41,male,single,2,own,4,unskilled - resident,7 years,,,1,Low,0,2 lac
+1680877,37,male,single,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,
+1439887,28,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1237671,41,male,single,1,own,1,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1352279,23,male,married/widowed,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,2 lac,
+1409197,23,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,,,0
+1448066,50,male,single,1,own,2,skilled employee / official,7 years,,,1,Low,,
+1337177,35,male,single,1,own,1,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1199661,50,female,divorced/separated/married,1,own,4,unskilled - resident,1 year,4 years,,1,Low,2 lac,
+1483329,27,male,single,1,own,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,
+1401525,34,male,single,2,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Very high,0,2 lac
+1869013,27,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,Low,,
+1611783,43,male,single,1,rent,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1837760,47,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,2 lac,
+1844813,27,male,single,1,own,3,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Medium,,
+1554792,31,male,single,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,,
+1771489,42,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1241112,24,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,High,,
+1770970,41,male,single,2,own,2,unskilled - resident,0 year,1 year,,1,High,,
+1373246,26,female,divorced/separated/married,1,rent,4,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,
+1509620,33,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1142576,24,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,Medium,0,2 lac
+1671068,64,male,single,1,rent,4,unskilled - resident,7 years,,,1,Low,,0
+1538199,26,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,
+1482554,56,female,divorced/separated/married,1,own,2,skilled employee / official,0 year,1 year,,1,Low,,
+1516876,37,male,single,1,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1586174,33,male,married/widowed,1,own,3,skilled employee / official,1 year,4 years,,1,Low,,
+1168229,47,male,married/widowed,1,for free,3,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,
+1441925,31,male,single,2,own,3,unskilled - resident,4 years,7 years,Registered under the applicant's name,1,Medium,0,2 lac
+1662345,34,male,single,2,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1649933,27,male,single,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,2 lac,
+1168468,30,male,single,1,for free,3,skilled employee / official,7 years,,,1,Medium,0,2 lac
+1875015,35,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Medium,,
+1273850,31,male,single,2,own,3,skilled employee / official,1 year,4 years,,1,Very high,,0
+1345875,25,male,divorced/separated,1,own,3,skilled employee / official,1 year,4 years,,1,Low,,0
+1774355,25,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,Medium,0,2 lac
+1626519,29,male,single,1,own,1,skilled employee / official,0 year,1 year,,1,Medium,0,2 lac
+1321826,44,male,single,2,own,3,unskilled - resident,0 year,1 year,,1,,,0
+1412577,28,male,single,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1514997,50,male,single,1,rent,4,skilled employee / official,1 year,4 years,,1,High,,
+1209193,29,male,single,1,own,3,skilled employee / official,4 years,7 years,,0,Low,0,2 lac
+1656838,38,female,divorced/separated/married,1,own,2,unemployed / unskilled - non-resident,,0 year,,1,Low,,
+1381175,24,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1430426,40,male,single,1,rent,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,2 lac,
+1776816,29,female,divorced/separated/married,1,rent,4,unskilled - resident,1 year,4 years,,1,High,,
+1178282,46,male,single,1,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1657898,47,female,divorced/separated/married,1,for free,2,skilled employee / official,7 years,,Registered under the applicant's name,1,Medium,2 lac,
+1629275,41,male,single,1,own,2,skilled employee / official,7 years,,,1,Medium,0,2 lac
+1846282,32,female,divorced/separated/married,2,own,1,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1607876,35,female,divorced/separated/married,1,for free,4,skilled employee / official,7 years,,,1,High,,
+1735719,24,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Medium,0,2 lac
+1516902,25,female,divorced/separated/married,1,rent,3,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1127273,25,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,,1,Low,0,2 lac
+1789670,37,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1215142,32,male,single,1,own,3,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,High,,
+1346719,35,female,divorced/separated/married,1,for free,4,skilled employee / official,7 years,,,1,Low,,0
+1280395,46,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,,
+1695246,25,male,single,1,own,4,unskilled - resident,1 year,4 years,,1,Low,,0
+1372926,27,male,single,1,own,2,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,0,2 lac
+1314021,63,male,single,1,own,4,skilled employee / official,7 years,,,1,,,
+1152616,40,male,single,2,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1849511,32,male,single,1,for free,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,
+1153145,31,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,2 lac,
+1532256,31,male,married/widowed,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Medium,0,2 lac
+1392809,34,male,single,1,own,2,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,2 lac,
+1619368,24,female,divorced/separated/married,2,rent,2,skilled employee / official,0 year,1 year,,1,Very high,0,2 lac
+1133947,24,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1169619,66,female,divorced/separated/married,1,own,3,unskilled - resident,1 year,4 years,,1,High,0,2 lac
+1215207,21,female,divorced/separated/married,1,rent,3,skilled employee / official,1 year,4 years,,1,Low,,
+1349113,41,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,Very high,,
+1188964,47,male,married/widowed,1,own,2,unskilled - resident,1 year,4 years,,1,High,,
+1695402,25,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1183707,59,female,divorced/separated/married,1,rent,3,skilled employee / official,7 years,,,1,Low,0,2 lac
+1216943,36,male,divorced/separated,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Very high,2 lac,
+1782832,33,male,single,1,own,2,skilled employee / official,0 year,1 year,,1,Low,0,2 lac
+1892474,21,male,single,2,rent,4,unskilled - resident,1 year,4 years,,1,Low,,0
+1652800,44,female,divorced/separated/married,1,own,2,unskilled - resident,4 years,7 years,,1,Low,0,2 lac
+1643428,28,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Very high,,
+1221330,37,female,divorced/separated/married,2,own,1,skilled employee / official,4 years,7 years,,1,Low,,
+1106688,29,female,divorced/separated/married,1,own,2,unemployed / unskilled - non-resident,0 year,1 year,,1,,0,2 lac
+1264018,23,female,divorced/separated/married,1,rent,4,management / self-employed / highly qualified employee / officer,1 year,4 years,,1,Low,0,2 lac
+1412879,35,male,single,2,own,4,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Medium,,0
+1165210,45,male,single,2,own,3,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,
+1399194,26,female,divorced/separated/married,1,rent,4,unskilled - resident,1 year,4 years,,1,Medium,0,2 lac
+1833657,32,male,single,1,own,3,skilled employee / official,4 years,7 years,,1,Medium,,0
+1292645,23,male,single,1,own,4,unskilled - resident,1 year,4 years,,1,Low,0,2 lac
+1536162,41,male,single,1,own,3,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1668971,22,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,,0
+1216844,30,male,single,1,own,4,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,,,0
+1601024,28,male,single,1,own,1,unskilled - resident,0 year,1 year,,1,Low,,0
+1391686,23,female,divorced/separated/married,1,rent,4,skilled employee / official,,0 year,,1,Low,,0
+1504217,37,female,divorced/separated/married,1,own,1,unskilled - resident,0 year,1 year,,1,Low,,0
+1800745,26,male,single,1,own,3,skilled employee / official,1 year,4 years,,1,,,
+1282922,33,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,
+1837579,49,female,divorced/separated/married,1,own,1,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1612689,23,female,divorced/separated/married,1,own,2,unskilled - resident,0 year,1 year,,1,Low,,0
+1746834,23,female,divorced/separated/married,1,rent,4,unskilled - resident,4 years,7 years,,1,Medium,0,2 lac
+1708009,25,female,divorced/separated/married,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,
+1331312,55,male,single,2,for free,4,skilled employee / official,7 years,,,1,Very high,,
+1621486,32,female,divorced/separated/married,1,rent,4,skilled employee / official,4 years,7 years,,1,,,0
+1868234,74,male,single,2,own,1,unemployed / unskilled - non-resident,1 year,4 years,,0,Low,2 lac,
+1358207,39,male,single,1,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,2 lac,
+1888759,31,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1239673,35,male,single,1,own,3,skilled employee / official,7 years,,,1,Low,,0
+1691986,59,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1298469,24,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1197388,24,male,single,1,own,3,unskilled - resident,1 year,4 years,,1,Low,,0
+1721124,30,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,,
+1462018,27,male,married/widowed,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,,
+1235848,40,male,married/widowed,1,own,3,unskilled - resident,7 years,,,1,Low,0,2 lac
+1714471,31,male,divorced/separated,1,own,4,unskilled - resident,0 year,1 year,,1,Low,,0
+1425297,31,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,,,
+1325035,28,male,single,1,rent,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1537731,63,male,single,1,own,4,unskilled - resident,7 years,,Registered under the applicant's name,1,Low,,
+1175864,26,female,divorced/separated/married,1,rent,4,skilled employee / official,7 years,,,1,,,0
+1278263,25,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1700305,36,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1730881,52,male,single,1,own,4,skilled employee / official,7 years,,,1,Medium,,
+1687239,66,male,single,1,for free,4,unemployed / unskilled - non-resident,,0 year,,1,High,2 lac,
+1291883,25,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,,,0
+1876616,37,male,single,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1888544,25,female,divorced/separated/married,1,own,1,skilled employee / official,4 years,7 years,,1,Low,,0
+1185509,38,male,single,1,own,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Very high,,
+1114818,67,female,divorced/separated/married,1,own,4,skilled employee / official,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1410684,25,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1129775,60,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Very high,,
+1113703,31,male,single,1,own,2,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1458796,23,female,divorced/separated/married,1,own,2,unskilled - resident,0 year,1 year,,1,Medium,0,2 lac
+1859102,60,male,divorced/separated,1,own,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,0,2 lac
+1105364,35,male,single,1,own,2,unskilled - resident,1 year,4 years,Registered under the applicant's name,1,Very high,0,2 lac
+1552102,40,male,single,1,own,4,skilled employee / official,7 years,,,1,High,,
+1768642,38,male,single,2,own,3,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1545112,50,male,single,1,for free,4,skilled employee / official,7 years,,,1,Low,0,2 lac
+1617637,27,male,single,1,own,3,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1569484,39,female,divorced/separated/married,2,own,4,skilled employee / official,7 years,,,1,Low,0,2 lac
+1372040,41,male,single,2,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,,,
+1889303,27,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,,,
+1414229,51,male,divorced/separated,1,for free,4,skilled employee / official,7 years,,,1,Low,2 lac,
+1251047,32,male,single,1,rent,3,skilled employee / official,7 years,,Registered under the applicant's name,1,High,,
+1755345,22,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Medium,,
+1228039,51,male,single,2,for free,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,0
+1675569,22,female,divorced/separated/married,1,rent,4,unskilled - resident,0 year,1 year,,1,Low,,
+1258889,54,male,married/widowed,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1873693,35,male,single,1,own,2,unemployed / unskilled - non-resident,0 year,1 year,,1,,0,2 lac
+1513715,54,male,single,2,for free,4,skilled employee / official,7 years,,,1,Low,,
+1609859,48,female,divorced/separated/married,1,rent,4,unskilled - resident,7 years,,Registered under the applicant's name,1,Low,0,2 lac
+1867602,24,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,,1,Low,,0
+1631439,35,male,single,1,own,4,skilled employee / official,7 years,,,1,,,
+1739359,24,female,divorced/separated/married,1,rent,2,unemployed / unskilled - non-resident,,0 year,,1,,0,2 lac
+1487299,24,male,single,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1713111,26,male,married/widowed,1,own,3,unskilled - resident,0 year,1 year,,0,Low,0,2 lac
+1207751,65,male,single,1,own,4,skilled employee / official,7 years,,,1,,,
+1848913,55,male,single,1,for free,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1366939,26,female,divorced/separated/married,1,rent,1,unemployed / unskilled - non-resident,0 year,1 year,,1,Low,0,2 lac
+1109861,26,male,married/widowed,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1662902,28,male,married/widowed,1,own,3,unskilled - resident,4 years,7 years,,1,Low,0,2 lac
+1434140,24,male,single,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1310244,54,male,single,1,own,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1455390,46,male,single,2,for free,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1436351,54,female,divorced/separated/married,1,rent,2,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1771663,62,male,divorced/separated,1,own,4,skilled employee / official,1 year,4 years,,1,High,,
+1646485,24,female,divorced/separated/married,1,rent,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1113817,43,male,divorced/separated,1,own,3,management / self-employed / highly qualified employee / officer,,0 year,,1,Low,,0
+1834364,26,male,married/widowed,1,own,3,skilled employee / official,1 year,4 years,,1,Low,,0
+1170672,27,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1300764,24,male,married/widowed,1,own,1,skilled employee / official,1 year,4 years,,1,Low,2 lac,
+1725992,41,male,single,2,own,2,skilled employee / official,7 years,,,1,Low,,0
+1864186,47,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,,0
+1596340,35,male,divorced/separated,1,own,2,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,,
+1226103,30,male,married/widowed,1,own,3,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1225173,33,female,divorced/separated/married,1,rent,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1632164,36,male,single,2,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1227188,47,male,single,1,for free,4,skilled employee / official,7 years,,,1,,,0
+1529209,38,male,single,2,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,0,2 lac
+1324304,44,male,single,2,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,High,,
+1331183,23,female,divorced/separated/married,1,rent,3,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1296225,29,male,single,1,rent,4,skilled employee / official,7 years,,,1,Low,,0
+1527920,42,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,0,2 lac
+1319710,25,female,divorced/separated/married,1,own,3,unskilled - resident,0 year,1 year,,1,Low,2 lac,
+1649832,48,male,single,1,own,4,skilled employee / official,1 year,4 years,,1,Low,,0
+1282362,21,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,,,
+1148187,23,female,divorced/separated/married,2,rent,3,unskilled - resident,0 year,1 year,,1,Low,,
+1609255,63,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1752833,46,male,married/widowed,1,own,3,skilled employee / official,7 years,,,1,Low,,
+1865216,29,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,,0
+1313830,28,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,
+1731499,23,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,,1,Low,,
+1209302,50,male,single,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,
+1714483,47,male,single,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1237910,35,male,single,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,0,2 lac
+1132898,68,male,single,1,rent,4,skilled employee / official,1 year,4 years,,1,,,
+1775542,28,male,married/widowed,1,own,2,skilled employee / official,0 year,1 year,,1,Low,,
+1591350,59,male,single,1,own,4,skilled employee / official,4 years,7 years,,1,Low,,0
+1398582,57,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,,0
+1596230,33,male,married/widowed,1,rent,2,skilled employee / official,1 year,4 years,,0,Low,,0
+1785162,43,male,single,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,
+1157193,35,male,single,1,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1192570,32,male,single,2,for free,4,unskilled - resident,4 years,7 years,,1,Low,,0
+1710864,45,male,single,2,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1566750,33,male,married/widowed,1,own,3,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Medium,,
+1902547,40,female,divorced/separated/married,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,
+1759209,28,male,single,1,for free,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1808244,29,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1201646,26,male,single,2,rent,2,skilled employee / official,1 year,4 years,,0,Medium,,
+1607767,27,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Very high,,
+1330120,28,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1326318,35,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1374670,32,male,single,2,own,2,unskilled - resident,0 year,1 year,Registered under the applicant's name,1,Very high,,
+1524976,25,male,single,1,rent,2,unskilled - resident,1 year,4 years,,1,Low,,
+1883700,20,female,divorced/separated/married,1,rent,4,skilled employee / official,1 year,4 years,,1,High,,
+1269924,27,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,Low,,0
+1597065,42,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,
+1324619,37,male,single,1,own,2,skilled employee / official,7 years,,,1,,,
+1215860,24,female,divorced/separated/married,1,rent,4,skilled employee / official,7 years,,,1,Low,,0
+1425802,40,female,divorced/separated/married,1,own,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,High,,
+1777992,46,male,single,2,own,4,skilled employee / official,7 years,,,0,Low,2 lac,
+1881691,26,male,single,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Medium,,0
+1378093,24,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,,,
+1636229,29,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1578419,40,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,,1,Very high,0,2 lac
+1860396,36,male,single,1,for free,4,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1624943,28,male,single,1,own,2,skilled employee / official,7 years,,,1,Low,,
+1620731,27,male,single,1,for free,2,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1562605,36,male,single,1,own,3,skilled employee / official,4 years,7 years,,1,,,
+1465475,38,male,single,1,own,3,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,Low,,
+1321302,48,male,divorced/separated,1,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1396513,36,male,single,1,own,4,skilled employee / official,7 years,,,1,,0,2 lac
+1612911,65,female,divorced/separated/married,1,own,4,unemployed / unskilled - non-resident,,0 year,,1,Low,,
+1714860,43,male,divorced/separated,1,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,0,2 lac
+1566194,53,female,divorced/separated/married,1,own,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1851627,34,male,single,2,own,3,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,0,2 lac
+1207853,23,male,single,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1891556,34,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1295527,40,male,single,2,rent,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,,,
+1184172,43,male,single,2,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1121429,46,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,
+1163715,38,male,single,1,own,4,unskilled - resident,1 year,4 years,,0,Low,,0
+1851827,34,male,single,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,0,2 lac
+1175107,29,male,single,1,own,3,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1262341,31,male,single,2,own,2,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,,,
+1847909,28,female,divorced/separated/married,1,rent,4,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1627071,35,female,divorced/separated/married,1,own,2,skilled employee / official,4 years,7 years,,0,Very high,,
+1501276,33,female,divorced/separated/married,1,rent,4,unskilled - resident,4 years,7 years,,1,,,
+1300945,42,male,single,1,own,3,skilled employee / official,1 year,4 years,,1,Low,,0
+1467259,43,male,single,1,rent,4,skilled employee / official,7 years,,Registered under the applicant's name,1,Low,,0
+1621154,44,male,divorced/separated,1,own,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,,,
+1546272,42,male,single,1,for free,4,skilled employee / official,7 years,,,1,,,
+1223571,40,male,married/widowed,1,rent,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,,,
+1344883,36,male,single,1,own,1,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1894721,20,male,single,2,rent,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1839877,24,male,single,1,own,2,unskilled - resident,4 years,7 years,,0,,,0
+1792973,27,male,married/widowed,1,own,2,skilled employee / official,1 year,4 years,,1,,0,2 lac
+1604138,46,female,divorced/separated/married,1,own,2,unskilled - resident,0 year,1 year,,1,Low,,
+1165411,33,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,,0,2 lac
+1142707,34,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,,1,Low,,
+1511482,25,female,divorced/separated/married,1,own,4,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1506652,25,female,divorced/separated/married,1,own,4,skilled employee / official,7 years,,,1,,0,2 lac
+1690613,28,male,divorced/separated,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,Very high,,
+1341536,31,male,single,1,rent,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1181133,32,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,0,Low,0,2 lac
+1620525,32,male,single,2,own,2,skilled employee / official,1 year,4 years,,1,Medium,,
+1316293,68,male,single,1,own,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1214474,33,male,divorced/separated,1,own,1,skilled employee / official,,0 year,,1,Medium,,0
+1656780,39,male,single,1,rent,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,0
+1620879,28,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,,1,Low,,
+1277992,37,male,single,1,own,1,management / self-employed / highly qualified employee / officer,4 years,7 years,Registered under the applicant's name,1,High,,
+1718184,22,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1875017,30,male,single,2,rent,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,0,2 lac
+1348796,55,male,divorced/separated,1,own,1,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1853451,46,male,single,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,,0
+1561011,21,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,Low,,0
+1461746,39,male,single,2,for free,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1708241,58,male,single,1,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1697111,43,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1629759,24,male,single,1,own,1,unskilled - resident,0 year,1 year,,0,Low,,0
+1797093,22,female,divorced/separated/married,1,own,2,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1484251,30,male,single,1,own,1,skilled employee / official,1 year,4 years,,1,Low,,
+1224220,42,male,single,2,own,4,skilled employee / official,7 years,,Registered under the applicant's name,1,High,,
+1631343,23,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,Low,,0
+1379089,30,male,single,1,own,3,management / self-employed / highly qualified employee / officer,0 year,1 year,,1,Medium,0,2 lac
+1566487,28,female,divorced/separated/married,1,own,2,unskilled - resident,1 year,4 years,,1,Low,2 lac,
+1324370,30,male,married/widowed,1,rent,3,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,Low,0,2 lac
+1597372,42,male,single,1,for free,4,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1230532,46,male,single,2,own,4,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,,,
+1277957,45,male,single,2,own,3,management / self-employed / highly qualified employee / officer,0 year,1 year,Registered under the applicant's name,1,,,
+1233898,31,male,single,2,own,2,unskilled - resident,1 year,4 years,,0,Low,,
+1903505,31,male,single,1,own,2,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,
+1838598,42,male,single,2,own,1,unskilled - resident,4 years,7 years,,1,Low,,
+1420837,46,female,divorced/separated/married,1,rent,1,skilled employee / official,0 year,1 year,,1,Low,,0
+1106411,30,female,divorced/separated/married,1,own,1,skilled employee / official,0 year,1 year,,1,High,0,2 lac
+1855489,30,male,single,2,for free,4,skilled employee / official,0 year,1 year,Registered under the applicant's name,1,High,,0
+1830446,38,male,single,1,own,4,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,,,
+1441977,43,male,married/widowed,2,own,1,unskilled - resident,0 year,1 year,,1,Low,,
+1856513,31,male,single,1,own,4,skilled employee / official,7 years,,,1,Medium,,
+1406906,40,male,married/widowed,2,own,3,unemployed / unskilled - non-resident,,0 year,Registered under the applicant's name,1,Low,0,2 lac
+1484297,24,male,single,1,own,1,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,Low,,0
+1740610,28,female,divorced/separated/married,1,rent,4,skilled employee / official,0 year,1 year,,1,High,0,2 lac
+1297322,26,female,divorced/separated/married,1,own,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,
+1794786,29,female,divorced/separated/married,1,own,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1843702,57,female,divorced/separated/married,1,rent,4,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Very high,,0
+1853266,49,male,single,1,own,4,unskilled - resident,7 years,,,1,,2 lac,
+1584434,37,male,single,1,own,4,unskilled - resident,7 years,,,1,Low,0,2 lac
+1622389,45,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1601048,30,male,single,1,for free,4,skilled employee / official,7 years,,,1,Medium,0,2 lac
+1210748,30,male,married/widowed,1,rent,2,skilled employee / official,7 years,,,1,Low,,
+1584674,47,male,divorced/separated,1,own,4,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1773509,29,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,,,
+1315873,35,male,single,1,own,2,skilled employee / official,7 years,,Registered under the applicant's name,1,High,,
+1659170,22,male,married/widowed,1,own,1,unskilled - resident,0 year,1 year,,1,Low,0,2 lac
+1161027,26,female,divorced/separated/married,1,own,1,skilled employee / official,1 year,4 years,,1,,0,2 lac
+1666331,23,male,single,1,own,2,unskilled - resident,1 year,4 years,,1,High,0,2 lac
+1853070,54,female,divorced/separated/married,1,rent,2,management / self-employed / highly qualified employee / officer,7 years,,Registered under the applicant's name,1,Low,,
+1355404,29,male,married/widowed,1,rent,4,skilled employee / official,4 years,7 years,Registered under the applicant's name,1,,,
+1655259,40,male,single,2,own,2,unskilled - resident,1 year,4 years,,1,Low,,0
+1662480,22,male,single,1,own,2,skilled employee / official,1 year,4 years,,1,Medium,0,2 lac
+1637827,43,male,single,2,own,4,unskilled - resident,1 year,4 years,,1,Low,,
+1107910,29,female,divorced/separated/married,1,rent,4,unemployed / unskilled - non-resident,,0 year,,1,Low,,0
+1286651,36,male,single,1,rent,4,skilled employee / official,7 years,,,1,Low,,0
+1386565,33,female,divorced/separated/married,1,own,2,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,
+1782237,57,female,divorced/separated/married,1,own,3,unskilled - resident,1 year,4 years,,1,High,2 lac,
+1755205,64,female,divorced/separated/married,1,own,3,skilled employee / official,1 year,4 years,,1,Low,0,2 lac
+1570934,42,male,single,1,own,2,skilled employee / official,7 years,,,1,,0,2 lac
+1825579,47,male,single,2,own,4,unskilled - resident,7 years,,,1,Low,,
+1705740,25,male,married/widowed,1,rent,2,skilled employee / official,1 year,4 years,,1,Medium,0,2 lac
+1466304,49,male,single,1,own,2,skilled employee / official,4 years,7 years,,1,Low,0,2 lac
+1880388,33,male,single,1,rent,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,
+1782965,28,female,divorced/separated/married,1,own,1,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Medium,2 lac,
+1775563,26,male,single,2,own,2,skilled employee / official,1 year,4 years,,1,Low,,0
+1355517,30,male,single,1,own,2,unskilled - resident,4 years,7 years,,1,Low,,
+1490831,25,female,divorced/separated/married,1,rent,3,skilled employee / official,1 year,4 years,,1,Low,,0
+1902571,33,male,divorced/separated,1,own,1,skilled employee / official,0 year,1 year,,1,Low,2 lac,
+1555553,64,female,divorced/separated/married,1,own,4,skilled employee / official,,0 year,,1,Medium,,
+1633096,29,male,single,1,for free,2,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,0
+1866309,48,male,single,1,own,2,unskilled - resident,7 years,,,1,Low,0,2 lac
+1354034,37,male,single,2,own,1,unskilled - resident,0 year,1 year,,1,,,
+1365267,34,male,single,2,own,4,unskilled - resident,7 years,,,1,Medium,,
+1237705,23,male,married/widowed,1,rent,4,unskilled - resident,4 years,7 years,,1,,,0
+1609685,30,male,single,1,own,3,management / self-employed / highly qualified employee / officer,,0 year,Registered under the applicant's name,1,Low,,0
+1615010,50,male,single,1,own,3,skilled employee / official,7 years,,Registered under the applicant's name,1,,,
+1880194,31,female,divorced/separated/married,1,own,4,unskilled - resident,4 years,7 years,,1,Low,,
+1114064,40,male,divorced/separated,1,own,4,management / self-employed / highly qualified employee / officer,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1758046,38,male,single,1,own,4,skilled employee / official,7 years,,,1,Low,,
+1824545,23,male,single,1,for free,4,skilled employee / official,1 year,4 years,Registered under the applicant's name,1,Low,,0
+1660770,27,male,single,1,own,4,skilled employee / official,,0 year,,1,Medium,0,2 lac
